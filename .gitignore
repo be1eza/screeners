@@ -1,0 +1,7 @@
+# Obsidian local state — never in the write path, never source of truth
+.obsidian/workspace*
+.obsidian/cache
+.trash/
+
+# OS cruft
+.DS_Store
