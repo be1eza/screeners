@@ -8,7 +8,7 @@
 "FLY","NASD","Firefly Aerospace Inc","Industrials","Aerospace & Defense",3563.91,21.70,0.70%,14172,7125.38,0.04,-16.15%,-31.91%,-40.73%,-28.71%,-3.00%,,6.35%,-40.29%,-20.35%,44.80%,28.25%,7.22%,20.38%,13.94%
 "HONA","NASD","Honeywell Aerospace Inc","Industrials","Aerospace & Defense",65594.16,207.00,-0.25%,159,3068.77,0.00,-7.73%,,,,-30.42%,,5.43%,,,,,33.09%,0.70%,
 "MDA","NYSE","MDA Space Ltd","Industrials","Aerospace & Defense",4703.97,33.90,0.04%,243,1334.61,0.00,-12.33%,-9.04%,1.08%,54.45%,74.74%,17.84%,5.32%,-6.78%,-9.52%,38.31%,8.56%,84.01%,70.33%,1.09%
-"SPCX","NASD","Space Exploration Technologies Corp","Industrials","Aerospace & Defense",1822614.01,137.38,0.95%,495107,144919.51,0.07,-7.36%,-14.65%,,,-8.41%,,4.97%,,,,,66.92%,0.03%,17.23%
+"SPCX","NASD","Space Exploration Technologies Corp","Industrials","Aerospace & Defense",1821756.87,137.31,0.91%,495173,144919.51,0.07,-7.41%,-14.69%,,,-8.46%,,4.97%,,,,,66.92%,0.03%,17.23%
 "YSS","NYSE","York Space Systems Inc","Industrials","Aerospace & Defense",2755.41,20.97,-1.36%,65,2098.78,0.00,-0.14%,-24.27%,-39.15%,,-44.82%,,10.29%,-15.13%,,,,104.38%,40.32%,9.74%
 "VGNT","NYSE","Versigent Plc","Consumer Cyclical","Auto Parts",2810.22,39.64,0.00%,0,1596.76,0.00,-0.40%,-17.83%,29.88%,,32.13%,,4.23%,-23.26%,,,-1.11%,54.49%,6.05%,5.74%
 "PBLS","NASD","Parabilis Medicines Inc","Healthcare","Biotechnology",3680.37,31.15,0.00%,0,1069.13,0.00,2.64%,2.77%,,,-6.60%,,8.71%,,,,,102.46%,28.18%,3.11%
@@ -17,7 +17,7 @@
 "MIAX","NYSE","Miami International Holdings Inc","Financial","Capital Markets",3997.37,41.30,0.00%,0,1874.23,0.00,-5.54%,0.07%,-3.71%,-2.43%,-6.94%,,5.33%,-11.15%,678.45%,13.03%,3.48%,21.24%,56.96%,8.79%
 "KLAR","NYSE","Klarna Group plc","Financial","Credit Services",7461.15,19.76,0.68%,6655,5609.04,0.02,3.86%,21.78%,38.60%,-35.41%,-31.64%,,4.39%,126.20%,95.07%,44.37%,,0.81%,23.01%,21.92%
 "FPS","NYSE","Forgent Power Solutions Inc","Industrials","Electrical Equipment & Parts",13501.41,42.33,2.78%,3319,6927.44,0.01,-6.54%,-28.30%,28.14%,,62.79%,,6.00%,,298.01%,115.99%,,114.40%,36.92%,7.13%
-"VSNT","NASD","Versant Media Group Inc","Communication Services","Entertainment",4970.25,35.22,1.21%,1454,2037.00,0.01,-2.17%,-13.10%,-14.41%,3.86%,-21.73%,,3.38%,-25.75%,-20.39%,-1.17%,9.15%,483.06%,82.72%,2.71%
+"VSNT","NASD","Versant Media Group Inc","Communication Services","Entertainment",4967.43,35.20,1.15%,1855,2037.00,0.02,-2.22%,-13.15%,-14.46%,3.80%,-21.78%,,3.38%,-25.75%,-20.39%,-1.17%,9.15%,483.06%,82.72%,2.71%
 "HTFL","NASD","Heartflow Inc","Healthcare","Health Information Services",2198.28,25.49,0.00%,0,1499.23,0.00,-6.60%,-16.89%,-7.07%,-23.08%,-12.56%,,6.57%,69.66%,19.77%,41.34%,,17.53%,67.61%,8.12%
 "MBGL","NYSE","Mobility Global Inc","Technology","Information Technology Services",5958.33,20.21,-1.75%,320,18943.47,0.00,-6.00%,,,,-19.32%,,6.57%,,,,,5.53%,0.00%,
 "ARX","NYSE","Accelerant Holdings","Financial","Insurance Brokers",2764.61,12.67,0.00%,0,1694.52,0.00,-5.94%,-3.43%,-1.25%,-19.81%,-22.51%,,6.65%,-21.01%,-179.05%,82.58%,8.98%,4.06%,25.86%,12.32%
@@ -30,7 +30,7 @@
 "EQPT","NASD","Equipmentshare.Com Inc","Industrials","Rental & Leasing Services",4386.19,17.35,0.06%,2462,2483.85,0.02,4.64%,-12.90%,-14.78%,,-39.12%,,8.48%,4665.70%,-206.93%,-36.32%,,54.14%,29.15%,19.15%
 "SUNB","NYSE","Sunbelt Rentals Holdings Inc","Industrials","Rental & Leasing Services",29674.86,72.42,0.00%,0,3701.08,0.00,4.04%,-11.08%,4.59%,,-0.79%,,3.78%,8.25%,,,12.07%,8.22%,74.55%,2.90%
 "Q","NYSE","Qnity Electronics Inc","Technology","Semiconductor Equipment & Materials",30144.84,144.00,1.64%,1508,1966.58,0.02,1.29%,-4.41%,8.46%,58.40%,76.36%,,4.64%,24.08%,-22.08%,17.62%,16.62%,1.16%,77.14%,2.36%
-"CBRS","NASD","Cerebras Systems Inc","Technology","Semiconductors",56390.72,203.40,-0.20%,27399,8091.26,0.07,11.93%,-4.95%,,,-41.89%,,9.56%,,44.27%,94.35%,,35.10%,4.35%,16.83%
+"CBRS","NASD","Cerebras Systems Inc","Technology","Semiconductors",56196.65,202.70,-0.54%,27409,8091.26,0.07,11.55%,-5.28%,,,-42.09%,,9.56%,,44.27%,94.35%,,35.10%,4.35%,16.83%
 "BSP","NASD","Bending Spoons S.p.A","Technology","Software - Application",20475.88,33.00,1.54%,2799,5191.45,0.01,-3.59%,,,,6.45%,,8.57%,,,,,157.50%,10.81%,
 "FIG","NYSE","Figma Inc","Technology","Software - Application",12731.24,24.09,0.98%,132607,21215.59,0.13,11.19%,29.96%,30.81%,-33.80%,-35.52%,,10.13%,-39.30%,-1719.05%,46.12%,0.78%,18.83%,28.97%,42.40%
 "OCTV","NASD","Octave Intelligence Plc","Technology","Software - Application",4426.54,16.49,-0.78%,1317,1581.99,0.02,-2.54%,-6.31%,,,-41.11%,,2.68%,-9.00%,,,0.53%,8.87%,0.12%,0.35%
