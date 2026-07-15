@@ -51,8 +51,10 @@ the CSV export endpoint + `c=` columns + `f`/`t`/`o` + token (n8n credential).
 - `o` = sort order. A screener uses `f` OR `t`, not both.
 - `c` = optional column override. Omitted → uniform 25-col company set. Present → verbatim.
   `c: ""` = pending (not runnable). Used only by the ETF basket (Group Themes) — see below.
-- `watchlist` = optional boolean, default on. `false` → snapshot-only (no watchlist).
-  Used only by the ETF basket (Group Themes); it's an analysis feed, not a ticker list.
+- `watchlist` + `aggregate` = two output gates, **present in every object** (`true`/`false`/`null`).
+  `watchlist: false` → snapshot-only, no ticker list (ETF basket Group Themes). `aggregate: false`
+  → daily watchlist only, no rolling aggregate (daily-observation feeds: 5 Days Up/Down 20%, 52w Highs). `aggregate:
+  null` → not applicable (set when `watchlist: false`). Always explicit, not absent-defaulted.
 
 ## Export schema — 25 columns (SETTLED)
 Uniform for all screeners via `c=` (not `v=`; `v=151` is only the view mode):
