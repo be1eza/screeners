@@ -70,7 +70,8 @@ Snapshots store all 25. Watchlists use only Ticker + Exchange.
 overrides `c=` with an ETF set — Ticker, Exchange, Price, Change, Volume, Avg Vol, Rel Vol,
 Perf (W/M/Q/HY/YTD/Y), Sector/Theme, Net Flows % (1M/3M/YTD/1Y). Net Flows is the rotation
 signal (per-day unrecoverable → must capture). Snapshot schema is thus per-screener, read
-from the CSV header row. `c=1,65,66,67,63,64,42,43,44,45,47,46,104,113,115,117,119,129`. See repo.md.
+from the CSV header row. `c=1,129,65,66,67,63,64,42,43,44,45,47,46,104,113,115,117,119`. Exchange
+(`129`) sits 2nd so the header starts `"Ticker","Exchange"` — every `c` must begin `1,129`. See repo.md.
 
 ## Snapshot — `raw/<screener>/<year>/YYYY-MM-DD.csv` (immutable)
 **Native Finviz CSV, written as-is** — header row + data rows, no frontmatter/markdown.
