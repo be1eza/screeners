@@ -1,0 +1,33 @@
+---
+screener: "Hottest Stocks"
+reset: false
+---
+- [x] NYSE:KRMN
+- [x] NASDAQ:KTOS
+- [x] NASDAQ:LUNR
+- [x] NASDAQ:ASST
+- [x] NASDAQ:IREN
+- [x] NASDAQ:AAOI
+- [x] NASDAQ:ADTN
+- [x] AMEX:UMAC
+- [x] NASDAQ:VELO
+- [x] NYSE:AMPX
+- [x] NYSE:CDE
+- [x] NASDAQ:TEM
+- [x] NASDAQ:APLD
+- [x] NASDAQ:PENG
+- [x] NYSE:WRBY
+- [x] NYSE:MP
+- [x] NASDAQ:AMKR
+- [x] NASDAQ:ALAB
+- [x] NYSE:ASX
+- [x] NASDAQ:CBRS
+- [x] NASDAQ:FSLY
+- [x] NYSE:PCOR
+- [x] NASDAQ:TEAM
+- [x] NYSE:DOCN
+- [x] NYSE:IOT
+- [x] NASDAQ:NBIS
+- [x] NASDAQ:OKTA
+- [x] NASDAQ:TENB
+- [x] AMEX:UUUU
