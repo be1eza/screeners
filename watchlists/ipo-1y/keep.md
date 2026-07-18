@@ -1,0 +1,49 @@
+---
+screener: "IPO < 1Y"
+reset: false
+---
+- [x] NASDAQ:LFTO
+- [x] NYSE:AADX
+- [x] NASDAQ:ARXS
+- [x] NYSE:BETA
+- [x] NYSE:DPC
+- [x] NASDAQ:FLY
+- [x] NASDAQ:HONA
+- [x] NYSE:MDA
+- [x] NASDAQ:SPCX
+- [x] NYSE:YSS
+- [x] NYSE:VGNT
+- [x] NASDAQ:PBLS
+- [x] NYSE:MAIR
+- [x] NASDAQ:FIGR
+- [x] NYSE:MIAX
+- [x] NYSE:KLAR
+- [x] NYSE:FPS
+- [x] NASDAQ:VSNT
+- [x] NASDAQ:HTFL
+- [x] NYSE:ARX
+- [x] NYSE:FDXF
+- [x] NASDAQ:MDLN
+- [x] NYSE:WBI
+- [x] NYSE:MICC
+- [x] NYSE:JAN
+- [x] NASDAQ:EQPT
+- [x] NYSE:SUNB
+- [x] NYSE:Q
+- [x] NASDAQ:CBRS
+- [x] NASDAQ:BSP
+- [x] NYSE:FIG
+- [x] NASDAQ:NAVN
+- [x] NASDAQ:OCTV
+- [x] NASDAQ:PTRN
+- [x] NASDAQ:QNT
+- [x] NYSE:BLSH
+- [x] NYSE:MBGL
+- [x] NASDAQ:NTSK
+- [x] NASDAQ:PAYP
+- [x] NASDAQ:SOLS
+- [x] NASDAQ:INIO
+- [x] NASDAQ:XE
+- [x] NYSE:BOBS
+- [x] NASDAQ:FRVO
+- [x] NASDAQ:MWH
