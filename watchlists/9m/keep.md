@@ -1,6 +1,6 @@
 ---
 screener: "9M"
-reset: true
+reset: false
 ---
 - [x] NASDAQ:NVDA
 - [x] NASDAQ:GOOG
