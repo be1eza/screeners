@@ -1,24 +1,26 @@
 ---
 screener: "9M"
-reset: false
+reset: true
 ---
-- [x] NASDAQ:AAPL
-- [x] NYSE:PBR
-- [x] NYSE:VG
-- [x] NYSE:HPQ
-- [x] NYSE:PINS
-- [x] NYSE:FIG
-- [x] NYSE:FHN
-- [x] NYSE:PATH
-- [x] NYSE:ZETA
-- [x] NASDAQ:FSLY
-- [x] NASDAQ:LCID
-- [x] NYSE:WU
-- [x] NASDAQ:ATAI
-- [x] NASDAQ:SLS
-- [x] NYSE:COTY
-- [x] NASDAQ:IOVA
-- [x] NASDAQ:GT
-- [x] AMEX:BATL
-- [x] NASDAQ:JSPR
-- [x] NASDAQ:SDOT
+- [x] NASDAQ:NVDA
+- [x] NASDAQ:GOOG
+- [ ] NASDAQ:AAPL
+- [ ] NYSE:PBR
+- [ ] NYSE:VG
+- [ ] NYSE:HPQ
+- [ ] NYSE:PINS
+- [ ] NYSE:FIG
+- [ ] NYSE:FHN
+- [ ] NYSE:PATH
+- [ ] NYSE:ZETA
+- [ ] NASDAQ:FSLY
+- [ ] NASDAQ:LCID
+- [ ] NYSE:WU
+- [ ] NASDAQ:ATAI
+- [ ] NASDAQ:SLS
+- [ ] NYSE:COTY
+- [ ] NASDAQ:IOVA
+- [ ] NASDAQ:GT
+- [ ] AMEX:BATL
+- [ ] NASDAQ:JSPR
+- [ ] NASDAQ:SDOT
