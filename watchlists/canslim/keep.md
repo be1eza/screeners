@@ -1,0 +1,30 @@
+---
+screener: "CANSLIM"
+reset: false
+---
+- [x] NYSE:CVNA
+- [x] NYSE:BMNR
+- [x] NASDAQ:ASTS
+- [x] NYSE:ANET
+- [x] NASDAQ:AFRM
+- [x] NYSE:BE
+- [x] NYSE:RBLX
+- [x] NASDAQ:ROAD
+- [x] NASDAQ:TEM
+- [x] NASDAQ:ALHC
+- [x] NYSE:OSCR
+- [x] NYSE:RKT
+- [x] NASDAQ:ALM
+- [x] NYSE:COMP
+- [x] NYSE:BROS
+- [x] NASDAQ:CBRS
+- [x] NASDAQ:BRZE
+- [x] NASDAQ:DDOG
+- [x] NYSE:FIG
+- [x] NASDAQ:NAVN
+- [x] NYSE:IOT
+- [x] NASDAQ:NBIS
+- [x] NASDAQ:NTSK
+- [x] NASDAQ:PLTR
+- [x] NASDAQ:RELY
+- [x] NYSE:ZETA
