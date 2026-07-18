@@ -1,0 +1,39 @@
+---
+screener: "6-Month Mover Exceeding 100%"
+reset: false
+---
+- [x] NYSE:EVC
+- [x] NASDAQ:AAOI
+- [x] NYSE:HPE
+- [x] NASDAQ:LITE
+- [x] NASDAQ:VIAV
+- [x] NYSE:DELL
+- [x] NASDAQ:SNDK
+- [x] NASDAQ:STX
+- [x] NASDAQ:WDC
+- [x] NASDAQ:TWST
+- [x] NASDAQ:FCEL
+- [x] NYSE:MEI
+- [x] NASDAQ:TXG
+- [x] NASDAQ:PENG
+- [x] NASDAQ:SHAZ
+- [x] NASDAQ:ACHC
+- [x] NASDAQ:AEHR
+- [x] NASDAQ:AXTI
+- [x] NASDAQ:ICHR
+- [x] NASDAQ:UCTT
+- [x] NASDAQ:AMD
+- [x] NASDAQ:ARM
+- [x] NYSE:ASX
+- [x] NASDAQ:MRVL
+- [x] NASDAQ:MU
+- [x] NASDAQ:MXL
+- [x] NASDAQ:SIMO
+- [x] NYSE:UMC
+- [x] NYSE:VSH
+- [x] NASDAQ:DDOG
+- [x] NASDAQ:FSLY
+- [x] NASDAQ:PTRN
+- [x] NASDAQ:BAND
+- [x] NASDAQ:BLZE
+- [x] NYSE:DOCN
