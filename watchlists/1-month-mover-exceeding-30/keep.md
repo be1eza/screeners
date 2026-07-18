@@ -1,0 +1,34 @@
+---
+screener: "1-Month Mover Exceeding 30%"
+reset: false
+---
+- [x] NASDAQ:ADPT
+- [x] NASDAQ:CDNA
+- [x] NASDAQ:NEO
+- [x] NASDAQ:PSNL
+- [x] NYSE:WNC
+- [x] NASDAQ:MLKN
+- [x] NASDAQ:TXG
+- [x] NASDAQ:ODD
+- [x] NASDAQ:BWIN
+- [x] NASDAQ:GRPN
+- [x] NASDAQ:ACHC
+- [x] NYSE:PBF
+- [x] NYSE:BRBR
+- [x] NASDAQ:CCXI
+- [x] NYSE:ALIT
+- [x] NASDAQ:CHYM
+- [x] NYSE:FIG
+- [x] NASDAQ:NAVN
+- [x] NYSE:NIQ
+- [x] NASDAQ:PTRN
+- [x] NASDAQ:BAND
+- [x] NASDAQ:BLZE
+- [x] NASDAQ:NTSK
+- [x] NASDAQ:QLYS
+- [x] NASDAQ:RPD
+- [x] NYSE:S
+- [x] NASDAQ:TENB
+- [x] NASDAQ:VRNS
+- [x] NYSE:MAN
+- [x] NYSE:NSP
