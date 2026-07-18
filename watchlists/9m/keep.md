@@ -1,0 +1,24 @@
+---
+screener: "9M"
+reset: false
+---
+- [x] NASDAQ:AAPL
+- [x] NYSE:PBR
+- [x] NYSE:VG
+- [x] NYSE:HPQ
+- [x] NYSE:PINS
+- [x] NYSE:FIG
+- [x] NYSE:FHN
+- [x] NYSE:PATH
+- [x] NYSE:ZETA
+- [x] NASDAQ:FSLY
+- [x] NASDAQ:LCID
+- [x] NYSE:WU
+- [x] NASDAQ:ATAI
+- [x] NASDAQ:SLS
+- [x] NYSE:COTY
+- [x] NASDAQ:IOVA
+- [x] NASDAQ:GT
+- [x] AMEX:BATL
+- [x] NASDAQ:JSPR
+- [x] NASDAQ:SDOT
