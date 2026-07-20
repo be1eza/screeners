@@ -32,3 +32,13 @@ reset: false
 - [x] NASDAQ:VRNS
 - [x] NYSE:MAN
 - [x] NYSE:NSP
+- [x] NASDAQ:EVER
+- [x] NASDAQ:BBNX
+- [x] NYSE:GWRE
+- [x] NYSE:HUBS
+- [x] NASDAQ:INTA
+- [x] NYSE:KVYO
+- [x] NASDAQ:FIVN
+- [x] NASDAQ:OKTA
+- [x] NASDAQ:PRGS
+- [x] NYSE:RH
