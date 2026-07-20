@@ -11,3 +11,4 @@ reset: false
 - [x] NASDAQ:NTSK
 - [x] NASDAQ:RPD
 - [x] NYSE:MAN
+- [x] NASDAQ:BWIN
