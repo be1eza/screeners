@@ -37,3 +37,5 @@ reset: false
 - [x] NASDAQ:BAND
 - [x] NASDAQ:BLZE
 - [x] NYSE:DOCN
+- [x] NYSE:PBF
+- [x] NASDAQ:INTC
