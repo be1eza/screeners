@@ -65,3 +65,6 @@ reset: false
 - [x] NYSE:NSP
 - [x] NYSE:RHI
 - [x] NYSE:RXO
+- [x] NASDAQ:SNDK
+- [x] NYSE:PBF
+- [x] NASDAQ:GTLB
