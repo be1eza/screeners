@@ -28,3 +28,15 @@ reset: false
 - [x] NASDAQ:PLTR
 - [x] NASDAQ:RELY
 - [x] NYSE:ZETA
+- [x] NASDAQ:FLY
+- [x] NASDAQ:LUNR
+- [x] NYSE:PL
+- [x] NASDAQ:HUT
+- [x] NASDAQ:AAOI
+- [x] NASDAQ:GH
+- [x] NYSE:VRT
+- [x] NASDAQ:APLD
+- [x] NASDAQ:ALAB
+- [x] NASDAQ:AMD
+- [x] NASDAQ:BTDR
+- [x] NASDAQ:CRWV
