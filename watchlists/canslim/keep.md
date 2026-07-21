@@ -40,3 +40,16 @@ reset: false
 - [x] NASDAQ:AMD
 - [x] NASDAQ:BTDR
 - [x] NASDAQ:CRWV
+- [x] NYSE:KRMN
+- [x] NASDAQ:RKLB
+- [x] NYSE:IONQ
+- [x] NASDAQ:SMCI
+- [x] NASDAQ:SOFI
+- [x] NYSE:RSI
+- [x] NYSE:CDE
+- [x] NASDAQ:SSRM
+- [x] NYSE:HNGE
+- [x] NYSE:MP
+- [x] NYSE:HL
+- [x] NASDAQ:PTRN
+- [x] NASDAQ:AVPT
