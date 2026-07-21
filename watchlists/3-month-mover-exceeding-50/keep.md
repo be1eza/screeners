@@ -68,3 +68,9 @@ reset: false
 - [x] NASDAQ:SNDK
 - [x] NYSE:PBF
 - [x] NASDAQ:GTLB
+- [x] NASDAQ:STX
+- [x] NASDAQ:FLEX
+- [x] NASDAQ:AIP
+- [x] NASDAQ:INTC
+- [x] NYSE:VSH
+- [x] NYSE:DOCN
