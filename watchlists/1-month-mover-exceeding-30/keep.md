@@ -42,3 +42,6 @@ reset: false
 - [x] NASDAQ:OKTA
 - [x] NASDAQ:PRGS
 - [x] NYSE:RH
+- [x] NYSE:MAX
+- [x] NYSE:CBZ
+- [x] NYSE:RHI
