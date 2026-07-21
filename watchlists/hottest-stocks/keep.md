@@ -31,3 +31,5 @@ reset: false
 - [x] NASDAQ:OKTA
 - [x] NASDAQ:TENB
 - [x] AMEX:UUUU
+- [x] NASDAQ:ALHC
+- [x] NYSE:BROS
