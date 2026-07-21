@@ -39,3 +39,5 @@ reset: false
 - [x] NYSE:DOCN
 - [x] NYSE:PBF
 - [x] NASDAQ:INTC
+- [x] NASDAQ:LQDA
+- [x] NASDAQ:BRUN
