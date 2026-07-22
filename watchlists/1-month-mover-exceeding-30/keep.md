@@ -45,3 +45,6 @@ reset: false
 - [x] NYSE:MAX
 - [x] NYSE:CBZ
 - [x] NYSE:RHI
+- [x] NASDAQ:VITL
+- [x] NASDAQ:QDEL
+- [x] NYSE:VG
