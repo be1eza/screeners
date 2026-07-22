@@ -74,3 +74,9 @@ reset: false
 - [x] NASDAQ:INTC
 - [x] NYSE:VSH
 - [x] NYSE:DOCN
+- [x] NASDAQ:CRSR
+- [x] NASDAQ:VCYT
+- [x] NASDAQ:STRL
+- [x] NYSE:WNC
+- [x] NASDAQ:CYRX
+- [x] NASDAQ:SHLS
