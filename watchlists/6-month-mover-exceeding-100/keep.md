@@ -41,3 +41,7 @@ reset: false
 - [x] NASDAQ:INTC
 - [x] NASDAQ:LQDA
 - [x] NASDAQ:BRUN
+- [x] NASDAQ:EXTR
+- [x] NASDAQ:STRL
+- [x] NASDAQ:AIP
+- [x] NASDAQ:NBIS
