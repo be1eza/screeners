@@ -67,3 +67,17 @@ reset: false
 - [x] NASDAQ:GREE
 - [x] NASDAQ:OMH
 - [x] NASDAQ:JZXN
+- [x] NASDAQ:AVGO
+- [x] NASDAQ:AMD
+- [x] NYSE:ET
+- [x] NASDAQ:EXC
+- [x] NYSE:ITUB
+- [x] NYSE:EQT
+- [x] NYSE:DOW
+- [x] NYSE:KOS
+- [x] NASDAQ:BLFS
+- [x] NASDAQ:PN
+- [x] NASDAQ:KSCP
+- [x] AMEX:ATCH
+- [x] NASDAQ:ZCMD
+- [x] NASDAQ:KUST
