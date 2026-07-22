@@ -8,3 +8,4 @@ reset: false
 - [x] NASDAQ:ELVA
 - [x] NASDAQ:FWRD
 - [x] NASDAQ:AEHR
+- [x] NASDAQ:CIFR
