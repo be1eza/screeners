@@ -53,3 +53,7 @@ reset: false
 - [x] NYSE:HL
 - [x] NASDAQ:PTRN
 - [x] NASDAQ:AVPT
+- [x] NASDAQ:LQDA
+- [x] NYSE:EGO
+- [x] NYSE:AS
+- [x] NASDAQ:FLYW
