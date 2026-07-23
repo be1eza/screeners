@@ -12,3 +12,4 @@ reset: false
 - [x] NASDAQ:RPD
 - [x] NYSE:MAN
 - [x] NASDAQ:BWIN
+- [x] NASDAQ:TXG
