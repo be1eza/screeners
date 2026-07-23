@@ -9,3 +9,15 @@ reset: false
 - [x] NASDAQ:FWRD
 - [x] NASDAQ:AEHR
 - [x] NASDAQ:CIFR
+- [x] NASDAQ:CLSK
+- [x] NASDAQ:HUT
+- [x] NASDAQ:RIOT
+- [x] NASDAQ:QMCO
+- [x] NASDAQ:SMCI
+- [x] NASDAQ:STX
+- [x] AMEX:UMAC
+- [x] NASDAQ:FCEL
+- [x] NASDAQ:NVCR
+- [x] NASDAQ:CBRS
+- [x] NASDAQ:MXL
+- [x] NASDAQ:NBIS
