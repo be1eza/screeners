@@ -57,3 +57,4 @@ reset: false
 - [x] NYSE:EGO
 - [x] NYSE:AS
 - [x] NASDAQ:FLYW
+- [x] NYSE:ARIS
