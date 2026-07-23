@@ -47,3 +47,4 @@ reset: false
 - [x] NYSE:BOBS
 - [x] NASDAQ:FRVO
 - [x] NASDAQ:MWH
+- [x] NYSE:HAWK
