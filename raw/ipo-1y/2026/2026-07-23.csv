@@ -1,0 +1,45 @@
+"Ticker","Exchange","Company","Sector","Industry","Market Cap","Price","Change","Volume","Average Volume","Relative Volume","Performance (Week)","Performance (Month)","Performance (Quarter)","Performance (Half Year)","Performance (YTD)","Performance (Year)","Volatility (Week)","EPS Growth This Year","EPS Growth Quarter Over Quarter","Sales Growth Quarter Over Quarter","EPS Growth Next 5 Years","Institutional Transactions","Institutional Ownership","Short Float"
+"LFTO","NASD","Liftoff Mobile Inc","Communication Services","Advertising Agencies",3705.86,22.26,-0.36%,503525,1267.61,0.40,-1.77%,-12.36%,,,-11.31%,,5.71%,,1177.16%,37.12%,,5.67%,0.02%,5.89%
+"AADX","NYSE","Applied Aerospace & Defense Inc","Industrials","Aerospace & Defense",3261.21,19.10,10.47%,1387869,1923.64,0.72,11.24%,4.09%,,,-7.95%,,8.72%,,-107.01%,21.01%,,0.04%,0.05%,8.21%
+"ARXS","NASD","Arxis Inc","Industrials","Aerospace & Defense",17500.78,42.65,1.35%,341061,1046.94,0.33,6.07%,-5.95%,17.62%,,12.24%,,7.06%,13.74%,,,42.24%,3.44%,0.00%,7.37%
+"BETA","NYSE","BETA Technologies Inc","Industrials","Aerospace & Defense",4238.99,18.37,0.22%,1157907,1610.93,0.72,4.14%,15.75%,13.05%,-29.78%,-34.88%,,8.41%,83.39%,-36.77%,128.38%,47.80%,1.96%,26.31%,5.54%
+"DPC","NYSE","DPC Holdings PLC","Industrials","Aerospace & Defense",7099.38,48.91,4.31%,825277,2722.31,0.30,6.23%,,,,11.16%,,7.77%,,,,,37.84%,30.92%,3.58%
+"FLY","NASD","Firefly Aerospace Inc","Industrials","Aerospace & Defense",3399.67,20.70,2.27%,2856061,6886.67,0.41,8.78%,-23.93%,-50.06%,-28.37%,-7.47%,,8.44%,-40.29%,-20.35%,44.80%,28.25%,8.98%,20.38%,15.29%
+"HAWK","NYSE","HawkEye 360 Inc","Industrials","Aerospace & Defense",2008.18,20.50,7.11%,1097387,1436.59,0.76,13.07%,-11.33%,,,-39.35%,,9.18%,-1166.67%,-469.59%,116.49%,,11.83%,10.75%,4.70%
+"HONA","NASD","Honeywell Aerospace Inc","Industrials","Aerospace & Defense",62067.82,195.87,-5.73%,3297391,2987.52,1.10,-6.00%,-20.05%,,,-34.16%,,5.33%,,,,,19.23%,1.55%,3.34%
+"MDA","NYSE","MDA Space Ltd","Industrials","Aerospace & Defense",5006.57,30.88,-2.31%,1084710,1435.93,0.76,-1.72%,-20.23%,-10.91%,14.66%,59.16%,1.85%,5.55%,-8.98%,-9.52%,38.31%,10.26%,64.05%,60.20%,0.93%
+"SPCX","NASD","Space Exploration Technologies Corp","Industrials","Aerospace & Defense",1568705.00,118.24,2.59%,74177370,128648.31,0.58,-9.82%,-24.26%,,,-21.17%,,6.67%,,,,,66.05%,0.07%,17.23%
+"YSS","NYSE","York Space Systems Inc","Industrials","Aerospace & Defense",2315.23,17.62,-0.56%,850132,1917.36,0.44,-4.91%,-38.31%,-59.45%,,-53.63%,,8.73%,-15.13%,,,,109.09%,40.30%,9.74%
+"VGNT","NYSE","Versigent Plc","Consumer Cyclical","Auto Parts",2912.31,41.08,-0.19%,1455628,1486.31,0.98,2.01%,-3.79%,17.94%,,36.93%,,4.88%,-23.14%,,,-0.94%,57.47%,6.82%,5.74%
+"MAIR","NYSE","Madison Air Solutions Corp","Industrials","Building Products & Equipment",18180.99,36.27,1.26%,1498801,2013.46,0.74,6.11%,-4.70%,4.71%,,13.34%,,4.39%,24.33%,,,19.56%,448.86%,1.85%,10.46%
+"FIGR","NASD","Figure Technology Solutions Inc","Financial","Capital Markets",6447.88,29.24,-2.66%,2492197,3810.36,0.65,-5.28%,4.50%,-18.03%,-57.46%,-28.40%,,7.11%,80.58%,582.72%,72.52%,41.34%,15.70%,38.07%,10.66%
+"MIAX","NYSE","Miami International Holdings Inc","Financial","Capital Markets",4033.18,41.67,-0.33%,1243505,1877.82,0.66,-2.84%,16.36%,-7.93%,-5.17%,-6.11%,,3.71%,-11.15%,678.45%,13.03%,3.48%,21.49%,57.10%,8.79%
+"KLAR","NYSE","Klarna Group plc","Financial","Credit Services",6636.63,17.58,-1.51%,2968476,5478.06,0.54,-8.53%,-0.96%,18.78%,-35.84%,-39.19%,,5.74%,126.33%,95.07%,44.37%,,0.79%,22.89%,21.92%
+"FPS","NYSE","Forgent Power Solutions Inc","Industrials","Electrical Equipment & Parts",12427.65,38.96,0.23%,4413243,7574.50,0.58,-1.57%,-34.30%,12.37%,,49.85%,,8.19%,,298.01%,115.99%,,113.39%,37.06%,6.74%
+"VSNT","NASD","Versant Media Group Inc","Communication Services","Entertainment",5018.23,35.56,-1.74%,1621729,1971.93,0.82,-2.17%,-6.12%,-11.81%,9.62%,-20.98%,,2.08%,-25.69%,-20.39%,-1.17%,9.19%,417.63%,82.68%,2.71%
+"HTFL","NASD","Heartflow Inc","Healthcare","Health Information Services",2122.39,24.61,1.57%,1066838,1477.63,0.72,-5.24%,-28.63%,-25.27%,-26.65%,-15.57%,,5.91%,69.67%,19.77%,41.34%,,17.39%,67.64%,8.12%
+"ARX","NYSE","Accelerant Holdings","Financial","Insurance Brokers",3004.63,13.77,2.30%,1015481,1689.59,0.60,-1.36%,4.87%,-13.40%,-6.45%,-15.78%,,6.17%,-21.01%,-179.05%,82.58%,8.98%,4.07%,25.87%,12.26%
+"FDXF","NYSE","FedEx Freight Holding Company Inc","Industrials","Integrated Freight & Logistics",23141.91,154.79,3.66%,1429332,2010.32,0.71,1.55%,-7.02%,,,14.66%,,4.84%,,,,,16.23%,1.68%,2.46%
+"MDLN","NASD","Medline Inc","Healthcare","Medical Instruments & Supplies",49434.09,37.63,1.21%,4738804,9693.05,0.49,-8.47%,6.60%,-20.21%,-13.09%,-10.40%,,4.63%,5.86%,-62.12%,10.66%,9.23%,8.90%,63.83%,6.72%
+"WBI","NYSE","WaterBridge Infrastructure LLC","Energy","Oil & Gas Equipment & Services",4387.63,35.54,-1.85%,623061,1201.21,0.52,1.92%,24.31%,27.70%,55.13%,77.61%,,4.05%,215.22%,513.11%,130.46%,,12.23%,115.59%,24.04%
+"MICC","NYSE","Magnum Ice Cream Company NV","Consumer Defensive","Packaged Foods",10861.49,17.74,-1.83%,824902,1513.42,0.55,-5.74%,5.97%,35.73%,7.78%,11.92%,,1.91%,-3.30%,-236.61%,3.31%,5.71%,8.36%,47.49%,2.59%
+"JAN","NYSE","Janus Living Inc","Real Estate","REIT - Residential",8817.11,30.60,-0.55%,1195432,1274.63,0.94,2.41%,13.17%,26.71%,,30.21%,,3.80%,353.85%,,,63.55%,34.73%,24.98%,6.60%
+"EQPT","NASD","Equipmentshare.Com Inc","Industrials","Rental & Leasing Services",4904.44,19.40,11.88%,6640621,2710.44,2.45,13.12%,-18.76%,-9.68%,,-31.93%,,8.44%,4665.70%,-206.93%,-36.32%,,71.57%,29.16%,19.15%
+"SUNB","NYSE","Sunbelt Rentals Holdings Inc","Industrials","Rental & Leasing Services",31744.16,77.47,6.94%,3368271,3619.26,0.93,5.26%,2.73%,10.78%,,6.12%,,3.09%,7.47%,,,11.79%,8.59%,74.09%,2.90%
+"Q","NYSE","Qnity Electronics Inc","Technology","Semiconductor Equipment & Materials",29026.97,138.66,-0.06%,1040294,2002.33,0.52,2.35%,-13.98%,-0.42%,35.01%,69.82%,,4.36%,25.09%,-22.08%,17.62%,16.62%,0.89%,77.38%,2.36%
+"CBRS","NASD","Cerebras Systems Inc","Technology","Semiconductors",60992.91,220.00,4.86%,8191424,7801.56,1.05,21.91%,-2.96%,,,-37.14%,,12.64%,,44.27%,94.35%,,46.18%,4.73%,16.90%
+"BSP","NASD","Bending Spoons S.p.A","Technology","Software - Application",21184.57,33.35,-1.27%,2051566,3814.97,0.54,3.83%,,,,7.58%,,7.51%,,,,,162.36%,10.56%,
+"FIG","NYSE","Figma Inc","Technology","Software - Application",10567.53,20.00,-6.85%,16359308,21194.10,0.77,-14.57%,5.32%,4.33%,-26.12%,-46.48%,,7.71%,-39.30%,-1719.05%,46.12%,0.78%,18.95%,29.15%,42.40%
+"NAVN","NASD","Navan Inc","Technology","Software - Application",5653.79,22.23,-5.57%,2134512,4424.93,0.48,-13.84%,4.46%,42.68%,56.66%,30.15%,,8.31%,,66.82%,39.86%,,0.21%,19.55%,10.98%
+"OCTV","NASD","Octave Intelligence Plc","Technology","Software - Application",4160.79,15.50,-1.34%,745182,1466.87,0.51,-8.18%,-5.83%,,,-44.64%,,2.80%,-9.00%,,,0.53%,9.47%,0.13%,0.35%
+"PTRN","NASD","Pattern Group Inc","Technology","Software - Application",4154.59,23.49,-5.32%,2192914,1938.95,1.13,-18.78%,9.31%,77.28%,75.82%,103.55%,,5.63%,140.97%,83.13%,43.18%,,4.72%,14.57%,10.32%
+"QNT","NASD","Quantinuum Inc","Technology","Software - Application",14734.40,56.46,2.88%,1366299,4075.67,0.34,-0.11%,-27.11%,,,-16.97%,,8.81%,,,,,2.15%,1.86%,15.44%
+"BLSH","NYSE","Bullish","Technology","Software - Infrastructure",3643.33,24.24,2.45%,1372122,1533.10,0.90,3.81%,-2.77%,-44.03%,-36.83%,-35.99%,,6.52%,87.84%,-153.34%,-35.42%,57.72%,0.51%,35.15%,24.38%
+"MBGL","NYSE","Mobility Global Inc","Technology","Software - Infrastructure",6102.80,20.70,1.57%,4398780,14426.73,0.30,0.19%,,,,-17.37%,,4.22%,,,,,2.00%,0.01%,
+"NTSK","NASD","Netskope Inc","Technology","Software - Infrastructure",4511.83,11.17,-6.57%,7403952,5646.21,1.31,-17.26%,17.21%,7.71%,-24.68%,-36.32%,,7.36%,62.65%,-40.26%,27.80%,,3.11%,35.72%,11.36%
+"PAYP","NASD","PayPay Corp ADR","Technology","Software - Infrastructure",10113.34,15.65,-1.57%,654134,1072.92,0.61,1.36%,7.12%,-23.32%,,-17.63%,,4.71%,-29.02%,,,6.53%,47.36%,3.94%,0.48%
+"SOLS","NASD","Solstice Advanced Materials Inc","Basic Materials","Specialty Chemicals",9670.32,60.88,0.35%,2703570,2781.20,0.97,4.53%,-28.10%,-25.15%,-4.02%,25.32%,,5.27%,79.05%,,,34.47%,1.65%,84.79%,3.53%
+"INIO","NASD","Innio NV","Industrials","Specialty Industrial Machinery",20992.50,27.99,2.02%,3096861,6568.42,0.47,-0.11%,-26.94%,,,-9.71%,,11.19%,,,,,0.64%,0.01%,7.83%
+"XE","NASD","X-Energy Inc","Industrials","Specialty Industrial Machinery",6469.35,15.92,-3.22%,3517260,6286.03,0.56,15.11%,-24.51%,,,-47.13%,,10.36%,-35.46%,,,3.91%,24.83%,0.77%,9.32%
+"FRVO","NASD","Fervo Energy Co","Utilities","Utilities - Renewable",7769.78,26.37,-5.48%,1846190,4120.51,0.45,14.11%,-19.99%,,,-26.75%,,6.74%,,,,,17.26%,4.58%,5.69%
+"MWH","NASD","SOLV Energy Inc","Utilities","Utilities - Renewable",6277.62,29.92,3.30%,1659985,1920.17,0.86,4.12%,-8.29%,-18.42%,,-0.25%,,5.04%,41.96%,,,34.50%,16.42%,13.49%,9.30%
