@@ -80,3 +80,5 @@ reset: false
 - [x] NYSE:WNC
 - [x] NASDAQ:CYRX
 - [x] NASDAQ:SHLS
+- [x] NYSE:HNGE
+- [x] NASDAQ:NVCR
