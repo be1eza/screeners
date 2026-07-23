@@ -81,3 +81,13 @@ reset: false
 - [x] AMEX:ATCH
 - [x] NASDAQ:ZCMD
 - [x] NASDAQ:KUST
+- [x] NYSE:JPM
+- [x] NYSE:RTX
+- [x] NYSE:NEE
+- [x] NASDAQ:CSX
+- [x] NYSE:AVTR
+- [x] NYSE:AMC
+- [x] NASDAQ:FCEL
+- [x] NASDAQ:LGCL
+- [x] NASDAQ:WLDS
+- [x] NASDAQ:CJMB
