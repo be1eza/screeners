@@ -48,3 +48,4 @@ reset: false
 - [x] NASDAQ:VITL
 - [x] NASDAQ:QDEL
 - [x] NYSE:VG
+- [x] NASDAQ:NVCR
