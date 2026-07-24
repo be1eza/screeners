@@ -49,3 +49,4 @@ reset: false
 - [x] NASDAQ:QDEL
 - [x] NYSE:VG
 - [x] NASDAQ:NVCR
+- [x] NYSE:RNG
