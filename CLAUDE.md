@@ -12,7 +12,7 @@ swappable without losing data.
 ## Layers
 - `config/` — the registry (`screeners.json`), the single source of screener names.
 - `raw/` — **immutable** dated snapshots. Never edited, never regenerated (Finviz only
-  gives today's screen). Full 25-col schema captured from day one.
+  gives today's screen). Full schema captured from day one (28-col company / 21-col basket).
 - `watchlists/` — the **only stateful layer**. Per-screener rolling aggregate + keep-list.
 - `wiki/` — DEFERRED. AI analysis (dated, disposable notes + append-only `log.md`).
 - `sources/` — DEFERRED. Capture-only trader/news knowledge base.
@@ -49,36 +49,51 @@ Array of `{name, f, t, o}` (+ optional `c`). **No full URLs, no token.** The wor
 the CSV export endpoint + `c=` columns + `f`/`t`/`o` + token (n8n credential).
 - `f` = filter string (from the Finviz preset). `t` = fixed basket (Group Themes-style).
 - `o` = sort order. A screener uses `f` OR `t`, not both.
-- `c` = optional column override. Omitted → uniform 25-col company set. Present → verbatim.
-  `c: ""` = pending (not runnable). Used only by the ETF basket (Group Themes) — see below.
+- `c` = optional column override. Omitted → uniform 28-col company set. Present → verbatim.
+  `c: ""` = pending (not runnable). Used only by the ETF baskets (Group Themes, Markets) — see below.
 - `watchlist` + `aggregate` = two output gates, **present in every object** (`true`/`false`/`null`).
-  `watchlist: false` → snapshot-only, no ticker list (ETF basket Group Themes). `aggregate: false`
+  `watchlist: false` → snapshot-only, no ticker list (the ETF baskets). `aggregate: false`
   → daily watchlist only, no rolling aggregate (daily-observation feeds: 5 Days Up/Down 20%, 52w Highs). `aggregate:
   null` → not applicable (set when `watchlist: false`). Always explicit, not absent-defaulted.
 
-## Export schema — 25 columns (SETTLED)
-Uniform for all screeners via `c=` (not `v=`; `v=151` is only the view mode):
+## Export schema — exactly TWO column sets (SETTLED)
+Set via `c=` (not `v=`; `v=151` is only the view mode). Both end in `52,53,54`.
+
+**Company — 28 cols**, uniform across all 13 company screeners:
 ```
-c=1,129,2,3,4,6,65,66,67,63,64,42,43,44,45,47,46,50,17,22,23,20,29,28,30
+c=1,129,2,3,4,6,65,66,67,63,64,42,43,44,45,47,46,50,17,22,23,20,29,28,30,52,53,54
 ```
 Ticker, Exchange, Company, Sector, Industry, Market Cap, Price, Change, Volume,
 Average Volume, Relative Volume, Perf (Week, Month, Quarter, Half-Year, YTD, Year),
 Volatility (Week), EPS Growth (This-Yr, QoQ, Next-5Y), Sales Growth QoQ,
-Institutional (Transactions, Ownership), Short Float.
+Institutional (Transactions, Ownership), Short Float, SMA 20/50/200.
 
-Snapshots store all 25. Watchlists use only Ticker + Exchange.
+**ETF basket — 21 cols**, identical for **all 3 baskets** (only the `t` ticker list differs).
+ETFs have no company fundamentals, so they override `c=`:
+```
+c=1,129,65,66,67,63,64,42,43,44,45,47,46,104,113,115,117,119,52,53,54
+```
+Ticker, Exchange, Price, Change, Volume, Avg Vol, Rel Vol, Perf (W/M/Q/HY/YTD/Y),
+Sector/Theme, Net Flows % (1M/3M/YTD/1Y), SMA 20/50/200. Net Flows is the rotation signal.
+The 3 baskets are a **rotation hierarchy**: `Markets` (asset class / index regime) →
+`Sectors` (all 11 GICS sectors) → `Group Themes` (narrow thematic). Same columns ⇒ directly comparable.
 
-**ETF basket exception (Group Themes):** ETFs have no company fundamentals, so this one
-overrides `c=` with an ETF set — Ticker, Exchange, Price, Change, Volume, Avg Vol, Rel Vol,
-Perf (W/M/Q/HY/YTD/Y), Sector/Theme, Net Flows % (1M/3M/YTD/1Y). Net Flows is the rotation
-signal (per-day unrecoverable → must capture). Snapshot schema is thus per-screener, read
-from the CSV header row. `c=1,129,65,66,67,63,64,42,43,44,45,47,46,104,113,115,117,119`. Exchange
-(`129`) sits 2nd so the header starts `"Ticker","Exchange"` — every `c` must begin `1,129`. See repo.md.
+Watchlists use only Ticker + Exchange.
+
+**Reading SMA cols:** `52,53,54` are the **% distance from price to that SMA**, not the SMA level
+(`-0.81%` = 0.81% below its 20-day). Trend position, not price.
+
+**Two rules that must hold:**
+- Exchange (`129`) sits 2nd in every set so the header starts `"Ticker","Exchange"` — **every `c`
+  must begin `1,129`** or header-validation silently rejects the snapshot.
+- **Extend a set at the tail; never reorder or remove.** Snapshots are immutable, so a set change
+  is permanent history. **Files before 2026-07-25 lack the SMA columns** (25-col company /
+  18-col Group Themes) — read by header *name* and tolerate absent tail columns; never assume width.
 
 ## Snapshot — `raw/<screener>/<year>/YYYY-MM-DD.csv` (immutable)
 **Native Finviz CSV, written as-is** — header row + data rows, no frontmatter/markdown.
 `.csv` (not `.md`) so Obsidian doesn't index thousands of files; year-partitioned likewise.
-Column set (25-col company default or ETF override) is identified by the CSV header row.
+Column set (28-col company default or 21-col ETF override) is identified by the CSV header row.
 Per-file status is **derived, not stored**: data rows = ok; header-only (0 rows) = empty
 (still success); no file = failed/skipped.
 
