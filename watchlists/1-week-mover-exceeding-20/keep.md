@@ -21,3 +21,4 @@ reset: false
 - [x] NASDAQ:CBRS
 - [x] NASDAQ:MXL
 - [x] NASDAQ:NBIS
+- [x] NYSE:CLF
