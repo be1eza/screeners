@@ -10,7 +10,8 @@ Durable state and curation live in the repo; n8n only orchestrates. The compute 
 swappable without losing data.
 
 ## Layers
-- `config/` — the registry (`screeners.json`), the single source of screener names.
+- `config/` — the registry (`screeners.json`, single source of screener names) +
+  `columns.json` (named export column sets). Both read from the repo at every run start.
 - `raw/` — **immutable** dated snapshots. Never edited, never regenerated (Finviz only
   gives today's screen). Full schema captured from day one (28-col company / 21-col basket).
 - `watchlists/` — the **only stateful layer**. Per-screener rolling aggregate + keep-list.
@@ -34,6 +35,7 @@ The signal is the **diff across dated snapshots** — a computation, not entity-
 /
 ├── CLAUDE.md                       # this file
 ├── config/screeners.json           # registry: [{name, f, t, o}]
+├── config/columns.json             # named column sets: {company, basket}
 ├── raw/<screener>/<year>/YYYY-MM-DD.csv  # immutable snapshot, native Finviz CSV as-is
 ├── watchlists/
 │   └── <screener>/
@@ -49,15 +51,18 @@ Array of `{name, f, t, o}` (+ optional `c`). **No full URLs, no token.** The wor
 the CSV export endpoint + `c=` columns + `f`/`t`/`o` + token (n8n credential).
 - `f` = filter string (from the Finviz preset). `t` = fixed basket (Group Themes-style).
 - `o` = sort order. A screener uses `f` OR `t`, not both.
-- `c` = optional column override. Omitted → uniform 28-col company set. Present → verbatim.
-  `c: ""` = pending (not runnable). Used only by the ETF baskets (Group Themes, Markets) — see below.
+- `c` = optional column-set **name**, resolved against `config/columns.json`. Omitted → the
+  `company` set (all 13 company screeners). `"basket"` → the ETF set (all 3 baskets). A
+  digit-leading string = a literal column list (escape hatch). `""` = pending (not runnable).
+  An unknown name **throws at load** — never silently passed through.
 - `watchlist` + `aggregate` = two output gates, **present in every object** (`true`/`false`/`null`).
   `watchlist: false` → snapshot-only, no ticker list (the ETF baskets). `aggregate: false`
   → daily watchlist only, no rolling aggregate (daily-observation feeds: 5 Days Up/Down 20%, 52w Highs). `aggregate:
   null` → not applicable (set when `watchlist: false`). Always explicit, not absent-defaulted.
 
 ## Export schema — exactly TWO column sets (SETTLED)
-Set via `c=` (not `v=`; `v=151` is only the view mode). Both end in `52,53,54`.
+Both defined in **`config/columns.json`** (not in the workflow) and applied via `c=`
+(not `v=`; `v=151` is only the view mode). Both end in `52,53,54`.
 
 **Company — 28 cols**, uniform across all 13 company screeners:
 ```
