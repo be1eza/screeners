@@ -18,3 +18,10 @@ reset: false
 - [x] NASDAQ:VELO
 - [x] NYSE:WOLF
 - [x] NASDAQ:WYFI
+- [x] NASDAQ:ASST
+- [x] NYSE:CRK
+- [x] NYSE:GRND
+- [x] NASDAQ:NNE
+- [x] NASDAQ:POET
+- [x] NASDAQ:SAIL
+- [x] NYSE:SECZ
