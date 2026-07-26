@@ -48,3 +48,4 @@ reset: false
 - [x] NASDAQ:FRVO
 - [x] NASDAQ:MWH
 - [x] NYSE:HAWK
+- [x] NYSE:EROC
