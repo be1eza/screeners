@@ -59,3 +59,4 @@ reset: false
 - [x] NASDAQ:FLYW
 - [x] NYSE:ARIS
 - [x] NYSE:QXO
+- [x] NYSE:KLAR
