@@ -114,8 +114,12 @@ expected, not missing data. Populated for Sectors and most of Group Themes.
 - Exchange (`129`) sits 2nd in every set so the header starts `"Ticker","Exchange"` — **every `c`
   must begin `1,129`** or header-validation silently rejects the snapshot.
 - **Extend a set at the tail; never reorder or remove.** Snapshots are immutable, so a set change
-  is permanent history. **Files before 2026-07-25 lack the SMA columns** (25-col company /
-  18-col Group Themes) — read by header *name* and tolerate absent tail columns; never assume width.
+  is permanent history. Finviz honours the requested `c` order, so the tail-append shows up as a
+  tail column — but **read by header *name* and tolerate absent tail columns; never assume width.**
+  **State as of 2026-07-27: no snapshot in `raw/` carries SMA yet.** Everything present is the
+  narrow set (25-col company / 18-col Group Themes), latest 2026-07-24; `markets/` and `sectors/`
+  have no history at all. The 28-col and 21-col sets first land on the first run of the
+  published-and-gated workflow, so expect the width to widen exactly once, mid-series.
 
 ## Snapshot — `raw/<screener>/<year>/YYYY-MM-DD.csv` (immutable)
 **Native Finviz CSV, written as-is** — header row + data rows, no frontmatter/markdown.
