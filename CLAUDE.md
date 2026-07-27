@@ -10,10 +10,13 @@ Durable state and curation live in the repo; n8n only orchestrates. The compute 
 swappable without losing data.
 
 ## Layers
-- `config/` — the registry (`screeners.json`, single source of screener names) +
-  `columns.json` (named export column sets). Both read from the repo at every run start.
+- `config/` — the registry (`screeners.json`, single source of screener names),
+  `columns.json` (named export column sets), and `market-calendar.json` (NYSE holidays).
+  All three read from the repo at every run start.
 - `raw/` — **immutable** dated snapshots. Never edited, never regenerated (Finviz only
   gives today's screen). Full schema captured from day one (28-col company / 21-col basket).
+  **Every date present is a real NYSE session** — collect is gated on the trading calendar, so
+  a missing weekday is a failed run, never a market closure. Dates are `America/New_York`.
 - `watchlists/` — the **only stateful layer**. Per-screener rolling aggregate + keep-list.
 - `wiki/` — DEFERRED. AI analysis (dated, disposable notes + append-only `log.md`).
 - `sources/` — DEFERRED. Capture-only trader/news knowledge base.
@@ -36,6 +39,7 @@ The signal is the **diff across dated snapshots** — a computation, not entity-
 ├── CLAUDE.md                       # this file
 ├── config/screeners.json           # registry: [{name, f, t, o}]
 ├── config/columns.json             # named column sets: {company, basket}
+├── config/market-calendar.json     # NYSE holidays + early closes; gates the scheduled run
 ├── raw/<screener>/<year>/YYYY-MM-DD.csv  # immutable snapshot, native Finviz CSV as-is
 ├── watchlists/
 │   └── <screener>/
@@ -87,6 +91,24 @@ Watchlists use only Ticker + Exchange.
 
 **Reading SMA cols:** `52,53,54` are the **% distance from price to that SMA**, not the SMA level
 (`-0.81%` = 0.81% below its 20-day). Trend position, not price.
+
+**Hard / soft fields — read them differently.** A snapshot is *as of fetch time*, not *as of date*:
+Finviz **restates** some fields. Two diffs establish the tiers — two same-day runs (2026-07-25)
+and, across the close, a Friday vs Sunday read of the same session (2026-07-24 vs 07-26):
+- **Hard (never observed to change; trust across dates):** Price, Change, Perf *, SMA *. In the
+  Fri-vs-Sun diff these were byte-identical on every row — which is *how we know* the two files
+  hold one session rather than two.
+- **Settles after the close:** Volume, Rel Volume. Stable within a same-day window but **changed on
+  28/28 rows** between the Friday and Sunday reads — late and consolidated prints keep landing after
+  16:00. So same-day volume is provisional; only the next day's read is final.
+- **Soft (estimated + restated indefinitely):** Net Flows % *, EPS/Sales Growth, Volatility (Week),
+  Institutional Transactions/Ownership, Short Float.
+So: don't treat one day's Net Flows as final, and treat day-over-day flow *deltas* as noisier than
+perf — two dates can hold readings taken at different revision states. Nothing is lost (git history
+keeps every version; HEAD holds the newest), but the timeseries of a soft field is not uniform.
+
+**`Sector/Theme` is empty for all Markets rows** (broad-index/crypto ETFs have no sector) —
+expected, not missing data. Populated for Sectors and most of Group Themes.
 
 **Two rules that must hold:**
 - Exchange (`129`) sits 2nd in every set so the header starts `"Ticker","Exchange"` — **every `c`
