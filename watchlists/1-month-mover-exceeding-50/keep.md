@@ -13,3 +13,4 @@ reset: false
 - [x] NYSE:MAN
 - [x] NASDAQ:BWIN
 - [x] NASDAQ:TXG
+- [x] NYSE:RNG
