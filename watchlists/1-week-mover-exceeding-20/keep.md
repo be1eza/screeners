@@ -22,3 +22,4 @@ reset: false
 - [x] NASDAQ:MXL
 - [x] NASDAQ:NBIS
 - [x] NYSE:CLF
+- [x] NYSE:RNG
