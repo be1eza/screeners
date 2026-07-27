@@ -45,3 +45,4 @@ reset: false
 - [x] NASDAQ:STRL
 - [x] NASDAQ:AIP
 - [x] NASDAQ:NBIS
+- [x] NYSE:RNG
