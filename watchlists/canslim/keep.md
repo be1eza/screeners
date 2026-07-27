@@ -58,3 +58,4 @@ reset: false
 - [x] NYSE:AS
 - [x] NASDAQ:FLYW
 - [x] NYSE:ARIS
+- [x] NYSE:QXO
