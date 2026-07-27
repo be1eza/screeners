@@ -50,7 +50,3 @@ reset: false
 - [x] NYSE:VG
 - [x] NASDAQ:NVCR
 - [x] NYSE:RNG
-- [x] NYSE:BMNR
-- [x] NASDAQ:BLKB
-- [x] NASDAQ:WDAY
-- [x] NASDAQ:WIX

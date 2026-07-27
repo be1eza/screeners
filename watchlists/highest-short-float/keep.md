@@ -25,5 +25,3 @@ reset: false
 - [x] NASDAQ:POET
 - [x] NASDAQ:SAIL
 - [x] NYSE:SECZ
-- [x] NYSE:LVWR
-- [x] NASDAQ:SHMD
