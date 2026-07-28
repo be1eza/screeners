@@ -52,3 +52,4 @@ reset: false
 - [x] NYSE:BB
 - [x] NASDAQ:IRDM
 - [x] NASDAQ:ALAB
+- [x] NASDAQ:CRSR
