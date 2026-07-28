@@ -25,3 +25,4 @@ reset: false
 - [x] NYSE:RNG
 - [x] NASDAQ:TXG
 - [x] NASDAQ:CNXC
+- [x] NYSE:EFOR
