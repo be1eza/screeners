@@ -52,3 +52,11 @@ reset: false
 - [x] NYSE:RNG
 - [x] NYSE:BMNR
 - [x] NASDAQ:WIX
+- [x] NASDAQ:NTRA
+- [x] NYSE:HIMS
+- [x] NYSE:RBLX
+- [x] NASDAQ:PRCH
+- [x] NYSE:COMP
+- [x] NYSE:MEI
+- [x] NASDAQ:ARQQ
+- [x] NYSE:ENOV

@@ -82,3 +82,16 @@ reset: false
 - [x] NASDAQ:SHLS
 - [x] NYSE:HNGE
 - [x] NASDAQ:NVCR
+- [x] NASDAQ:MGNI
+- [x] NASDAQ:OSS
+- [x] NYSE:HIMS
+- [x] NASDAQ:INOD
+- [x] NYSE:ASX
+- [x] NASDAQ:MRVL
+- [x] NASDAQ:SYNA
+- [x] NASDAQ:CCXI
+- [x] NASDAQ:TEAM
+- [x] NYSE:BB
+- [x] NYSE:NET
+- [x] NYSE:S
+- [x] NYSE:WOLF

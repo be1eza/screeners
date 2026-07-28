@@ -46,3 +46,9 @@ reset: false
 - [x] NASDAQ:AIP
 - [x] NASDAQ:NBIS
 - [x] NYSE:RNG
+- [x] NASDAQ:FLEX
+- [x] NYSE:AMN
+- [x] NASDAQ:TSEM
+- [x] NYSE:BB
+- [x] NASDAQ:IRDM
+- [x] NASDAQ:ALAB

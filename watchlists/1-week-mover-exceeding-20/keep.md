@@ -23,3 +23,5 @@ reset: false
 - [x] NASDAQ:NBIS
 - [x] NYSE:CLF
 - [x] NYSE:RNG
+- [x] NASDAQ:TXG
+- [x] NASDAQ:CNXC

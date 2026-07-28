@@ -14,3 +14,5 @@ reset: false
 - [x] NASDAQ:BWIN
 - [x] NASDAQ:TXG
 - [x] NYSE:RNG
+- [x] NASDAQ:CCXI
+- [x] NASDAQ:TENB

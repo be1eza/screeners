@@ -49,3 +49,4 @@ reset: false
 - [x] NASDAQ:MWH
 - [x] NYSE:HAWK
 - [x] NYSE:EROC
+- [x] NYSE:AVEX

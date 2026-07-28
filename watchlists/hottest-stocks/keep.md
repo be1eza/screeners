@@ -33,3 +33,6 @@ reset: false
 - [x] AMEX:UUUU
 - [x] NASDAQ:ALHC
 - [x] NYSE:BROS
+- [x] NASDAQ:SSRM
+- [x] NASDAQ:FROG
+- [x] NYSE:PATH

@@ -60,3 +60,7 @@ reset: false
 - [x] NYSE:ARIS
 - [x] NYSE:QXO
 - [x] NYSE:KLAR
+- [x] NYSE:ONON
+- [x] NYSE:SM
+- [x] NYSE:RBRK
+- [x] NYSE:AVEX
