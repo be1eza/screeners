@@ -36,3 +36,5 @@ reset: false
 - [x] NASDAQ:SSRM
 - [x] NASDAQ:FROG
 - [x] NYSE:PATH
+- [x] NYSE:FIGS
+- [x] NYSE:COMP
