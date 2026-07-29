@@ -38,3 +38,5 @@ reset: false
 - [x] NYSE:PATH
 - [x] NYSE:FIGS
 - [x] NYSE:COMP
+- [x] NYSE:TRU
+- [x] NASDAQ:CORZ
