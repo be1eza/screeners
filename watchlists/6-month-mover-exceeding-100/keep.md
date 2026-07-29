@@ -53,3 +53,4 @@ reset: false
 - [x] NASDAQ:IRDM
 - [x] NASDAQ:ALAB
 - [x] NASDAQ:CRSR
+- [x] NYSE:OSCR
