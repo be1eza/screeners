@@ -201,3 +201,14 @@ reset: false
 - [x] NASDAQ:OPK
 - [x] NASDAQ:DFNS
 - [x] NASDAQ:STKH
+- [x] NASDAQ:PDD
+- [x] NASDAQ:SBUX
+- [x] NASDAQ:ADBE
+- [x] NYSE:TEVA
+- [x] NASDAQ:GEHC
+- [x] NYSE:TU
+- [x] NYSE:STLA
+- [x] NYSE:BAX
+- [x] NYSE:TAL
+- [x] NYSE:CBZ
+- [x] NYSE:COUR
