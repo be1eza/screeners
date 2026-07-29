@@ -50,3 +50,4 @@ reset: false
 - [x] NYSE:HAWK
 - [x] NYSE:EROC
 - [x] NYSE:AVEX
+- [x] NASDAQ:MMED
