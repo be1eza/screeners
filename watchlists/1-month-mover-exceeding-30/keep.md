@@ -60,3 +60,6 @@ reset: false
 - [x] NYSE:MEI
 - [x] NASDAQ:ARQQ
 - [x] NYSE:ENOV
+- [x] NASDAQ:BLKB
+- [x] NASDAQ:TEAM
+- [x] NASDAQ:WDAY
