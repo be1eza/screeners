@@ -95,3 +95,6 @@ reset: false
 - [x] NYSE:NET
 - [x] NYSE:S
 - [x] NYSE:WOLF
+- [x] NASDAQ:KNSA
+- [x] NASDAQ:BBNX
+- [x] NYSE:BOBS
