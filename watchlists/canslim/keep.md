@@ -64,3 +64,6 @@ reset: false
 - [x] NYSE:SM
 - [x] NYSE:RBRK
 - [x] NYSE:AVEX
+- [x] NASDAQ:HSAI
+- [x] NYSE:APH
+- [x] NYSE:BRO
