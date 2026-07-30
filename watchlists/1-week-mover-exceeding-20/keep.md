@@ -42,3 +42,9 @@ reset: false
 - [x] NASDAQ:WDAY
 - [x] NASDAQ:APPN
 - [x] NASDAQ:WIX
+- [x] NYSE:DXC
+- [x] NASDAQ:PRCH
+- [x] NASDAQ:NAVN
+- [x] NASDAQ:FIVN
+- [x] NYSE:PATH
+- [x] NASDAQ:PN
