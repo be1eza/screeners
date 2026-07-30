@@ -63,3 +63,6 @@ reset: false
 - [x] NASDAQ:BLKB
 - [x] NASDAQ:TEAM
 - [x] NASDAQ:WDAY
+- [x] NYSE:EFOR
+- [x] NASDAQ:DJT
+- [x] NASDAQ:PN
