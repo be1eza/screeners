@@ -212,3 +212,12 @@ reset: false
 - [x] NYSE:TAL
 - [x] NYSE:CBZ
 - [x] NYSE:COUR
+- [x] NYSE:SHEL
+- [x] NYSE:BP
+- [x] NYSE:B
+- [x] AMEX:BTG
+- [x] NYSE:BHC
+- [x] NYSE:FMC
+- [x] NASDAQ:XRX
+- [x] NASDAQ:CYCU
+- [x] NASDAQ:GCTK
