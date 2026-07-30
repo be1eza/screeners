@@ -98,3 +98,9 @@ reset: false
 - [x] NASDAQ:KNSA
 - [x] NASDAQ:BBNX
 - [x] NYSE:BOBS
+- [x] NASDAQ:HUT
+- [x] NASDAQ:BLLN
+- [x] NASDAQ:IART
+- [x] NASDAQ:MMED
+- [x] NYSE:AMBQ
+- [x] NASDAQ:PN
