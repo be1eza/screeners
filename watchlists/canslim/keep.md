@@ -67,3 +67,5 @@ reset: false
 - [x] NASDAQ:HSAI
 - [x] NYSE:APH
 - [x] NYSE:BRO
+- [x] NASDAQ:SIMO
+- [x] NASDAQ:CORZ
