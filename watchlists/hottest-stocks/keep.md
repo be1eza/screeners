@@ -40,3 +40,4 @@ reset: false
 - [x] NYSE:COMP
 - [x] NYSE:TRU
 - [x] NASDAQ:CORZ
+- [x] NASDAQ:NEO
