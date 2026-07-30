@@ -16,3 +16,5 @@ reset: false
 - [x] NYSE:RNG
 - [x] NASDAQ:CCXI
 - [x] NASDAQ:TENB
+- [x] NYSE:EFOR
+- [x] NASDAQ:PN
