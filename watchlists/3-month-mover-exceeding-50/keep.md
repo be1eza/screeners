@@ -104,3 +104,4 @@ reset: false
 - [x] NASDAQ:MMED
 - [x] NYSE:AMBQ
 - [x] NASDAQ:PN
+- [x] NASDAQ:ARXS
