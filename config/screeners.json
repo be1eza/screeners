@@ -5,7 +5,8 @@
     "t": "",
     "o": "industry",
     "watchlist": true,
-    "aggregate": true
+    "aggregate": true,
+    "live": false
   },
   {
     "name": "1-Month Mover Exceeding 30%",
@@ -13,7 +14,8 @@
     "t": "",
     "o": "industry",
     "watchlist": true,
-    "aggregate": true
+    "aggregate": true,
+    "live": false
   },
   {
     "name": "1-Month Mover Exceeding 50%",
@@ -21,7 +23,8 @@
     "t": "",
     "o": "industry",
     "watchlist": true,
-    "aggregate": true
+    "aggregate": true,
+    "live": false
   },
   {
     "name": "3-Month Mover Exceeding 50%",
@@ -29,7 +32,8 @@
     "t": "",
     "o": "industry",
     "watchlist": true,
-    "aggregate": true
+    "aggregate": true,
+    "live": false
   },
   {
     "name": "6-Month Mover Exceeding 100%",
@@ -37,7 +41,8 @@
     "t": "",
     "o": "industry",
     "watchlist": true,
-    "aggregate": true
+    "aggregate": true,
+    "live": false
   },
   {
     "name": "CANSLIM",
@@ -45,7 +50,8 @@
     "t": "",
     "o": "industry",
     "watchlist": true,
-    "aggregate": true
+    "aggregate": true,
+    "live": false
   },
   {
     "name": "IPO < 1Y",
@@ -53,7 +59,8 @@
     "t": "",
     "o": "industry",
     "watchlist": true,
-    "aggregate": true
+    "aggregate": true,
+    "live": false
   },
   {
     "name": "Highest Short Float",
@@ -61,7 +68,8 @@
     "t": "",
     "o": "",
     "watchlist": true,
-    "aggregate": true
+    "aggregate": true,
+    "live": false
   },
   {
     "name": "Hottest Stocks",
@@ -69,7 +77,8 @@
     "t": "",
     "o": "industry",
     "watchlist": true,
-    "aggregate": true
+    "aggregate": true,
+    "live": false
   },
   {
     "name": "9M",
@@ -77,7 +86,8 @@
     "t": "",
     "o": "-marketcap",
     "watchlist": true,
-    "aggregate": true
+    "aggregate": true,
+    "live": false
   },
   {
     "name": "52w Highs",
@@ -85,7 +95,8 @@
     "t": "",
     "o": "industry",
     "watchlist": true,
-    "aggregate": false
+    "aggregate": false,
+    "live": true
   },
   {
     "name": "5 Days Up 20%",
@@ -93,7 +104,8 @@
     "t": "",
     "o": "-perf1w",
     "watchlist": true,
-    "aggregate": false
+    "aggregate": false,
+    "live": true
   },
   {
     "name": "5 Days Down 20%",
@@ -101,7 +113,8 @@
     "t": "",
     "o": "perf1w",
     "watchlist": true,
-    "aggregate": false
+    "aggregate": false,
+    "live": true
   },
   {
     "name": "Group Themes",
@@ -110,7 +123,8 @@
     "o": "-perf1w",
     "c": "basket",
     "watchlist": false,
-    "aggregate": null
+    "aggregate": null,
+    "live": true
   },
   {
     "name": "Sectors",
@@ -119,7 +133,8 @@
     "o": "ticker",
     "c": "basket",
     "watchlist": false,
-    "aggregate": null
+    "aggregate": null,
+    "live": true
   },
   {
     "name": "Markets",
@@ -128,6 +143,7 @@
     "o": "ticker",
     "c": "basket",
     "watchlist": false,
-    "aggregate": null
+    "aggregate": null,
+    "live": true
   }
 ]
