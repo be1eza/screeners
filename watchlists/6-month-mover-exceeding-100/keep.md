@@ -54,3 +54,6 @@ reset: false
 - [x] NASDAQ:ALAB
 - [x] NASDAQ:CRSR
 - [x] NYSE:OSCR
+- [x] NASDAQ:CDNA
+- [x] NASDAQ:NAVN
+- [x] NASDAQ:TH
