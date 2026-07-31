@@ -48,3 +48,7 @@ reset: false
 - [x] NASDAQ:FIVN
 - [x] NYSE:PATH
 - [x] NASDAQ:PN
+- [x] NASDAQ:ARXS
+- [x] NASDAQ:AMBA
+- [x] NASDAQ:AXTI
+- [x] NASDAQ:PGY
