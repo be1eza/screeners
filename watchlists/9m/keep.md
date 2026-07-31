@@ -221,3 +221,13 @@ reset: false
 - [x] NASDAQ:XRX
 - [x] NASDAQ:CYCU
 - [x] NASDAQ:GCTK
+- [x] NASDAQ:WMT
+- [x] NYSE:CVX
+- [x] NASDAQ:DXCM
+- [x] NYSE:BSBR
+- [x] NYSE:WY
+- [x] NYSE:BTE
+- [x] NYSE:CCO
+- [x] NYSE:SOC
+- [x] NASDAQ:FMFC
+- [x] NASDAQ:FCUV
