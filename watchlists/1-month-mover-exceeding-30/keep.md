@@ -66,3 +66,4 @@ reset: false
 - [x] NYSE:EFOR
 - [x] NASDAQ:DJT
 - [x] NASDAQ:PN
+- [x] AMEX:OBE
