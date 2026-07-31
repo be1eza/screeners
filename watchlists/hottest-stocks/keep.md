@@ -41,3 +41,4 @@ reset: false
 - [x] NYSE:TRU
 - [x] NASDAQ:CORZ
 - [x] NASDAQ:NEO
+- [x] NASDAQ:AXTI
