@@ -69,3 +69,8 @@ reset: false
 - [x] NYSE:BRO
 - [x] NASDAQ:SIMO
 - [x] NASDAQ:CORZ
+- [x] NYSE:JEF
+- [x] NASDAQ:AXTI
+- [x] NASDAQ:COHU
+- [x] NYSE:TSM
+- [x] NYSE:ESI
