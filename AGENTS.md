@@ -22,7 +22,7 @@ documented in the companion `be1eza/screeners-ui` repository at
   `columns.json` (named export column sets), and `market-calendar.json` (NYSE holidays).
   All three read from the repo at every run start.
 - `raw/` — **immutable** dated snapshots. Never edited, never regenerated (Finviz only
-  gives today's screen). Full schema captured from day one (28-col company / 21-col basket).
+  gives today's screen). Full schema captured from day one (29-col company / 22-col basket).
   **Every date present is a real NYSE session** — collect is gated on the trading calendar, so
   a missing weekday is a failed run, never a market closure. Dates are `America/New_York`.
 - `watchlists/` — the **only stateful layer**. Per-screener rolling aggregate + keep-list.
@@ -74,24 +74,31 @@ the CSV export endpoint + `c=` columns + `f`/`t`/`o` + token (n8n credential).
 
 ## Export schema — exactly TWO column sets (SETTLED)
 Both defined in **`config/columns.json`** (not in the workflow) and applied via `c=`
-(not `v=`; `v=151` is only the view mode). Both end in `52,53,54`.
+(not `v=`; `v=151` is only the view mode). Both end in `52,53,54,60`.
 
-**Company — 28 cols**, uniform across all 13 company screeners:
+**Company — 29 cols**, uniform across all 13 company screeners:
 ```
-c=1,129,2,3,4,6,65,66,67,63,64,42,43,44,45,47,46,50,17,22,23,20,29,28,30,52,53,54
+c=1,129,2,3,4,6,65,66,67,63,64,42,43,44,45,47,46,50,17,22,23,20,29,28,30,52,53,54,60
 ```
 Ticker, Exchange, Company, Sector, Industry, Market Cap, Price, Change, Volume,
 Average Volume, Relative Volume, Perf (Week, Month, Quarter, Half-Year, YTD, Year),
 Volatility (Week), EPS Growth (This-Yr, QoQ, Next-5Y), Sales Growth QoQ,
-Institutional (Transactions, Ownership), Short Float, SMA 20/50/200.
+Institutional (Transactions, Ownership), Short Float, SMA 20/50/200, Change from Open.
 
-**ETF basket — 21 cols**, identical for **all 3 baskets** (only the `t` ticker list differs).
+**ETF basket — 22 cols**, identical for **all 3 baskets** (only the `t` ticker list differs).
 ETFs have no company fundamentals, so they override `c=`:
 ```
-c=1,129,65,66,67,63,64,42,43,44,45,47,46,104,113,115,117,119,52,53,54
+c=1,129,65,66,67,63,64,42,43,44,45,47,46,104,113,115,117,119,52,53,54,60
 ```
 Ticker, Exchange, Price, Change, Volume, Avg Vol, Rel Vol, Perf (W/M/Q/HY/YTD/Y),
-Sector/Theme, Net Flows % (1M/3M/YTD/1Y), SMA 20/50/200. Net Flows is the rotation signal.
+Sector/Theme, Net Flows % (1M/3M/YTD/1Y), SMA 20/50/200, Change from Open.
+Net Flows is the rotation signal.
+
+**Reading `Change from Open` (code 60, added 2026-08-01):** intraday move off the session open,
+where `Change` is off the *prior close*. On an EOD read the pair separates the **gap** from the
+**day's own trend**: `Change ≈ gap + ChangeFromOpen`, so gap-up-and-fade (`Change` positive,
+`ChangeFromOpen` negative) is now distinguishable from a clean trend day. Expected tier: **hard**
+(both open and close are final post-close) — **not yet verified** against a two-read diff.
 The 3 baskets are a **rotation hierarchy**: `Markets` (asset class / index regime) →
 `Sectors` (all 11 GICS sectors) → `Group Themes` (narrow thematic). Same columns ⇒ directly comparable.
 
@@ -103,7 +110,8 @@ Watchlists use only Ticker + Exchange.
 **Hard / soft fields — read them differently.** A snapshot is *as of fetch time*, not *as of date*:
 Finviz **restates** some fields. Two diffs establish the tiers — two same-day runs (2026-07-25)
 and, across the close, a Friday vs Sunday read of the same session (2026-07-24 vs 07-26):
-- **Hard (never observed to change; trust across dates):** Price, Change, Perf *, SMA *. In the
+- **Hard (never observed to change; trust across dates):** Price, Change, Perf *, SMA * — plus
+  Change from Open by expectation, **not yet observed** (first data 2026-08-03). In the
   Fri-vs-Sun diff these were byte-identical on every row — which is *how we know* the two files
   hold one session rather than two.
 - **Settles after the close:** Volume, Rel Volume. Stable within a same-day window but **changed on
@@ -124,10 +132,12 @@ expected, not missing data. Populated for Sectors and most of Group Themes.
 - **Extend a set at the tail; never reorder or remove.** Snapshots are immutable, so a set change
   is permanent history. Finviz honours the requested `c` order, so the tail-append shows up as a
   tail column — but **read by header *name* and tolerate absent tail columns; never assume width.**
-  **State as of 2026-07-27: no snapshot in `raw/` carries SMA yet.** Everything present is the
-  narrow set (25-col company / 18-col Group Themes), latest 2026-07-24; `markets/` and `sectors/`
-  have no history at all. The 28-col and 21-col sets first land on the first run of the
-  published-and-gated workflow, so expect the width to widen exactly once, mid-series.
+  **State as of 2026-08-01: two width steps exist, both tail-appends.** Company `25 → 28 → 29`
+  (Group Themes `18 → 21 → 22`): the SMA step landed 2026-07-25, and Change from Open (`60`) lands
+  on the first run after 2026-08-01. `markets/` and `sectors/` begin 2026-07-27 at 21 cols.
+  So a reader spanning July 2026 meets three widths on a company screener — key by header name.
+  Adding a column is a **config commit only**, no workflow edit: the width guards derive from `c`
+  itself (`Record result` comma-counts it; live-refresh uses `resolved.width`).
 
 ## Snapshot — `raw/<screener>/<year>/YYYY-MM-DD.csv` (immutable)
 **Native Finviz CSV, written as-is** — header row + data rows, no frontmatter/markdown.
