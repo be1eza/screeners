@@ -105,3 +105,5 @@ reset: false
 - [x] NYSE:AMBQ
 - [x] NASDAQ:PN
 - [x] NASDAQ:ARXS
+- [x] AMEX:UMAC
+- [x] NASDAQ:PGY
