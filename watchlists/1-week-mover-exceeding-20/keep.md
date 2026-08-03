@@ -52,3 +52,7 @@ reset: false
 - [x] NASDAQ:AMBA
 - [x] NASDAQ:AXTI
 - [x] NASDAQ:PGY
+- [x] NASDAQ:NEO
+- [x] NASDAQ:OUST
+- [x] NASDAQ:BLZE
+- [x] NASDAQ:CRWV
