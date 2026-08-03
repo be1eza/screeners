@@ -57,3 +57,7 @@ reset: false
 - [x] NASDAQ:CDNA
 - [x] NASDAQ:NAVN
 - [x] NASDAQ:TH
+- [x] NASDAQ:HUT
+- [x] NASDAQ:OUST
+- [x] NASDAQ:PRCH
+- [x] NYSE:AMBQ
