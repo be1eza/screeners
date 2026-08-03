@@ -42,3 +42,5 @@ reset: false
 - [x] NASDAQ:CORZ
 - [x] NASDAQ:NEO
 - [x] NASDAQ:AXTI
+- [x] NASDAQ:WAY
+- [x] NYSE:PBF
