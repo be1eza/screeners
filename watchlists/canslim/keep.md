@@ -74,3 +74,8 @@ reset: false
 - [x] NASDAQ:COHU
 - [x] NYSE:TSM
 - [x] NYSE:ESI
+- [x] NYSE:WT
+- [x] NYSE:KGC
+- [x] NASDAQ:MXL
+- [x] NYSE:KVYO
+- [x] NASDAQ:SHOP
