@@ -51,3 +51,4 @@ reset: false
 - [x] NYSE:EROC
 - [x] NYSE:AVEX
 - [x] NASDAQ:MMED
+- [x] NYSE:JMKE
