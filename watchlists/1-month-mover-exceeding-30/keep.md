@@ -67,3 +67,5 @@ reset: false
 - [x] NASDAQ:DJT
 - [x] NASDAQ:PN
 - [x] AMEX:OBE
+- [x] NASDAQ:TNDM
+- [x] NASDAQ:AEHR
