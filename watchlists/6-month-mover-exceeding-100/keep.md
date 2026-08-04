@@ -61,3 +61,4 @@ reset: false
 - [x] NASDAQ:OUST
 - [x] NASDAQ:PRCH
 - [x] NYSE:AMBQ
+- [x] NASDAQ:PANW
