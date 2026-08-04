@@ -107,3 +107,7 @@ reset: false
 - [x] NASDAQ:ARXS
 - [x] AMEX:UMAC
 - [x] NASDAQ:PGY
+- [x] NASDAQ:AXON
+- [x] NYSE:W
+- [x] NASDAQ:ARQQ
+- [x] NYSE:RH
