@@ -69,3 +69,4 @@ reset: false
 - [x] AMEX:OBE
 - [x] NASDAQ:TNDM
 - [x] NASDAQ:AEHR
+- [x] NASDAQ:FSLY
