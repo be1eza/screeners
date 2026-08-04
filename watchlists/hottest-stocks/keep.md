@@ -44,3 +44,4 @@ reset: false
 - [x] NASDAQ:AXTI
 - [x] NASDAQ:WAY
 - [x] NYSE:PBF
+- [x] NASDAQ:UNIT
