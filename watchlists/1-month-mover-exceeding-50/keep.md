@@ -18,3 +18,5 @@ reset: false
 - [x] NASDAQ:TENB
 - [x] NYSE:EFOR
 - [x] NASDAQ:PN
+- [x] NASDAQ:AEHR
+- [x] NASDAQ:BLKB
