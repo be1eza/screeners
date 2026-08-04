@@ -79,3 +79,9 @@ reset: false
 - [x] NASDAQ:MXL
 - [x] NYSE:KVYO
 - [x] NASDAQ:SHOP
+- [x] NYSE:MDA
+- [x] NYSE:RDW
+- [x] NASDAQ:INOD
+- [x] NASDAQ:UNIT
+- [x] NASDAQ:KC
+- [x] NYSE:PAY
