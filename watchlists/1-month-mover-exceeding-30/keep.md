@@ -70,3 +70,14 @@ reset: false
 - [x] NASDAQ:TNDM
 - [x] NASDAQ:AEHR
 - [x] NASDAQ:FSLY
+- [x] NASDAQ:ARXS
+- [x] NYSE:BETA
+- [x] NYSE:HAWK
+- [x] NASDAQ:AMLX
+- [x] NYSE:IT
+- [x] NASDAQ:FWRD
+- [x] NASDAQ:BLMN
+- [x] NASDAQ:APPS
+- [x] NASDAQ:BSP
+- [x] NYSE:U
+- [x] NYSE:PAY
