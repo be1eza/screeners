@@ -85,3 +85,7 @@ reset: false
 - [x] NASDAQ:UNIT
 - [x] NASDAQ:KC
 - [x] NYSE:PAY
+- [x] NASDAQ:AXON
+- [x] NYSE:AGI
+- [x] AMEX:EQX
+- [x] NASDAQ:FROG
