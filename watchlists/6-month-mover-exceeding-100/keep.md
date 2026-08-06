@@ -62,3 +62,9 @@ reset: false
 - [x] NASDAQ:PRCH
 - [x] NYSE:AMBQ
 - [x] NASDAQ:PANW
+- [x] NASDAQ:VSAT
+- [x] NYSE:HNGE
+- [x] NASDAQ:CMPS
+- [x] NASDAQ:CRDO
+- [x] NASDAQ:APPS
+- [x] NASDAQ:AEVA
