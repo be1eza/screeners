@@ -111,3 +111,11 @@ reset: false
 - [x] NYSE:W
 - [x] NASDAQ:ARQQ
 - [x] NYSE:RH
+- [x] NASDAQ:WGS
+- [x] NASDAQ:AMLX
+- [x] NYSE:ELF
+- [x] NYSE:EFOR
+- [x] NASDAQ:APPS
+- [x] NASDAQ:INTA
+- [x] NASDAQ:AEVA
+- [x] NASDAQ:SAIL
