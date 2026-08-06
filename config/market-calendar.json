@@ -1,6 +1,11 @@
 {
   "source": "https://www.nyse.com/markets/hours-calendars",
   "through": "2028-12-31",
+  "sessionWindow": {
+    "preMarketOpens": "04:00",
+    "settledAfter": "16:15",
+    "settledAfterEarlyClose": "13:15"
+  },
   "holidays": [
     "2026-01-01",
     "2026-01-19",
