@@ -271,4 +271,3 @@ reset: false
 - [x] NASDAQ:AMIX
 - [x] NASDAQ:ADGM
 - [x] NASDAQ:VTGN
-- [x] NASDAQ:WYHG
