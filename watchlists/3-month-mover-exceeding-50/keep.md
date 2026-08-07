@@ -119,3 +119,10 @@ reset: false
 - [x] NASDAQ:INTA
 - [x] NASDAQ:AEVA
 - [x] NASDAQ:SAIL
+- [x] NYSE:VOYG
+- [x] NASDAQ:AMPL
+- [x] NASDAQ:CHYM
+- [x] NASDAQ:SPT
+- [x] NYSE:U
+- [x] NYSE:ZETA
+- [x] NASDAQ:FA
