@@ -45,3 +45,10 @@ reset: false
 - [x] NASDAQ:WAY
 - [x] NYSE:PBF
 - [x] NASDAQ:UNIT
+- [x] NYSE:RDW
+- [x] NYSE:CRCL
+- [x] NYSE:SN
+- [x] AMEX:EQX
+- [x] NASDAQ:CHYM
+- [x] NASDAQ:RELY
+- [x] NYSE:NRG
