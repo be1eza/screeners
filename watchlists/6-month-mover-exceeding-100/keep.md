@@ -68,3 +68,10 @@ reset: false
 - [x] NASDAQ:CRDO
 - [x] NASDAQ:APPS
 - [x] NASDAQ:AEVA
+- [x] NASDAQ:QMCO
+- [x] AMEX:UMAC
+- [x] NYSE:WOLF
+- [x] NYSE:SNOW
+- [x] NASDAQ:CRWD
+- [x] NASDAQ:FIVN
+- [x] NYSE:TWLO
