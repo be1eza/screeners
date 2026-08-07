@@ -20,3 +20,7 @@ reset: false
 - [x] NASDAQ:PN
 - [x] NASDAQ:AEHR
 - [x] NASDAQ:BLKB
+- [x] NASDAQ:CRSR
+- [x] NASDAQ:FWRD
+- [x] NASDAQ:TEAM
+- [x] NASDAQ:GCT
