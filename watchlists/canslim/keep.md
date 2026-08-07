@@ -89,3 +89,9 @@ reset: false
 - [x] NYSE:AGI
 - [x] AMEX:EQX
 - [x] NASDAQ:FROG
+- [x] NASDAQ:RGTI
+- [x] NYSE:ERO
+- [x] NASDAQ:NTRA
+- [x] NYSE:CGAU
+- [x] NASDAQ:TEAM
+- [x] AMEX:UUUU
