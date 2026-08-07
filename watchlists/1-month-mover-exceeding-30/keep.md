@@ -81,3 +81,14 @@ reset: false
 - [x] NASDAQ:BSP
 - [x] NYSE:U
 - [x] NYSE:PAY
+- [x] NYSE:AVEX
+- [x] NASDAQ:CRSR
+- [x] NYSE:ELF
+- [x] NASDAQ:MMED
+- [x] NASDAQ:AXTI
+- [x] NASDAQ:APPN
+- [x] NASDAQ:GCT
+- [x] NASDAQ:PLTR
+- [x] NYSE:TIC
+- [x] NASDAQ:XE
+- [x] NYSE:CLF
