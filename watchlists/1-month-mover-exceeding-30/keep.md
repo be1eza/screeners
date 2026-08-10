@@ -92,3 +92,13 @@ reset: false
 - [x] NYSE:TIC
 - [x] NASDAQ:XE
 - [x] NYSE:CLF
+- [x] NASDAQ:AVAV
+- [x] NYSE:VOYG
+- [x] NYSE:FIGS
+- [x] AMEX:UMAC
+- [x] NASDAQ:TWST
+- [x] NASDAQ:AMPL
+- [x] NYSE:PCOR
+- [x] NYSE:VIA
+- [x] NYSE:PATH
+- [x] NASDAQ:SAIL
