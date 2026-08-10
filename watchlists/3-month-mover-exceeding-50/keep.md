@@ -126,3 +126,7 @@ reset: false
 - [x] NYSE:U
 - [x] NYSE:ZETA
 - [x] NASDAQ:FA
+- [x] NASDAQ:OMDA
+- [x] NASDAQ:FWRD
+- [x] NASDAQ:APPN
+- [x] NYSE:SVV
