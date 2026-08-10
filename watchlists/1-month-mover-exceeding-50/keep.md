@@ -24,3 +24,4 @@ reset: false
 - [x] NASDAQ:FWRD
 - [x] NASDAQ:TEAM
 - [x] NASDAQ:GCT
+- [x] NASDAQ:BSP
