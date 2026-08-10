@@ -95,3 +95,6 @@ reset: false
 - [x] NYSE:CGAU
 - [x] NASDAQ:TEAM
 - [x] AMEX:UUUU
+- [x] NYSE:CLS
+- [x] NYSE:EXK
+- [x] NYSE:CTRI
