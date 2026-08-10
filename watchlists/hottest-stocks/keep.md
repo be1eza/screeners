@@ -52,3 +52,6 @@ reset: false
 - [x] NASDAQ:CHYM
 - [x] NASDAQ:RELY
 - [x] NYSE:NRG
+- [x] NYSE:VRT
+- [x] NASDAQ:LFST
+- [x] NYSE:EXK
