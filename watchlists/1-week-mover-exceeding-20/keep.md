@@ -161,3 +161,9 @@ reset: false
 - [x] NYSE:TIC
 - [x] AMEX:UUUU
 - [x] NYSE:OKLO
+- [x] NASDAQ:RCAT
+- [x] NYSE:FIGS
+- [x] NYSE:P
+- [x] NASDAQ:OMDA
+- [x] NYSE:EXK
+- [x] NASDAQ:FSLY
