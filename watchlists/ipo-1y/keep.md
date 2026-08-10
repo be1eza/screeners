@@ -52,3 +52,4 @@ reset: false
 - [x] NYSE:AVEX
 - [x] NASDAQ:MMED
 - [x] NYSE:JMKE
+- [x] NYSE:CSQR
