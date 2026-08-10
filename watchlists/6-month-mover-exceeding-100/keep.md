@@ -75,3 +75,4 @@ reset: false
 - [x] NASDAQ:CRWD
 - [x] NASDAQ:FIVN
 - [x] NYSE:TWLO
+- [x] NASDAQ:OMDA
