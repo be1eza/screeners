@@ -102,3 +102,14 @@ reset: false
 - [x] NYSE:VIA
 - [x] NYSE:PATH
 - [x] NASDAQ:SAIL
+- [x] NYSE:KRMN
+- [x] NASDAQ:KTOS
+- [x] NYSE:RDW
+- [x] NYSE:P
+- [x] NASDAQ:QMCO
+- [x] NASDAQ:AUGO
+- [x] NYSE:EGO
+- [x] NASDAQ:HYMC
+- [x] NASDAQ:PPTA
+- [x] NYSE:EXK
+- [x] NYSE:ZETA
