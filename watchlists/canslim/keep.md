@@ -98,3 +98,4 @@ reset: false
 - [x] NYSE:CLS
 - [x] NYSE:EXK
 - [x] NYSE:CTRI
+- [x] NASDAQ:BCRX
