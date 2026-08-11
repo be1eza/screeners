@@ -130,3 +130,5 @@ reset: false
 - [x] NASDAQ:FWRD
 - [x] NASDAQ:APPN
 - [x] NYSE:SVV
+- [x] NASDAQ:TNDM
+- [x] NYSE:PAY
