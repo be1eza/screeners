@@ -53,3 +53,4 @@ reset: false
 - [x] NASDAQ:MMED
 - [x] NYSE:JMKE
 - [x] NYSE:CSQR
+- [x] NYSE:VIA
