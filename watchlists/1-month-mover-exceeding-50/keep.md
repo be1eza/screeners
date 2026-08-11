@@ -25,3 +25,6 @@ reset: false
 - [x] NASDAQ:TEAM
 - [x] NASDAQ:GCT
 - [x] NASDAQ:BSP
+- [x] NASDAQ:QMCO
+- [x] AMEX:UMAC
+- [x] NASDAQ:CHYM
