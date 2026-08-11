@@ -167,3 +167,9 @@ reset: false
 - [x] NASDAQ:OMDA
 - [x] NYSE:EXK
 - [x] NASDAQ:FSLY
+- [x] NYSE:DXYZ
+- [x] NYSE:EGO
+- [x] NASDAQ:SSRM
+- [x] NASDAQ:PRCT
+- [x] NASDAQ:NESR
+- [x] NASDAQ:RPD
