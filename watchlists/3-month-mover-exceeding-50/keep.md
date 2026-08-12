@@ -132,3 +132,9 @@ reset: false
 - [x] NYSE:SVV
 - [x] NASDAQ:TNDM
 - [x] NYSE:PAY
+- [x] NYSE:KSS
+- [x] NYSE:NIQ
+- [x] NYSE:RNG
+- [x] NASDAQ:TTAN
+- [x] NYSE:VIA
+- [x] NYSE:PATH
