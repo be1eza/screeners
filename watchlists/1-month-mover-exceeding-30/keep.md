@@ -113,3 +113,7 @@ reset: false
 - [x] NASDAQ:PPTA
 - [x] NYSE:EXK
 - [x] NYSE:ZETA
+- [x] NASDAQ:SMCI
+- [x] NASDAQ:WGS
+- [x] NASDAQ:CRWV
+- [x] NASDAQ:NBIS
