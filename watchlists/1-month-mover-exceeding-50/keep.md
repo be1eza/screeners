@@ -28,3 +28,5 @@ reset: false
 - [x] NASDAQ:QMCO
 - [x] AMEX:UMAC
 - [x] NASDAQ:CHYM
+- [x] NASDAQ:TNDM
+- [x] NYSE:NIQ
