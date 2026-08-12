@@ -99,3 +99,5 @@ reset: false
 - [x] NYSE:EXK
 - [x] NYSE:CTRI
 - [x] NASDAQ:BCRX
+- [x] NYSE:APO
+- [x] NYSE:CAVA
