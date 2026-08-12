@@ -27,3 +27,4 @@ reset: false
 - [x] NYSE:SECZ
 - [x] NYSE:LVWR
 - [x] NASDAQ:SHMD
+- [x] NASDAQ:CLBK
