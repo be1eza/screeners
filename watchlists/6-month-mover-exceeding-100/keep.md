@@ -76,3 +76,4 @@ reset: false
 - [x] NASDAQ:FIVN
 - [x] NYSE:TWLO
 - [x] NASDAQ:OMDA
+- [x] NYSE:DK
