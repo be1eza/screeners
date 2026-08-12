@@ -173,3 +173,9 @@ reset: false
 - [x] NASDAQ:PRCT
 - [x] NASDAQ:NESR
 - [x] NASDAQ:RPD
+- [x] NYSE:ONTO
+- [x] NASDAQ:TSEM
+- [x] NYSE:NIQ
+- [x] NASDAQ:QNT
+- [x] NASDAQ:GRRR
+- [x] NYSE:EROC
