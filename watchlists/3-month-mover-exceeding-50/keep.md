@@ -138,3 +138,14 @@ reset: false
 - [x] NASDAQ:TTAN
 - [x] NYSE:VIA
 - [x] NYSE:PATH
+- [x] NYSE:ARX
+- [x] NASDAQ:BWIN
+- [x] NASDAQ:LMRI
+- [x] NASDAQ:RGEN
+- [x] NYSE:DK
+- [x] NASDAQ:BRZE
+- [x] NASDAQ:FSLY
+- [x] NYSE:MNTN
+- [x] NASDAQ:WDAY
+- [x] NASDAQ:MDB
+- [x] NASDAQ:NTSK
