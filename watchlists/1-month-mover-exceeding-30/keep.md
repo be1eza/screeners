@@ -117,3 +117,10 @@ reset: false
 - [x] NASDAQ:WGS
 - [x] NASDAQ:CRWV
 - [x] NASDAQ:NBIS
+- [x] NASDAQ:VELO
+- [x] NYSE:ARX
+- [x] NASDAQ:LIFE
+- [x] NASDAQ:GTLB
+- [x] NASDAQ:MDB
+- [x] NASDAQ:NN
+- [x] NYSE:RBRK
