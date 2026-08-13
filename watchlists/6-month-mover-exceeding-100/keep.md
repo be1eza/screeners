@@ -77,3 +77,7 @@ reset: false
 - [x] NYSE:TWLO
 - [x] NASDAQ:OMDA
 - [x] NYSE:DK
+- [x] NASDAQ:LIFE
+- [x] NYSE:HPP
+- [x] NYSE:U
+- [x] NASDAQ:FA
