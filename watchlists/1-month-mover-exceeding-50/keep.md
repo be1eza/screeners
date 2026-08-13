@@ -30,3 +30,10 @@ reset: false
 - [x] NASDAQ:CHYM
 - [x] NASDAQ:TNDM
 - [x] NYSE:NIQ
+- [x] NYSE:VOYG
+- [x] NYSE:P
+- [x] NYSE:ARX
+- [x] NASDAQ:LIFE
+- [x] NASDAQ:FSLY
+- [x] NASDAQ:WIX
+- [x] NASDAQ:XE
