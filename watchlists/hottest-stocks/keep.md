@@ -55,3 +55,5 @@ reset: false
 - [x] NYSE:VRT
 - [x] NASDAQ:LFST
 - [x] NYSE:EXK
+- [x] NYSE:SARO
+- [x] NASDAQ:SMCI
