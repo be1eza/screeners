@@ -179,3 +179,12 @@ reset: false
 - [x] NASDAQ:QNT
 - [x] NASDAQ:GRRR
 - [x] NYSE:EROC
+- [x] NASDAQ:ATRO
+- [x] NASDAQ:CELH
+- [x] NYSE:DOCS
+- [x] NYSE:ARX
+- [x] NASDAQ:TNDM
+- [x] NYSE:PBF
+- [x] NYSE:VIA
+- [x] NASDAQ:GTLB
+- [x] NASDAQ:NTSK
