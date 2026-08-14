@@ -81,3 +81,4 @@ reset: false
 - [x] NYSE:HPP
 - [x] NYSE:U
 - [x] NASDAQ:FA
+- [x] NASDAQ:AMPL
