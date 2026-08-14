@@ -149,3 +149,9 @@ reset: false
 - [x] NASDAQ:WDAY
 - [x] NASDAQ:MDB
 - [x] NASDAQ:NTSK
+- [x] NASDAQ:LIFE
+- [x] NASDAQ:ALOY
+- [x] NASDAQ:JACK
+- [x] NASDAQ:FRSH
+- [x] NYSE:WK
+- [x] NASDAQ:CLMT
