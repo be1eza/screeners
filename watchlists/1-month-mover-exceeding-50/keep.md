@@ -37,3 +37,13 @@ reset: false
 - [x] NASDAQ:FSLY
 - [x] NASDAQ:WIX
 - [x] NASDAQ:XE
+- [x] NYSE:RDW
+- [x] NASDAQ:SMCI
+- [x] NASDAQ:VELO
+- [x] NASDAQ:AUGO
+- [x] NASDAQ:HTFL
+- [x] NASDAQ:ALOY
+- [x] NASDAQ:AXTI
+- [x] NYSE:U
+- [x] NASDAQ:NBIS
+- [x] NYSE:EROC
