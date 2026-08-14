@@ -400,3 +400,15 @@ reset: false
 - [x] NASDAQ:FGI
 - [x] NASDAQ:CXAI
 - [x] NASDAQ:MGRX
+- [x] NASDAQ:WDC
+- [x] NYSE:NOK
+- [x] NASDAQ:APLD
+- [x] NYSE:ARX
+- [x] NASDAQ:NVTS
+- [x] NASDAQ:HTFL
+- [x] AMEX:UMAC
+- [x] NYSE:BORR
+- [x] NASDAQ:BTBT
+- [x] NASDAQ:MDXH
+- [x] NASDAQ:DFSC
+- [x] NASDAQ:ITOC
