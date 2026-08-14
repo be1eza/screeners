@@ -28,3 +28,4 @@ reset: false
 - [x] NYSE:LVWR
 - [x] NASDAQ:SHMD
 - [x] NASDAQ:CLBK
+- [x] NASDAQ:JACK
