@@ -57,3 +57,6 @@ reset: false
 - [x] NYSE:EXK
 - [x] NYSE:SARO
 - [x] NASDAQ:SMCI
+- [x] NASDAQ:GDS
+- [x] NASDAQ:LYFT
+- [x] NYSE:BW
