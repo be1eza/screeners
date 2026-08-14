@@ -188,3 +188,7 @@ reset: false
 - [x] NYSE:VIA
 - [x] NASDAQ:GTLB
 - [x] NASDAQ:NTSK
+- [x] NASDAQ:HTFL
+- [x] NYSE:PARR
+- [x] NASDAQ:SKHY
+- [x] NASDAQ:CLMT
