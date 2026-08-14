@@ -54,3 +54,4 @@ reset: false
 - [x] NYSE:JMKE
 - [x] NYSE:CSQR
 - [x] NYSE:VIA
+- [x] NYSE:STDN
