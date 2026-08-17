@@ -101,3 +101,9 @@ reset: false
 - [x] NASDAQ:BCRX
 - [x] NYSE:APO
 - [x] NYSE:CAVA
+- [x] NASDAQ:TPG
+- [x] NYSE:DELL
+- [x] NASDAQ:OUST
+- [x] NYSE:SE
+- [x] NASDAQ:CRDO
+- [x] NYSE:NET
