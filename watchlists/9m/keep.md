@@ -412,3 +412,14 @@ reset: false
 - [x] NASDAQ:MDXH
 - [x] NASDAQ:DFSC
 - [x] NASDAQ:ITOC
+- [x] NYSE:TSM
+- [x] NASDAQ:AMAT
+- [x] NASDAQ:SNDK
+- [x] NYSE:GLW
+- [x] NASDAQ:FIGR
+- [x] NASDAQ:CELH
+- [x] NASDAQ:RIOT
+- [x] NYSE:NXE
+- [x] NASDAQ:ALM
+- [x] NASDAQ:HIVE
+- [x] NASDAQ:OSRH
