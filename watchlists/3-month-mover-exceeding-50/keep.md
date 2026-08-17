@@ -155,3 +155,5 @@ reset: false
 - [x] NASDAQ:FRSH
 - [x] NYSE:WK
 - [x] NASDAQ:CLMT
+- [x] NYSE:BETA
+- [x] NASDAQ:CRDO
