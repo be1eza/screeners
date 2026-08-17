@@ -145,3 +145,13 @@ reset: false
 - [x] NYSE:INFQ
 - [x] NYSE:BKSY
 - [x] NYSE:EROC
+- [x] NYSE:DXYZ
+- [x] NASDAQ:IREN
+- [x] NASDAQ:SNDK
+- [x] AMEX:IE
+- [x] NASDAQ:FORM
+- [x] NASDAQ:TER
+- [x] NASDAQ:CBRS
+- [x] NASDAQ:CRDO
+- [x] NASDAQ:MRAM
+- [x] NYSE:MNTN
