@@ -192,3 +192,9 @@ reset: false
 - [x] NYSE:PARR
 - [x] NASDAQ:SKHY
 - [x] NASDAQ:CLMT
+- [x] NASDAQ:FIGR
+- [x] NASDAQ:METC
+- [x] NASDAQ:VIAV
+- [x] NASDAQ:WDC
+- [x] NASDAQ:VICR
+- [x] NASDAQ:WYFI
