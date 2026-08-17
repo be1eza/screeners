@@ -60,3 +60,7 @@ reset: false
 - [x] NASDAQ:GDS
 - [x] NASDAQ:LYFT
 - [x] NYSE:BW
+- [x] NASDAQ:GLXY
+- [x] NASDAQ:BZ
+- [x] NYSE:RKT
+- [x] NYSE:SEI
