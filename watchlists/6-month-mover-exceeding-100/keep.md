@@ -82,3 +82,5 @@ reset: false
 - [x] NYSE:U
 - [x] NASDAQ:FA
 - [x] NASDAQ:AMPL
+- [x] NASDAQ:HTFL
+- [x] NASDAQ:COHU
