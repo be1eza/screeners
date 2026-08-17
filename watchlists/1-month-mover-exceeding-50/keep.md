@@ -47,3 +47,5 @@ reset: false
 - [x] NYSE:U
 - [x] NASDAQ:NBIS
 - [x] NYSE:EROC
+- [x] NASDAQ:LUNR
+- [x] NASDAQ:AAOI
