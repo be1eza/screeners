@@ -55,3 +55,7 @@ reset: false
 - [x] NYSE:CSQR
 - [x] NYSE:VIA
 - [x] NYSE:STDN
+- [x] NASDAQ:IOND
+- [x] NASDAQ:LGN
+- [x] NYSE:BXDC
+- [x] NASDAQ:MFP
