@@ -198,3 +198,6 @@ reset: false
 - [x] NASDAQ:WDC
 - [x] NASDAQ:VICR
 - [x] NASDAQ:WYFI
+- [x] NYSE:NMAX
+- [x] NASDAQ:AMLX
+- [x] NASDAQ:DUOT
