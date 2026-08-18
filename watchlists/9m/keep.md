@@ -423,3 +423,13 @@ reset: false
 - [x] NASDAQ:ALM
 - [x] NASDAQ:HIVE
 - [x] NASDAQ:OSRH
+- [x] NYSE:KMI
+- [x] NYSE:UGI
+- [x] NASDAQ:AMLX
+- [x] NASDAQ:PURR
+- [x] NASDAQ:NTWO
+- [x] NASDAQ:AIXC
+- [x] NASDAQ:IPST
+- [x] NASDAQ:CDTG
+- [x] NASDAQ:EJH
+- [x] NASDAQ:PFSA
