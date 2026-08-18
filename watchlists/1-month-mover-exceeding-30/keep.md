@@ -155,3 +155,8 @@ reset: false
 - [x] NASDAQ:CRDO
 - [x] NASDAQ:MRAM
 - [x] NYSE:MNTN
+- [x] NYSE:NMAX
+- [x] NASDAQ:DUOT
+- [x] NYSE:ESTC
+- [x] NASDAQ:ARHS
+- [x] AMEX:SMJF
