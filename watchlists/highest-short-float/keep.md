@@ -29,3 +29,4 @@ reset: false
 - [x] NASDAQ:SHMD
 - [x] NASDAQ:CLBK
 - [x] NASDAQ:JACK
+- [x] NASDAQ:XNDU
