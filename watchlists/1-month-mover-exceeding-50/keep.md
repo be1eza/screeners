@@ -49,3 +49,5 @@ reset: false
 - [x] NYSE:EROC
 - [x] NASDAQ:LUNR
 - [x] NASDAQ:AAOI
+- [x] NASDAQ:AMLX
+- [x] AMEX:SMJF
