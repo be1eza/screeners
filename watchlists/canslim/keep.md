@@ -107,3 +107,5 @@ reset: false
 - [x] NYSE:SE
 - [x] NASDAQ:CRDO
 - [x] NYSE:NET
+- [x] NYSE:SEI
+- [x] NASDAQ:ACMR
