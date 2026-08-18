@@ -84,3 +84,6 @@ reset: false
 - [x] NASDAQ:AMPL
 - [x] NASDAQ:HTFL
 - [x] NASDAQ:COHU
+- [x] NYSE:NMAX
+- [x] NASDAQ:AMLX
+- [x] AMEX:SMJF
