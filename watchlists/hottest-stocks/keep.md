@@ -64,3 +64,9 @@ reset: false
 - [x] NASDAQ:BZ
 - [x] NYSE:RKT
 - [x] NYSE:SEI
+- [x] NASDAQ:AFRM
+- [x] NASDAQ:ALM
+- [x] NASDAQ:EQPT
+- [x] NASDAQ:DLO
+- [x] NYSE:AMTM
+- [x] NASDAQ:FA
