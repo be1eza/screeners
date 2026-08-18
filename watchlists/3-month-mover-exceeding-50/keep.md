@@ -157,3 +157,9 @@ reset: false
 - [x] NASDAQ:CLMT
 - [x] NYSE:BETA
 - [x] NASDAQ:CRDO
+- [x] NYSE:NMAX
+- [x] NYSE:P
+- [x] NASDAQ:HTFL
+- [x] NYSE:ESTC
+- [x] NASDAQ:ARHS
+- [x] AMEX:SMJF
