@@ -109,3 +109,4 @@ reset: false
 - [x] NYSE:NET
 - [x] NYSE:SEI
 - [x] NASDAQ:ACMR
+- [x] NASDAQ:DLO
