@@ -201,3 +201,4 @@ reset: false
 - [x] NYSE:NMAX
 - [x] NASDAQ:AMLX
 - [x] NASDAQ:DUOT
+- [x] NASDAQ:CDNL
