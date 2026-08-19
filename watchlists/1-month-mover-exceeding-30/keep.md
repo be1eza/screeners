@@ -160,3 +160,5 @@ reset: false
 - [x] NYSE:ESTC
 - [x] NASDAQ:ARHS
 - [x] AMEX:SMJF
+- [x] NASDAQ:TTAN
+- [x] NYSE:WK
