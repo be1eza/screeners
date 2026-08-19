@@ -87,3 +87,4 @@ reset: false
 - [x] NYSE:NMAX
 - [x] NASDAQ:AMLX
 - [x] AMEX:SMJF
+- [x] NASDAQ:TEAM
