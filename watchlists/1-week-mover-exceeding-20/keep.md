@@ -202,3 +202,7 @@ reset: false
 - [x] NASDAQ:AMLX
 - [x] NASDAQ:DUOT
 - [x] NASDAQ:CDNL
+- [x] NASDAQ:ASST
+- [x] NASDAQ:MARA
+- [x] NASDAQ:PURR
+- [x] NASDAQ:TEM
