@@ -457,3 +457,13 @@ reset: false
 - [x] NASDAQ:ZSTK
 - [x] NASDAQ:GDC
 - [x] NASDAQ:BTCT
+- [x] NYSE:HAL
+- [x] NYSE:MOS
+- [x] NASDAQ:PSNL
+- [x] NASDAQ:ASST
+- [x] NASDAQ:XOS
+- [x] NASDAQ:BRLS
+- [x] NASDAQ:HOWL
+- [x] NASDAQ:FLUX
+- [x] NASDAQ:BIVI
+- [x] AMEX:MMA
