@@ -51,3 +51,7 @@ reset: false
 - [x] NASDAQ:AAOI
 - [x] NASDAQ:AMLX
 - [x] AMEX:SMJF
+- [x] NASDAQ:INTA
+- [x] NYSE:PCOR
+- [x] NYSE:VIA
+- [x] NASDAQ:APPN
