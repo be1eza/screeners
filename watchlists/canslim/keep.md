@@ -110,3 +110,4 @@ reset: false
 - [x] NYSE:SEI
 - [x] NASDAQ:ACMR
 - [x] NASDAQ:DLO
+- [x] NASDAQ:HOOD
