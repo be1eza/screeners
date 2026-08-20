@@ -59,3 +59,4 @@ reset: false
 - [x] NASDAQ:LGN
 - [x] NYSE:BXDC
 - [x] NASDAQ:MFP
+- [x] NASDAQ:PURR
