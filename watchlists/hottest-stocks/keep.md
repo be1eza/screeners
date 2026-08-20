@@ -70,3 +70,4 @@ reset: false
 - [x] NASDAQ:DLO
 - [x] NYSE:AMTM
 - [x] NASDAQ:FA
+- [x] NYSE:VIK
