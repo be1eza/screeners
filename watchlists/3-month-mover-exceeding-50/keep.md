@@ -163,3 +163,5 @@ reset: false
 - [x] NYSE:ESTC
 - [x] NASDAQ:ARHS
 - [x] AMEX:SMJF
+- [x] NYSE:MAX
+- [x] NASDAQ:WIX
