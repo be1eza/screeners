@@ -88,3 +88,5 @@ reset: false
 - [x] NASDAQ:AMLX
 - [x] AMEX:SMJF
 - [x] NASDAQ:TEAM
+- [x] NASDAQ:PURR
+- [x] NYSE:HIMS
