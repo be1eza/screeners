@@ -162,3 +162,9 @@ reset: false
 - [x] AMEX:SMJF
 - [x] NASDAQ:TTAN
 - [x] NYSE:WK
+- [x] NASDAQ:PURR
+- [x] NASDAQ:TEM
+- [x] NASDAQ:BRZE
+- [x] NASDAQ:DOCU
+- [x] NYSE:NOW
+- [x] NASDAQ:SPT
