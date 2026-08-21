@@ -165,3 +165,7 @@ reset: false
 - [x] AMEX:SMJF
 - [x] NYSE:MAX
 - [x] NASDAQ:WIX
+- [x] NASDAQ:TEM
+- [x] NASDAQ:BVS
+- [x] NASDAQ:BLMN
+- [x] NASDAQ:BLKB
