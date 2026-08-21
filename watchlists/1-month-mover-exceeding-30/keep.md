@@ -168,3 +168,11 @@ reset: false
 - [x] NASDAQ:DOCU
 - [x] NYSE:NOW
 - [x] NASDAQ:SPT
+- [x] NASDAQ:ASST
+- [x] NYSE:CRCL
+- [x] NASDAQ:FIGR
+- [x] NASDAQ:TMDX
+- [x] NASDAQ:RGEN
+- [x] NASDAQ:ALM
+- [x] NYSE:MP
+- [x] NASDAQ:PGY
