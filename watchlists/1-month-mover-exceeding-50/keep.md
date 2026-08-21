@@ -55,3 +55,13 @@ reset: false
 - [x] NYSE:PCOR
 - [x] NYSE:VIA
 - [x] NASDAQ:APPN
+- [x] NYSE:FIGS
+- [x] NASDAQ:ASST
+- [x] NASDAQ:PURR
+- [x] NASDAQ:TWST
+- [x] NASDAQ:TEM
+- [x] NASDAQ:AMPL
+- [x] NYSE:MNTN
+- [x] NASDAQ:WDAY
+- [x] NASDAQ:FIVN
+- [x] NYSE:PATH
