@@ -206,3 +206,10 @@ reset: false
 - [x] NASDAQ:MARA
 - [x] NASDAQ:PURR
 - [x] NASDAQ:TEM
+- [x] NYSE:BMNR
+- [x] NYSE:CRCL
+- [x] NASDAQ:PSNL
+- [x] NASDAQ:COIN
+- [x] NASDAQ:BTDR
+- [x] NASDAQ:MSTR
+- [x] NYSE:BLSH
