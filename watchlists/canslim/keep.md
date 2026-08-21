@@ -111,3 +111,5 @@ reset: false
 - [x] NASDAQ:ACMR
 - [x] NASDAQ:DLO
 - [x] NASDAQ:HOOD
+- [x] NYSE:IAG
+- [x] NYSE:AG
