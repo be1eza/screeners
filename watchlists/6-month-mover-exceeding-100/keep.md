@@ -90,3 +90,6 @@ reset: false
 - [x] NASDAQ:TEAM
 - [x] NASDAQ:PURR
 - [x] NYSE:HIMS
+- [x] NASDAQ:ASST
+- [x] NASDAQ:PSNL
+- [x] NASDAQ:FROG
