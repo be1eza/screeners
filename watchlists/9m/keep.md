@@ -467,3 +467,12 @@ reset: false
 - [x] NASDAQ:FLUX
 - [x] NASDAQ:BIVI
 - [x] AMEX:MMA
+- [x] NASDAQ:TSLA
+- [x] AMEX:UEC
+- [x] NASDAQ:CRML
+- [x] NASDAQ:ABUS
+- [x] NASDAQ:TRON
+- [x] AMEX:URG
+- [x] NASDAQ:CAN
+- [x] NASDAQ:USDE
+- [x] AMEX:KNRX
