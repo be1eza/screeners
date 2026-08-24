@@ -476,3 +476,11 @@ reset: false
 - [x] NASDAQ:CAN
 - [x] NASDAQ:USDE
 - [x] AMEX:KNRX
+- [x] NYSE:VICI
+- [x] AMEX:NG
+- [x] NASDAQ:BMEA
+- [x] AMEX:PMI
+- [x] NASDAQ:LUCY
+- [x] AMEX:AZTR
+- [x] NASDAQ:DAIC
+- [x] NASDAQ:GIPR
