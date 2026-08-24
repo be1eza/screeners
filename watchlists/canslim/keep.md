@@ -113,3 +113,13 @@ reset: false
 - [x] NASDAQ:HOOD
 - [x] NYSE:IAG
 - [x] NYSE:AG
+- [x] NASDAQ:LITE
+- [x] NASDAQ:VIAV
+- [x] NASDAQ:SNDK
+- [x] NASDAQ:UPST
+- [x] NYSE:HIMS
+- [x] NASDAQ:TTMI
+- [x] NASDAQ:LRCX
+- [x] NASDAQ:TER
+- [x] NASDAQ:SKHY
+- [x] AMEX:SVM
