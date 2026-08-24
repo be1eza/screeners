@@ -71,3 +71,14 @@ reset: false
 - [x] NYSE:AMTM
 - [x] NASDAQ:FA
 - [x] NYSE:VIK
+- [x] NASDAQ:RKLB
+- [x] NASDAQ:FUTU
+- [x] NASDAQ:OUST
+- [x] NYSE:OSCR
+- [x] NASDAQ:AVAH
+- [x] NASDAQ:TER
+- [x] NASDAQ:ALGM
+- [x] NYSE:VSH
+- [x] NASDAQ:AEVA
+- [x] NASDAQ:BLZE
+- [x] NYSE:RBRK
