@@ -93,3 +93,7 @@ reset: false
 - [x] NASDAQ:ASST
 - [x] NASDAQ:PSNL
 - [x] NASDAQ:FROG
+- [x] NASDAQ:INTA
+- [x] NASDAQ:PGY
+- [x] NASDAQ:QLYS
+- [x] NYSE:RBRK
