@@ -176,3 +176,8 @@ reset: false
 - [x] NASDAQ:ALM
 - [x] NYSE:MP
 - [x] NASDAQ:PGY
+- [x] NYSE:TRLV
+- [x] NASDAQ:AVAH
+- [x] NASDAQ:MSTR
+- [x] AMEX:UEC
+- [x] AMEX:UUUU
