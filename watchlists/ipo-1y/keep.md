@@ -60,3 +60,4 @@ reset: false
 - [x] NYSE:BXDC
 - [x] NASDAQ:MFP
 - [x] NASDAQ:PURR
+- [x] NASDAQ:SKHY
