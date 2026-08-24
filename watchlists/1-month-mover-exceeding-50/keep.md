@@ -65,3 +65,4 @@ reset: false
 - [x] NASDAQ:WDAY
 - [x] NASDAQ:FIVN
 - [x] NYSE:PATH
+- [x] NYSE:BMNR
