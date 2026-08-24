@@ -169,3 +169,4 @@ reset: false
 - [x] NASDAQ:BVS
 - [x] NASDAQ:BLMN
 - [x] NASDAQ:BLKB
+- [x] NASDAQ:AVAH
