@@ -82,3 +82,4 @@ reset: false
 - [x] NASDAQ:AEVA
 - [x] NASDAQ:BLZE
 - [x] NYSE:RBRK
+- [x] NASDAQ:RUM
