@@ -170,3 +170,4 @@ reset: false
 - [x] NASDAQ:BLMN
 - [x] NASDAQ:BLKB
 - [x] NASDAQ:AVAH
+- [x] NASDAQ:HOOD
