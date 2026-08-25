@@ -123,3 +123,4 @@ reset: false
 - [x] NASDAQ:TER
 - [x] NASDAQ:SKHY
 - [x] AMEX:SVM
+- [x] NASDAQ:FUTU
