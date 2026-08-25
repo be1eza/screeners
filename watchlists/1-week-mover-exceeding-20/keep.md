@@ -213,3 +213,8 @@ reset: false
 - [x] NASDAQ:BTDR
 - [x] NASDAQ:MSTR
 - [x] NYSE:BLSH
+- [x] NASDAQ:GLXY
+- [x] NASDAQ:HOOD
+- [x] NASDAQ:EZPW
+- [x] NASDAQ:RUM
+- [x] AMEX:UEC
