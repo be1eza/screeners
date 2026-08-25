@@ -484,3 +484,15 @@ reset: false
 - [x] AMEX:AZTR
 - [x] NASDAQ:DAIC
 - [x] NASDAQ:GIPR
+- [x] NYSE:HDB
+- [x] NYSE:IBN
+- [x] NYSE:BE
+- [x] NYSE:UMC
+- [x] NASDAQ:BZ
+- [x] NASDAQ:MARA
+- [x] NASDAQ:CAPR
+- [x] NASDAQ:PACB
+- [x] NASDAQ:RR
+- [x] NASDAQ:NCPL
+- [x] NASDAQ:OFAL
+- [x] NASDAQ:JEM
