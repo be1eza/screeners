@@ -181,3 +181,9 @@ reset: false
 - [x] NASDAQ:MSTR
 - [x] AMEX:UEC
 - [x] AMEX:UUUU
+- [x] NYSE:SA
+- [x] NASDAQ:RUM
+- [x] NASDAQ:CMPS
+- [x] NASDAQ:USAR
+- [x] NYSE:BLSH
+- [x] NYSE:STDN
