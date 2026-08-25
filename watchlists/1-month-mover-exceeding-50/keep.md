@@ -66,3 +66,6 @@ reset: false
 - [x] NASDAQ:FIVN
 - [x] NYSE:PATH
 - [x] NYSE:BMNR
+- [x] NYSE:DXYZ
+- [x] NASDAQ:RUM
+- [x] NYSE:STDN
