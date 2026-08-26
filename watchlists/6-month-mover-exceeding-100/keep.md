@@ -97,3 +97,4 @@ reset: false
 - [x] NASDAQ:PGY
 - [x] NASDAQ:QLYS
 - [x] NYSE:RBRK
+- [x] NASDAQ:XMTR
