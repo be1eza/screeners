@@ -30,3 +30,5 @@ reset: false
 - [x] NASDAQ:CLBK
 - [x] NASDAQ:JACK
 - [x] NASDAQ:XNDU
+- [x] NASDAQ:IEP
+- [x] NASDAQ:NUAI
