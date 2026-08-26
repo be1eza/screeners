@@ -124,3 +124,5 @@ reset: false
 - [x] NASDAQ:SKHY
 - [x] AMEX:SVM
 - [x] NASDAQ:FUTU
+- [x] NYSE:WPM
+- [x] NYSE:SNOW
