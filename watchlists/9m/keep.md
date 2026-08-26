@@ -496,3 +496,12 @@ reset: false
 - [x] NASDAQ:NCPL
 - [x] NASDAQ:OFAL
 - [x] NASDAQ:JEM
+- [x] NASDAQ:QCOM
+- [x] NASDAQ:SMTC
+- [x] NYSE:GAP
+- [x] NYSE:ANF
+- [x] NYSE:BHVN
+- [x] NASDAQ:WSHP
+- [x] NASDAQ:YYGH
+- [x] NASDAQ:CRE
+- [x] NASDAQ:XPON
