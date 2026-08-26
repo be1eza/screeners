@@ -187,3 +187,9 @@ reset: false
 - [x] NASDAQ:USAR
 - [x] NYSE:BLSH
 - [x] NYSE:STDN
+- [x] NASDAQ:METC
+- [x] NYSE:BE
+- [x] NASDAQ:SHAZ
+- [x] AMEX:GTE
+- [x] NYSE:HL
+- [x] NASDAQ:MRVL
