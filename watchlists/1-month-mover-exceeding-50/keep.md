@@ -69,3 +69,4 @@ reset: false
 - [x] NYSE:DXYZ
 - [x] NASDAQ:RUM
 - [x] NYSE:STDN
+- [x] AMEX:GTE
