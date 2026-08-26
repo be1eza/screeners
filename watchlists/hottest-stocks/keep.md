@@ -83,3 +83,4 @@ reset: false
 - [x] NASDAQ:BLZE
 - [x] NYSE:RBRK
 - [x] NASDAQ:RUM
+- [x] NASDAQ:CRWD
