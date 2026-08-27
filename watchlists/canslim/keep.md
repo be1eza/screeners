@@ -126,3 +126,5 @@ reset: false
 - [x] NASDAQ:FUTU
 - [x] NYSE:WPM
 - [x] NYSE:SNOW
+- [x] NYSE:P
+- [x] NYSE:DKS
