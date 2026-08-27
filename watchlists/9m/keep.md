@@ -505,3 +505,14 @@ reset: false
 - [x] NASDAQ:YYGH
 - [x] NASDAQ:CRE
 - [x] NASDAQ:XPON
+- [x] NASDAQ:OKTA
+- [x] NYSE:BB
+- [x] NASDAQ:BTDR
+- [x] NASDAQ:UPXI
+- [x] NASDAQ:WNW
+- [x] NASDAQ:CELU
+- [x] AMEX:GNS
+- [x] AMEX:LGPS
+- [x] AMEX:CHOW
+- [x] NASDAQ:WKSP
+- [x] NASDAQ:GSUN
