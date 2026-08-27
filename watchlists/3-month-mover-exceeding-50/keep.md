@@ -171,3 +171,5 @@ reset: false
 - [x] NASDAQ:BLKB
 - [x] NASDAQ:AVAH
 - [x] NASDAQ:HOOD
+- [x] NASDAQ:PURR
+- [x] NYSE:ASAN
