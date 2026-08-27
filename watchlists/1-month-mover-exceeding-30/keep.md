@@ -193,3 +193,14 @@ reset: false
 - [x] AMEX:GTE
 - [x] NYSE:HL
 - [x] NASDAQ:MRVL
+- [x] NASDAQ:GLXY
+- [x] NASDAQ:SGML
+- [x] NYSE:COHR
+- [x] NASDAQ:COHU
+- [x] NASDAQ:ENTG
+- [x] NYSE:ONTO
+- [x] NASDAQ:SMTC
+- [x] NYSE:WOLF
+- [x] NASDAQ:FROG
+- [x] NASDAQ:BRUN
+- [x] NASDAQ:TH
