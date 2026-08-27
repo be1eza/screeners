@@ -98,3 +98,4 @@ reset: false
 - [x] NASDAQ:QLYS
 - [x] NYSE:RBRK
 - [x] NASDAQ:XMTR
+- [x] NASDAQ:RPD
