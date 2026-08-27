@@ -70,3 +70,12 @@ reset: false
 - [x] NASDAQ:RUM
 - [x] NYSE:STDN
 - [x] AMEX:GTE
+- [x] NYSE:CRCL
+- [x] NASDAQ:FIGR
+- [x] NASDAQ:LITE
+- [x] NASDAQ:ALM
+- [x] NYSE:MP
+- [x] NASDAQ:PPTA
+- [x] NYSE:BLSH
+- [x] NYSE:INFQ
+- [x] AMEX:UEC
