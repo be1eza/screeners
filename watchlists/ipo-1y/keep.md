@@ -61,3 +61,4 @@ reset: false
 - [x] NASDAQ:MFP
 - [x] NASDAQ:PURR
 - [x] NASDAQ:SKHY
+- [x] NYSE:ALH
