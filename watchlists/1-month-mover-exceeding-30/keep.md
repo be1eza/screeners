@@ -204,3 +204,4 @@ reset: false
 - [x] NASDAQ:FROG
 - [x] NASDAQ:BRUN
 - [x] NASDAQ:TH
+- [x] NYSE:ANF
