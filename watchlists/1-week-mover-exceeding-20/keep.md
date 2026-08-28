@@ -218,3 +218,4 @@ reset: false
 - [x] NASDAQ:EZPW
 - [x] NASDAQ:RUM
 - [x] AMEX:UEC
+- [x] NYSE:ANF
