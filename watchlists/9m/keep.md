@@ -516,3 +516,8 @@ reset: false
 - [x] AMEX:CHOW
 - [x] NASDAQ:WKSP
 - [x] NASDAQ:GSUN
+- [x] NASDAQ:TENB
+- [x] NASDAQ:DUO
+- [x] NASDAQ:FNGR
+- [x] NASDAQ:CYAB
+- [x] NASDAQ:WCT
