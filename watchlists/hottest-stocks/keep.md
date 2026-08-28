@@ -84,3 +84,5 @@ reset: false
 - [x] NYSE:RBRK
 - [x] NASDAQ:RUM
 - [x] NASDAQ:CRWD
+- [x] NASDAQ:BTSG
+- [x] NASDAQ:PLTR
