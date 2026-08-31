@@ -129,3 +129,4 @@ reset: false
 - [x] NYSE:P
 - [x] NYSE:DKS
 - [x] NASDAQ:SNPS
+- [x] NYSE:VG
