@@ -521,3 +521,15 @@ reset: false
 - [x] NASDAQ:FNGR
 - [x] NASDAQ:CYAB
 - [x] NASDAQ:WCT
+- [x] NASDAQ:SKHY
+- [x] NYSE:WMB
+- [x] NYSE:RBLX
+- [x] NASDAQ:SWKS
+- [x] NASDAQ:NEOV
+- [x] NASDAQ:SY
+- [x] NASDAQ:GPRO
+- [x] NASDAQ:COOT
+- [x] NYSE:SST
+- [x] NASDAQ:CLGN
+- [x] NASDAQ:LABT
+- [x] NASDAQ:PASW
