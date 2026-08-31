@@ -86,3 +86,5 @@ reset: false
 - [x] NASDAQ:CRWD
 - [x] NASDAQ:BTSG
 - [x] NASDAQ:PLTR
+- [x] NYSE:HNGE
+- [x] NYSE:ESTC
