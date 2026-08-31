@@ -79,3 +79,5 @@ reset: false
 - [x] NYSE:BLSH
 - [x] NYSE:INFQ
 - [x] AMEX:UEC
+- [x] NASDAQ:METC
+- [x] NASDAQ:BBNX
