@@ -205,3 +205,4 @@ reset: false
 - [x] NASDAQ:BRUN
 - [x] NASDAQ:TH
 - [x] NYSE:ANF
+- [x] NASDAQ:SPCX
