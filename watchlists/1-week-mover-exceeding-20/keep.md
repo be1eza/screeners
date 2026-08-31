@@ -219,3 +219,4 @@ reset: false
 - [x] NASDAQ:RUM
 - [x] AMEX:UEC
 - [x] NYSE:ANF
+- [x] NYSE:STDN
