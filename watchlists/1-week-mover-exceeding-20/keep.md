@@ -220,3 +220,4 @@ reset: false
 - [x] AMEX:UEC
 - [x] NYSE:ANF
 - [x] NYSE:STDN
+- [x] NASDAQ:FRVO
