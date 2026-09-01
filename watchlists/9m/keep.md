@@ -533,3 +533,10 @@ reset: false
 - [x] NASDAQ:CLGN
 - [x] NASDAQ:LABT
 - [x] NASDAQ:PASW
+- [x] NYSE:PBR-A
+- [x] NYSE:CRK
+- [x] NASDAQ:MIRA
+- [x] NASDAQ:RDAC
+- [x] NASDAQ:PETZ
+- [x] NASDAQ:SSM
+- [x] NASDAQ:FLYE
