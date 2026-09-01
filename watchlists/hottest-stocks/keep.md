@@ -88,3 +88,4 @@ reset: false
 - [x] NASDAQ:PLTR
 - [x] NYSE:HNGE
 - [x] NYSE:ESTC
+- [x] NASDAQ:DKNG
