@@ -206,3 +206,4 @@ reset: false
 - [x] NASDAQ:TH
 - [x] NYSE:ANF
 - [x] NASDAQ:SPCX
+- [x] NYSE:CVI
