@@ -62,3 +62,4 @@ reset: false
 - [x] NASDAQ:PURR
 - [x] NASDAQ:SKHY
 - [x] NYSE:ALH
+- [x] NASDAQ:GENB
