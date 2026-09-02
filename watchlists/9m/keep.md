@@ -540,3 +540,11 @@ reset: false
 - [x] NASDAQ:PETZ
 - [x] NASDAQ:SSM
 - [x] NASDAQ:FLYE
+- [x] NYSE:DELL
+- [x] NYSE:AES
+- [x] NASDAQ:XP
+- [x] NYSE:ACI
+- [x] NYSE:GBTG
+- [x] NASDAQ:VIOT
+- [x] NASDAQ:GELS
+- [x] NASDAQ:BIAF
