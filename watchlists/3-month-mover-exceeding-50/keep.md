@@ -174,3 +174,4 @@ reset: false
 - [x] NASDAQ:PURR
 - [x] NYSE:ASAN
 - [x] NYSE:ANF
+- [x] NASDAQ:ASST
