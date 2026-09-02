@@ -99,3 +99,4 @@ reset: false
 - [x] NYSE:RBRK
 - [x] NASDAQ:XMTR
 - [x] NASDAQ:RPD
+- [x] NASDAQ:OKTA
