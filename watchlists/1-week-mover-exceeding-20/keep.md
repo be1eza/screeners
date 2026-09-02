@@ -221,3 +221,5 @@ reset: false
 - [x] NYSE:ANF
 - [x] NYSE:STDN
 - [x] NASDAQ:FRVO
+- [x] NASDAQ:MMED
+- [x] NASDAQ:OKTA
