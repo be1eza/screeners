@@ -207,3 +207,4 @@ reset: false
 - [x] NYSE:ANF
 - [x] NASDAQ:SPCX
 - [x] NYSE:CVI
+- [x] NASDAQ:SDGR
