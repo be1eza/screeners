@@ -130,3 +130,4 @@ reset: false
 - [x] NYSE:DKS
 - [x] NASDAQ:SNPS
 - [x] NYSE:VG
+- [x] NASDAQ:MDB
