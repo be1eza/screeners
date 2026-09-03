@@ -131,3 +131,5 @@ reset: false
 - [x] NASDAQ:SNPS
 - [x] NYSE:VG
 - [x] NASDAQ:MDB
+- [x] NYSE:AADX
+- [x] NASDAQ:BULL
