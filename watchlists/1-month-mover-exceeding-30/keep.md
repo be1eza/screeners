@@ -208,3 +208,5 @@ reset: false
 - [x] NASDAQ:SPCX
 - [x] NYSE:CVI
 - [x] NASDAQ:SDGR
+- [x] NASDAQ:BULL
+- [x] NASDAQ:CLMT
