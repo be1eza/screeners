@@ -175,3 +175,4 @@ reset: false
 - [x] NYSE:ASAN
 - [x] NYSE:ANF
 - [x] NASDAQ:ASST
+- [x] NASDAQ:BULL
