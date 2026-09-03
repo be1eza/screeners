@@ -548,3 +548,9 @@ reset: false
 - [x] NASDAQ:VIOT
 - [x] NASDAQ:GELS
 - [x] NASDAQ:BIAF
+- [x] NASDAQ:SMMT
+- [x] NYSE:AI
+- [x] NYSE:CHPT
+- [x] NASDAQ:SPWR
+- [x] AMEX:OPTT
+- [x] AMEX:DSS
