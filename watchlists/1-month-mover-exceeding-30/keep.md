@@ -210,3 +210,4 @@ reset: false
 - [x] NASDAQ:SDGR
 - [x] NASDAQ:BULL
 - [x] NASDAQ:CLMT
+- [x] NASDAQ:HOOD
