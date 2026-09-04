@@ -133,3 +133,4 @@ reset: false
 - [x] NASDAQ:MDB
 - [x] NYSE:AADX
 - [x] NASDAQ:BULL
+- [x] NYSE:GFI
