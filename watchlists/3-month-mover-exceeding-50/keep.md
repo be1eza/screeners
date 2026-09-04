@@ -176,3 +176,5 @@ reset: false
 - [x] NYSE:ANF
 - [x] NASDAQ:ASST
 - [x] NASDAQ:BULL
+- [x] NYSE:BMNR
+- [x] NASDAQ:AYA
