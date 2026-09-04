@@ -32,3 +32,4 @@ reset: false
 - [x] NASDAQ:XNDU
 - [x] NASDAQ:IEP
 - [x] NASDAQ:NUAI
+- [x] NYSE:KVYO
