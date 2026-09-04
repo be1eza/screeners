@@ -100,3 +100,4 @@ reset: false
 - [x] NASDAQ:XMTR
 - [x] NASDAQ:RPD
 - [x] NASDAQ:OKTA
+- [x] NASDAQ:GTLB
