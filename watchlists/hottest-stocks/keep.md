@@ -90,3 +90,4 @@ reset: false
 - [x] NYSE:ESTC
 - [x] NASDAQ:DKNG
 - [x] NASDAQ:OLLI
+- [x] NASDAQ:FLYW
