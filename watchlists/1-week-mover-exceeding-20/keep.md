@@ -223,3 +223,5 @@ reset: false
 - [x] NASDAQ:FRVO
 - [x] NASDAQ:MMED
 - [x] NASDAQ:OKTA
+- [x] NASDAQ:SMTC
+- [x] NYSE:SMR
