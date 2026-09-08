@@ -101,3 +101,4 @@ reset: false
 - [x] NASDAQ:RPD
 - [x] NASDAQ:OKTA
 - [x] NASDAQ:GTLB
+- [x] NASDAQ:MRX
