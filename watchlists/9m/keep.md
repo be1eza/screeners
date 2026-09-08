@@ -554,3 +554,11 @@ reset: false
 - [x] NASDAQ:SPWR
 - [x] AMEX:OPTT
 - [x] AMEX:DSS
+- [x] NYSE:ASX
+- [x] NASDAQ:ROIV
+- [x] NASDAQ:WULF
+- [x] NASDAQ:EOSE
+- [x] NASDAQ:NUAI
+- [x] NYSE:SES
+- [x] NASDAQ:ATER
+- [x] AMEX:GCDT
