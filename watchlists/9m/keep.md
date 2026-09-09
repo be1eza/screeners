@@ -562,3 +562,11 @@ reset: false
 - [x] NYSE:SES
 - [x] NASDAQ:ATER
 - [x] AMEX:GCDT
+- [x] NYSE:GME
+- [x] NYSE:SID
+- [x] NASDAQ:IRD
+- [x] NASDAQ:ARBE
+- [x] NASDAQ:TENX
+- [x] NASDAQ:SUNE
+- [x] NASDAQ:UFG
+- [x] NASDAQ:YMAT
