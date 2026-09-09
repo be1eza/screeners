@@ -211,3 +211,4 @@ reset: false
 - [x] NASDAQ:BULL
 - [x] NASDAQ:CLMT
 - [x] NASDAQ:HOOD
+- [x] NASDAQ:BTDR
