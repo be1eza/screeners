@@ -225,3 +225,5 @@ reset: false
 - [x] NASDAQ:OKTA
 - [x] NASDAQ:SMTC
 - [x] NYSE:SMR
+- [x] NYSE:DELL
+- [x] NYSE:DOCN
