@@ -178,3 +178,6 @@ reset: false
 - [x] NASDAQ:BULL
 - [x] NYSE:BMNR
 - [x] NASDAQ:AYA
+- [x] NASDAQ:ODD
+- [x] NYSE:CVI
+- [x] NYSE:PARR
