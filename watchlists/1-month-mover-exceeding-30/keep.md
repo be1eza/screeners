@@ -212,3 +212,4 @@ reset: false
 - [x] NASDAQ:CLMT
 - [x] NASDAQ:HOOD
 - [x] NASDAQ:BTDR
+- [x] NASDAQ:IOND
