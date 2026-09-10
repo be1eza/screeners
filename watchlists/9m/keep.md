@@ -570,3 +570,10 @@ reset: false
 - [x] NASDAQ:SUNE
 - [x] NASDAQ:UFG
 - [x] NASDAQ:YMAT
+- [x] NYSE:ABEV
+- [x] NYSE:CIG
+- [x] NASDAQ:SEDG
+- [x] NASDAQ:NFE
+- [x] NASDAQ:GDHG
+- [x] NASDAQ:AHMA
+- [x] NASDAQ:PDSB
