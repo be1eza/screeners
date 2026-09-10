@@ -81,3 +81,4 @@ reset: false
 - [x] AMEX:UEC
 - [x] NASDAQ:METC
 - [x] NASDAQ:BBNX
+- [x] NASDAQ:AVAH
