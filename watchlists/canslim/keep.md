@@ -135,3 +135,5 @@ reset: false
 - [x] NASDAQ:BULL
 - [x] NYSE:GFI
 - [x] NYSE:BG
+- [x] NYSE:BKV
+- [x] NYSE:VIST
