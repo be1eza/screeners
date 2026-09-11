@@ -33,3 +33,5 @@ reset: false
 - [x] NASDAQ:IEP
 - [x] NASDAQ:NUAI
 - [x] NYSE:KVYO
+- [x] NYSE:AESI
+- [x] NASDAQ:MMED
