@@ -213,3 +213,4 @@ reset: false
 - [x] NASDAQ:HOOD
 - [x] NASDAQ:BTDR
 - [x] NASDAQ:IOND
+- [x] NYSE:ACVA
