@@ -181,3 +181,4 @@ reset: false
 - [x] NASDAQ:ODD
 - [x] NYSE:CVI
 - [x] NYSE:PARR
+- [x] NYSE:ACVA
