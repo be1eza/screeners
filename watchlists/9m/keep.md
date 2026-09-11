@@ -577,3 +577,6 @@ reset: false
 - [x] NASDAQ:GDHG
 - [x] NASDAQ:AHMA
 - [x] NASDAQ:PDSB
+- [x] NASDAQ:ERIC
+- [x] NASDAQ:KEEL
+- [x] AMEX:AEON
