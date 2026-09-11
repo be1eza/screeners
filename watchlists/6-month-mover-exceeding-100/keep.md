@@ -102,3 +102,6 @@ reset: false
 - [x] NASDAQ:OKTA
 - [x] NASDAQ:GTLB
 - [x] NASDAQ:MRX
+- [x] NYSE:ACVA
+- [x] NASDAQ:AVAH
+- [x] NASDAQ:SMTC
