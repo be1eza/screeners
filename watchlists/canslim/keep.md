@@ -137,3 +137,4 @@ reset: false
 - [x] NYSE:BG
 - [x] NYSE:BKV
 - [x] NYSE:VIST
+- [x] NASDAQ:DASH
