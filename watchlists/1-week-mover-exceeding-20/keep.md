@@ -227,3 +227,5 @@ reset: false
 - [x] NYSE:SMR
 - [x] NYSE:DELL
 - [x] NYSE:DOCN
+- [x] NYSE:ACVA
+- [x] NASDAQ:ODD
