@@ -91,3 +91,4 @@ reset: false
 - [x] NASDAQ:DKNG
 - [x] NASDAQ:OLLI
 - [x] NASDAQ:FLYW
+- [x] NASDAQ:FSLR
