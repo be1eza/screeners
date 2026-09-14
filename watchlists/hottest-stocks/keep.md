@@ -92,3 +92,4 @@ reset: false
 - [x] NASDAQ:OLLI
 - [x] NASDAQ:FLYW
 - [x] NASDAQ:FSLR
+- [x] NYSE:ORCL
