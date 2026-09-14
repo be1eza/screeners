@@ -580,3 +580,8 @@ reset: false
 - [x] NASDAQ:ERIC
 - [x] NASDAQ:KEEL
 - [x] AMEX:AEON
+- [x] NYSE:IOT
+- [x] NASDAQ:NTSK
+- [x] NASDAQ:BWIN
+- [x] NASDAQ:FTFT
+- [x] NASDAQ:SCNI
