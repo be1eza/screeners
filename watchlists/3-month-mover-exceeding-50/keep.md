@@ -182,3 +182,4 @@ reset: false
 - [x] NYSE:CVI
 - [x] NYSE:PARR
 - [x] NYSE:ACVA
+- [x] NASDAQ:SDGR
