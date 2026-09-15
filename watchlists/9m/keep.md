@@ -585,3 +585,11 @@ reset: false
 - [x] NASDAQ:BWIN
 - [x] NASDAQ:FTFT
 - [x] NASDAQ:SCNI
+- [x] NYSE:OXY
+- [x] NYSE:KR
+- [x] NYSE:PDM
+- [x] NASDAQ:VRA
+- [x] NASDAQ:RETO
+- [x] NASDAQ:BNGO
+- [x] NASDAQ:VEEA
+- [x] NASDAQ:MEDS
