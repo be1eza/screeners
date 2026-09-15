@@ -229,3 +229,4 @@ reset: false
 - [x] NYSE:DOCN
 - [x] NYSE:ACVA
 - [x] NASDAQ:ODD
+- [x] NYSE:S
