@@ -593,3 +593,8 @@ reset: false
 - [x] NASDAQ:BNGO
 - [x] NASDAQ:VEEA
 - [x] NASDAQ:MEDS
+- [x] NASDAQ:BZAI
+- [x] NASDAQ:DLXY
+- [x] NASDAQ:TPST
+- [x] NASDAQ:NAMI
+- [x] NASDAQ:SNYR
