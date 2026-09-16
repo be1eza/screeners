@@ -82,3 +82,4 @@ reset: false
 - [x] NASDAQ:METC
 - [x] NASDAQ:BBNX
 - [x] NASDAQ:AVAH
+- [x] NASDAQ:ODD
