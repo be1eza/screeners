@@ -105,3 +105,4 @@ reset: false
 - [x] NYSE:ACVA
 - [x] NASDAQ:AVAH
 - [x] NASDAQ:SMTC
+- [x] NASDAQ:BBNX
