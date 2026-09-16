@@ -183,3 +183,4 @@ reset: false
 - [x] NYSE:PARR
 - [x] NYSE:ACVA
 - [x] NASDAQ:SDGR
+- [x] NASDAQ:ZS
