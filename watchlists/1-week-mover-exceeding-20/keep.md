@@ -230,3 +230,4 @@ reset: false
 - [x] NYSE:ACVA
 - [x] NASDAQ:ODD
 - [x] NYSE:S
+- [x] NASDAQ:SDGR
