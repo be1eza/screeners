@@ -138,3 +138,5 @@ reset: false
 - [x] NYSE:BKV
 - [x] NYSE:VIST
 - [x] NASDAQ:DASH
+- [x] NASDAQ:FTAI
+- [x] NASDAQ:TRMD
