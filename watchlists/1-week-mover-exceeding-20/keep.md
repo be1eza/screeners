@@ -231,3 +231,4 @@ reset: false
 - [x] NASDAQ:ODD
 - [x] NYSE:S
 - [x] NASDAQ:SDGR
+- [x] NASDAQ:ZS
