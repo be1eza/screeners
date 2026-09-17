@@ -106,3 +106,6 @@ reset: false
 - [x] NASDAQ:AVAH
 - [x] NASDAQ:SMTC
 - [x] NASDAQ:BBNX
+- [x] NASDAQ:GH
+- [x] NASDAQ:SDGR
+- [x] NASDAQ:AYA
