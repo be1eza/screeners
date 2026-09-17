@@ -598,3 +598,10 @@ reset: false
 - [x] NASDAQ:TPST
 - [x] NASDAQ:NAMI
 - [x] NASDAQ:SNYR
+- [x] NYSE:FPS
+- [x] NASDAQ:PGEN
+- [x] NYSE:ACVA
+- [x] AMEX:PAAI
+- [x] NASDAQ:AIFF
+- [x] NASDAQ:DTSS
+- [x] NASDAQ:VRME
