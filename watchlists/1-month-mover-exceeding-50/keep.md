@@ -83,3 +83,4 @@ reset: false
 - [x] NASDAQ:BBNX
 - [x] NASDAQ:AVAH
 - [x] NASDAQ:ODD
+- [x] NASDAQ:SDGR
