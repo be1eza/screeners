@@ -214,3 +214,4 @@ reset: false
 - [x] NASDAQ:BTDR
 - [x] NASDAQ:IOND
 - [x] NYSE:ACVA
+- [x] NASDAQ:SWKS
