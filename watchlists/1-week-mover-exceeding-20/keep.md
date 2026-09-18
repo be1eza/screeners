@@ -232,3 +232,5 @@ reset: false
 - [x] NYSE:S
 - [x] NASDAQ:SDGR
 - [x] NASDAQ:ZS
+- [x] NASDAQ:ABTC
+- [x] NYSE:SECZ
