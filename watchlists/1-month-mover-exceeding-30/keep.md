@@ -215,3 +215,5 @@ reset: false
 - [x] NASDAQ:IOND
 - [x] NYSE:ACVA
 - [x] NASDAQ:SWKS
+- [x] NASDAQ:MARA
+- [x] NYSE:SECZ
