@@ -94,3 +94,4 @@ reset: false
 - [x] NASDAQ:FSLR
 - [x] NYSE:ORCL
 - [x] NASDAQ:TTAN
+- [x] NYSE:DINO
