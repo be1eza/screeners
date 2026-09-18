@@ -84,3 +84,4 @@ reset: false
 - [x] NASDAQ:AVAH
 - [x] NASDAQ:ODD
 - [x] NASDAQ:SDGR
+- [x] NYSE:SECZ
