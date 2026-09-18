@@ -184,3 +184,4 @@ reset: false
 - [x] NYSE:ACVA
 - [x] NASDAQ:SDGR
 - [x] NASDAQ:ZS
+- [x] NYSE:BLSH
