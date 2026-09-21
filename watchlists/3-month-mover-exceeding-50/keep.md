@@ -185,3 +185,4 @@ reset: false
 - [x] NASDAQ:SDGR
 - [x] NASDAQ:ZS
 - [x] NYSE:BLSH
+- [x] NASDAQ:MSTR
