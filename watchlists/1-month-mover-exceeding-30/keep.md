@@ -217,3 +217,7 @@ reset: false
 - [x] NASDAQ:SWKS
 - [x] NASDAQ:MARA
 - [x] NYSE:SECZ
+- [x] NASDAQ:USDE
+- [x] NYSE:DELL
+- [x] NASDAQ:MXL
+- [x] NASDAQ:CRWD
