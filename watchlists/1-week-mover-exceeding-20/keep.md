@@ -234,3 +234,4 @@ reset: false
 - [x] NASDAQ:ZS
 - [x] NASDAQ:ABTC
 - [x] NYSE:SECZ
+- [x] NASDAQ:USDE
