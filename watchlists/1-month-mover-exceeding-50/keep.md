@@ -85,3 +85,4 @@ reset: false
 - [x] NASDAQ:ODD
 - [x] NASDAQ:SDGR
 - [x] NYSE:SECZ
+- [x] NASDAQ:USDE
