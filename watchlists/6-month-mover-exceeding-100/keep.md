@@ -109,3 +109,4 @@ reset: false
 - [x] NASDAQ:GH
 - [x] NASDAQ:SDGR
 - [x] NASDAQ:AYA
+- [x] NASDAQ:SMCI
