@@ -627,3 +627,16 @@ reset: false
 - [x] NASDAQ:IMCC
 - [x] NASDAQ:SLXN
 - [x] NASDAQ:ZTG
+- [x] NASDAQ:ARM
+- [x] NYSE:APH
+- [x] NYSE:DAL
+- [x] NYSE:DT
+- [x] NASDAQ:AAL
+- [x] NASDAQ:VNET
+- [x] NYSE:TE
+- [x] NASDAQ:PRTH
+- [x] NASDAQ:IVVD
+- [x] NASDAQ:AVAT
+- [x] NASDAQ:GRML
+- [x] NASDAQ:BTTC
+- [x] NASDAQ:FAMI
