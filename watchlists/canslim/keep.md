@@ -140,3 +140,4 @@ reset: false
 - [x] NASDAQ:DASH
 - [x] NASDAQ:FTAI
 - [x] NASDAQ:TRMD
+- [x] NYSE:JHX
