@@ -640,3 +640,16 @@ reset: false
 - [x] NASDAQ:GRML
 - [x] NASDAQ:BTTC
 - [x] NASDAQ:FAMI
+- [x] NASDAQ:KLAC
+- [x] NASDAQ:MDLN
+- [x] NASDAQ:GLXY
+- [x] NASDAQ:VKTX
+- [x] NYSE:CPRI
+- [x] NASDAQ:EU
+- [x] NASDAQ:FLNA
+- [x] NASDAQ:ZEO
+- [x] NASDAQ:RAIN
+- [x] NASDAQ:JAGX
+- [x] NASDAQ:BFRG
+- [x] NASDAQ:CWD
+- [x] NASDAQ:EPSM
