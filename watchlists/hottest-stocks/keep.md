@@ -95,3 +95,4 @@ reset: false
 - [x] NYSE:ORCL
 - [x] NASDAQ:TTAN
 - [x] NYSE:DINO
+- [x] NASDAQ:SBET
