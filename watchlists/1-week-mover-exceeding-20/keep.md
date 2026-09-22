@@ -235,3 +235,7 @@ reset: false
 - [x] NASDAQ:ABTC
 - [x] NYSE:SECZ
 - [x] NASDAQ:USDE
+- [x] NASDAQ:SBET
+- [x] NASDAQ:GRAL
+- [x] NASDAQ:APLD
+- [x] NASDAQ:AIP
