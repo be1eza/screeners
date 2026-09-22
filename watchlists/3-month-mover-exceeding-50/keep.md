@@ -186,3 +186,6 @@ reset: false
 - [x] NASDAQ:ZS
 - [x] NYSE:BLSH
 - [x] NASDAQ:MSTR
+- [x] NASDAQ:SBET
+- [x] NASDAQ:GRAL
+- [x] NASDAQ:SENS
