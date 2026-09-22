@@ -221,3 +221,6 @@ reset: false
 - [x] NYSE:DELL
 - [x] NASDAQ:MXL
 - [x] NASDAQ:CRWD
+- [x] NASDAQ:HUT
+- [x] NASDAQ:GRAL
+- [x] NASDAQ:VICR
