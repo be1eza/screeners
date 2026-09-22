@@ -141,3 +141,7 @@ reset: false
 - [x] NASDAQ:FTAI
 - [x] NASDAQ:TRMD
 - [x] NYSE:JHX
+- [x] NASDAQ:SBET
+- [x] NASDAQ:AUGO
+- [x] NASDAQ:META
+- [x] NYSE:FRO
