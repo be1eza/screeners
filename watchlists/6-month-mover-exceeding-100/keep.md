@@ -110,3 +110,4 @@ reset: false
 - [x] NASDAQ:SDGR
 - [x] NASDAQ:AYA
 - [x] NASDAQ:SMCI
+- [x] NASDAQ:GRAL
