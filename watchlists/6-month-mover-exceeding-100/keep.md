@@ -111,3 +111,5 @@ reset: false
 - [x] NASDAQ:AYA
 - [x] NASDAQ:SMCI
 - [x] NASDAQ:GRAL
+- [x] NYSE:TRLV
+- [x] NASDAQ:NTSK
