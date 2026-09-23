@@ -239,3 +239,4 @@ reset: false
 - [x] NASDAQ:GRAL
 - [x] NASDAQ:APLD
 - [x] NASDAQ:AIP
+- [x] NASDAQ:ACMR
