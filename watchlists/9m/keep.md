@@ -653,3 +653,13 @@ reset: false
 - [x] NASDAQ:BFRG
 - [x] NASDAQ:CWD
 - [x] NASDAQ:EPSM
+- [x] NASDAQ:ON
+- [x] NASDAQ:NNBR
+- [x] NASDAQ:GLND
+- [x] NASDAQ:INVZ
+- [x] NYSE:SRFM
+- [x] NASDAQ:COSM
+- [x] NASDAQ:ARTL
+- [x] NASDAQ:ONCO
+- [x] NASDAQ:VSA
+- [x] NASDAQ:MSS
