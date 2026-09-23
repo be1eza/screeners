@@ -86,3 +86,4 @@ reset: false
 - [x] NASDAQ:SDGR
 - [x] NYSE:SECZ
 - [x] NASDAQ:USDE
+- [x] NASDAQ:OKTA
