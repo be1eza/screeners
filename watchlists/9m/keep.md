@@ -663,3 +663,8 @@ reset: false
 - [x] NASDAQ:ONCO
 - [x] NASDAQ:VSA
 - [x] NASDAQ:MSS
+- [x] NYSE:P
+- [x] NYSE:GDDY
+- [x] NASDAQ:SRZN
+- [x] NASDAQ:SPHL
+- [x] NASDAQ:PMAX
