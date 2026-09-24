@@ -145,3 +145,4 @@ reset: false
 - [x] NASDAQ:AUGO
 - [x] NASDAQ:META
 - [x] NYSE:FRO
+- [x] NASDAQ:CDNA
