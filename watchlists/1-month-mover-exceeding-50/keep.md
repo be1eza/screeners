@@ -87,3 +87,4 @@ reset: false
 - [x] NYSE:SECZ
 - [x] NASDAQ:USDE
 - [x] NASDAQ:OKTA
+- [x] NASDAQ:GRAL
