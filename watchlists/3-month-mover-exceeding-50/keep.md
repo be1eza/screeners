@@ -189,3 +189,6 @@ reset: false
 - [x] NASDAQ:SBET
 - [x] NASDAQ:GRAL
 - [x] NASDAQ:SENS
+- [x] NASDAQ:USDE
+- [x] NYSE:INSP
+- [x] NYSE:SECZ
