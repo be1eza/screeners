@@ -224,3 +224,4 @@ reset: false
 - [x] NASDAQ:HUT
 - [x] NASDAQ:GRAL
 - [x] NASDAQ:VICR
+- [x] NYSE:SEI
