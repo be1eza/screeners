@@ -113,3 +113,6 @@ reset: false
 - [x] NASDAQ:GRAL
 - [x] NYSE:TRLV
 - [x] NASDAQ:NTSK
+- [x] NYSE:P
+- [x] NYSE:BE
+- [x] NASDAQ:MRAM
