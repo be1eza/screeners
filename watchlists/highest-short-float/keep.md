@@ -35,3 +35,6 @@ reset: false
 - [x] NYSE:KVYO
 - [x] NYSE:AESI
 - [x] NASDAQ:MMED
+- [x] NYSE:EROC
+- [x] NASDAQ:FCEL
+- [x] NASDAQ:MNRO
