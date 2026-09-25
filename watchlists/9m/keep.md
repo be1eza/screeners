@@ -668,3 +668,10 @@ reset: false
 - [x] NASDAQ:SRZN
 - [x] NASDAQ:SPHL
 - [x] NASDAQ:PMAX
+- [x] NYSE:STM
+- [x] NASDAQ:MCHP
+- [x] NASDAQ:SHMD
+- [x] NASDAQ:MSGY
+- [x] NASDAQ:TDIC
+- [x] NASDAQ:IFBD
+- [x] NASDAQ:CNET
