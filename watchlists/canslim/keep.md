@@ -146,3 +146,4 @@ reset: false
 - [x] NASDAQ:META
 - [x] NYSE:FRO
 - [x] NASDAQ:CDNA
+- [x] NYSE:GIL
