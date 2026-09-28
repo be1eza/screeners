@@ -63,3 +63,4 @@ reset: false
 - [x] NASDAQ:SKHY
 - [x] NYSE:ALH
 - [x] NASDAQ:GENB
+- [x] NASDAQ:CBC
