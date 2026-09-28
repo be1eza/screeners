@@ -116,3 +116,5 @@ reset: false
 - [x] NYSE:P
 - [x] NYSE:BE
 - [x] NASDAQ:MRAM
+- [x] NASDAQ:CBRL
+- [x] NASDAQ:TENB
