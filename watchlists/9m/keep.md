@@ -675,3 +675,6 @@ reset: false
 - [x] NASDAQ:TDIC
 - [x] NASDAQ:IFBD
 - [x] NASDAQ:CNET
+- [x] NASDAQ:KOD
+- [x] NYSE:AEO
+- [x] NASDAQ:ARAY
