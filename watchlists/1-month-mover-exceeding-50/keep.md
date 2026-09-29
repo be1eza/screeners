@@ -88,3 +88,5 @@ reset: false
 - [x] NASDAQ:USDE
 - [x] NASDAQ:OKTA
 - [x] NASDAQ:GRAL
+- [x] NASDAQ:VICR
+- [x] NASDAQ:MXL
