@@ -118,3 +118,4 @@ reset: false
 - [x] NASDAQ:MRAM
 - [x] NASDAQ:CBRL
 - [x] NASDAQ:TENB
+- [x] NASDAQ:VICR
