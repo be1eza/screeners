@@ -240,3 +240,5 @@ reset: false
 - [x] NASDAQ:APLD
 - [x] NASDAQ:AIP
 - [x] NASDAQ:ACMR
+- [x] NASDAQ:TJGC
+- [x] NASDAQ:PWP
