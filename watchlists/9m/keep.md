@@ -678,3 +678,10 @@ reset: false
 - [x] NASDAQ:KOD
 - [x] NYSE:AEO
 - [x] NASDAQ:ARAY
+- [x] NASDAQ:XERS
+- [x] NASDAQ:BGIN
+- [x] NASDAQ:QSI
+- [x] NASDAQ:NAUT
+- [x] AMEX:SDEV
+- [x] NASDAQ:TEAD
+- [x] NASDAQ:TURB
