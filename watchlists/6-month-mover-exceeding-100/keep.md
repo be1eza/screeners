@@ -119,3 +119,4 @@ reset: false
 - [x] NASDAQ:CBRL
 - [x] NASDAQ:TENB
 - [x] NASDAQ:VICR
+- [x] NASDAQ:ACMR
