@@ -685,3 +685,4 @@ reset: false
 - [x] AMEX:SDEV
 - [x] NASDAQ:TEAD
 - [x] NASDAQ:TURB
+- [x] NYSE:TGE
