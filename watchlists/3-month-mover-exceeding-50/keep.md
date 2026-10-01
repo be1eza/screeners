@@ -192,3 +192,4 @@ reset: false
 - [x] NASDAQ:USDE
 - [x] NYSE:INSP
 - [x] NYSE:SECZ
+- [x] NASDAQ:SMCI
