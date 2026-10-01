@@ -686,3 +686,5 @@ reset: false
 - [x] NASDAQ:TEAD
 - [x] NASDAQ:TURB
 - [x] NYSE:TGE
+- [x] NASDAQ:CRDO
+- [x] NASDAQ:AISP
