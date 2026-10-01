@@ -225,3 +225,5 @@ reset: false
 - [x] NASDAQ:GRAL
 - [x] NASDAQ:VICR
 - [x] NYSE:SEI
+- [x] NASDAQ:INOD
+- [x] NYSE:TWLO
