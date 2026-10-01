@@ -90,3 +90,5 @@ reset: false
 - [x] NASDAQ:GRAL
 - [x] NASDAQ:VICR
 - [x] NASDAQ:MXL
+- [x] NASDAQ:COHU
+- [x] NASDAQ:FORM
