@@ -227,3 +227,8 @@ reset: false
 - [x] NYSE:SEI
 - [x] NASDAQ:INOD
 - [x] NYSE:TWLO
+- [x] NASDAQ:VIAV
+- [x] NYSE:FPS
+- [x] NYSE:CLS
+- [x] NASDAQ:ARM
+- [x] NYSE:DOCN
