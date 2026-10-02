@@ -688,3 +688,9 @@ reset: false
 - [x] NYSE:TGE
 - [x] NASDAQ:CRDO
 - [x] NASDAQ:AISP
+- [x] NYSE:SBS
+- [x] NASDAQ:VIAV
+- [x] NASDAQ:XRPN
+- [x] NASDAQ:QTEX
+- [x] NASDAQ:AMOD
+- [x] NASDAQ:TNMG
