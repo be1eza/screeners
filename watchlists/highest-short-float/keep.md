@@ -38,3 +38,4 @@ reset: false
 - [x] NYSE:EROC
 - [x] NASDAQ:FCEL
 - [x] NASDAQ:MNRO
+- [x] AMEX:SDEV
