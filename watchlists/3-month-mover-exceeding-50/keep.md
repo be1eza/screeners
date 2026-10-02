@@ -193,3 +193,4 @@ reset: false
 - [x] NYSE:INSP
 - [x] NYSE:SECZ
 - [x] NASDAQ:SMCI
+- [x] NASDAQ:FRNM
