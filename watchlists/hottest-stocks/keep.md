@@ -96,3 +96,4 @@ reset: false
 - [x] NASDAQ:TTAN
 - [x] NYSE:DINO
 - [x] NASDAQ:SBET
+- [x] NASDAQ:LQDA
