@@ -232,3 +232,4 @@ reset: false
 - [x] NYSE:CLS
 - [x] NASDAQ:ARM
 - [x] NYSE:DOCN
+- [x] NYSE:RXO
