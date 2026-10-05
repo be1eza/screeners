@@ -64,3 +64,4 @@ reset: false
 - [x] NYSE:ALH
 - [x] NASDAQ:GENB
 - [x] NASDAQ:CBC
+- [x] NASDAQ:ADRX
