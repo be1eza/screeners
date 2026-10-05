@@ -694,3 +694,12 @@ reset: false
 - [x] NASDAQ:QTEX
 - [x] NASDAQ:AMOD
 - [x] NASDAQ:TNMG
+- [x] NYSE:TJX
+- [x] NYSE:VST
+- [x] NYSE:TWLO
+- [x] NASDAQ:GMAB
+- [x] NYSE:PAGS
+- [x] NASDAQ:INTR
+- [x] NASDAQ:STNE
+- [x] AMEX:MI
+- [x] NASDAQ:OLOX
