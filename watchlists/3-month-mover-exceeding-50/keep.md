@@ -194,3 +194,6 @@ reset: false
 - [x] NYSE:SECZ
 - [x] NASDAQ:SMCI
 - [x] NASDAQ:FRNM
+- [x] NASDAQ:LITE
+- [x] NASDAQ:AEHR
+- [x] NASDAQ:SMTC
