@@ -242,3 +242,4 @@ reset: false
 - [x] NASDAQ:ACMR
 - [x] NASDAQ:TJGC
 - [x] NASDAQ:PWP
+- [x] NYSE:RXO
