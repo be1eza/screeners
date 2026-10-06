@@ -233,3 +233,5 @@ reset: false
 - [x] NASDAQ:ARM
 - [x] NYSE:DOCN
 - [x] NYSE:RXO
+- [x] NYSE:CIEN
+- [x] NASDAQ:FCEL
