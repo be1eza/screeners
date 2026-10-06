@@ -703,3 +703,11 @@ reset: false
 - [x] NASDAQ:STNE
 - [x] AMEX:MI
 - [x] NASDAQ:OLOX
+- [x] NYSE:PG
+- [x] NASDAQ:CEG
+- [x] NYSE:CTVA
+- [x] NYSE:PL
+- [x] NASDAQ:PENG
+- [x] NASDAQ:MOBX
+- [x] AMEX:APUS
+- [x] NASDAQ:OLB
