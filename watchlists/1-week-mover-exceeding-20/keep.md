@@ -243,3 +243,5 @@ reset: false
 - [x] NASDAQ:TJGC
 - [x] NASDAQ:PWP
 - [x] NYSE:RXO
+- [x] NYSE:CIEN
+- [x] NASDAQ:MAT
