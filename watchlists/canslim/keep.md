@@ -147,3 +147,4 @@ reset: false
 - [x] NYSE:FRO
 - [x] NASDAQ:CDNA
 - [x] NYSE:GIL
+- [x] NYSE:MRP
