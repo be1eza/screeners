@@ -65,3 +65,4 @@ reset: false
 - [x] NASDAQ:GENB
 - [x] NASDAQ:CBC
 - [x] NASDAQ:ADRX
+- [x] NYSE:VYLR
