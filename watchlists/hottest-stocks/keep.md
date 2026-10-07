@@ -97,3 +97,4 @@ reset: false
 - [x] NYSE:DINO
 - [x] NASDAQ:SBET
 - [x] NASDAQ:LQDA
+- [x] NASDAQ:ADPT
