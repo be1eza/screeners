@@ -120,3 +120,4 @@ reset: false
 - [x] NASDAQ:TENB
 - [x] NASDAQ:VICR
 - [x] NASDAQ:ACMR
+- [x] NASDAQ:ILMN
