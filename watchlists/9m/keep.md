@@ -711,3 +711,8 @@ reset: false
 - [x] NASDAQ:MOBX
 - [x] AMEX:APUS
 - [x] NASDAQ:OLB
+- [x] NASDAQ:PCVX
+- [x] NYSE:M
+- [x] NASDAQ:PRME
+- [x] NASDAQ:PFAI
+- [x] NASDAQ:IRIX
