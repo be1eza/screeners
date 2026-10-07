@@ -235,3 +235,5 @@ reset: false
 - [x] NYSE:RXO
 - [x] NYSE:CIEN
 - [x] NASDAQ:FCEL
+- [x] NASDAQ:PENG
+- [x] NASDAQ:ALAB
