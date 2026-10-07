@@ -148,3 +148,4 @@ reset: false
 - [x] NASDAQ:CDNA
 - [x] NYSE:GIL
 - [x] NYSE:MRP
+- [x] NASDAQ:PENG
