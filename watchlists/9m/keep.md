@@ -716,3 +716,8 @@ reset: false
 - [x] NASDAQ:PRME
 - [x] NASDAQ:PFAI
 - [x] NASDAQ:IRIX
+- [x] NASDAQ:GFS
+- [x] NASDAQ:NTLA
+- [x] NASDAQ:PCRX
+- [x] AMEX:TOPP
+- [x] NASDAQ:JZ
