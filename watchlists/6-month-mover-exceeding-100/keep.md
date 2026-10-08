@@ -121,3 +121,5 @@ reset: false
 - [x] NASDAQ:VICR
 - [x] NASDAQ:ACMR
 - [x] NASDAQ:ILMN
+- [x] NASDAQ:NEO
+- [x] NASDAQ:SPT
