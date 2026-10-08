@@ -237,3 +237,4 @@ reset: false
 - [x] NASDAQ:FCEL
 - [x] NASDAQ:PENG
 - [x] NASDAQ:ALAB
+- [x] NASDAQ:XERS
