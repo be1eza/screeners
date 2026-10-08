@@ -149,3 +149,4 @@ reset: false
 - [x] NYSE:GIL
 - [x] NYSE:MRP
 - [x] NASDAQ:PENG
+- [x] NYSE:GKOS
