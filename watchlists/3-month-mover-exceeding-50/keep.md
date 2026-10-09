@@ -197,3 +197,5 @@ reset: false
 - [x] NASDAQ:LITE
 - [x] NASDAQ:AEHR
 - [x] NASDAQ:SMTC
+- [x] NYSE:FIGS
+- [x] NASDAQ:WFF
