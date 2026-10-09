@@ -721,3 +721,7 @@ reset: false
 - [x] NASDAQ:PCRX
 - [x] AMEX:TOPP
 - [x] NASDAQ:JZ
+- [x] NYSE:CCI
+- [x] NYSE:BEKE
+- [x] NASDAQ:SVC
+- [x] NASDAQ:WFF
