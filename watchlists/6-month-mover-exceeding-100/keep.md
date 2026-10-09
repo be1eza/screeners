@@ -123,3 +123,5 @@ reset: false
 - [x] NASDAQ:ILMN
 - [x] NASDAQ:NEO
 - [x] NASDAQ:SPT
+- [x] NASDAQ:ADPT
+- [x] NASDAQ:WFF
