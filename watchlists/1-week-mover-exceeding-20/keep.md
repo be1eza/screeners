@@ -245,3 +245,5 @@ reset: false
 - [x] NYSE:RXO
 - [x] NYSE:CIEN
 - [x] NASDAQ:MAT
+- [x] NASDAQ:QDEL
+- [x] NASDAQ:WFF
