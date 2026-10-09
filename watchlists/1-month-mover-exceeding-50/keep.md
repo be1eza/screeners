@@ -92,3 +92,5 @@ reset: false
 - [x] NASDAQ:MXL
 - [x] NASDAQ:COHU
 - [x] NASDAQ:FORM
+- [x] NASDAQ:PENG
+- [x] NASDAQ:WFF
