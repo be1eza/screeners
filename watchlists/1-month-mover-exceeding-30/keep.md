@@ -238,3 +238,6 @@ reset: false
 - [x] NASDAQ:PENG
 - [x] NASDAQ:ALAB
 - [x] NASDAQ:XERS
+- [x] NASDAQ:ILMN
+- [x] NASDAQ:XMTR
+- [x] NASDAQ:WFF
