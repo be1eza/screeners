@@ -39,3 +39,4 @@ reset: false
 - [x] NASDAQ:FCEL
 - [x] NASDAQ:MNRO
 - [x] AMEX:SDEV
+- [x] NASDAQ:SHOE
