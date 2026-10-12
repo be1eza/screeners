@@ -125,3 +125,4 @@ reset: false
 - [x] NASDAQ:SPT
 - [x] NASDAQ:ADPT
 - [x] NASDAQ:WFF
+- [x] NASDAQ:PAYS
