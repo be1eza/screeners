@@ -199,3 +199,4 @@ reset: false
 - [x] NASDAQ:SMTC
 - [x] NYSE:FIGS
 - [x] NASDAQ:WFF
+- [x] NASDAQ:PAYS
