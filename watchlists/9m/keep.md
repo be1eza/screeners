@@ -725,3 +725,10 @@ reset: false
 - [x] NYSE:BEKE
 - [x] NASDAQ:SVC
 - [x] NASDAQ:WFF
+- [x] NYSE:FIGS
+- [x] NASDAQ:BMBL
+- [x] NASDAQ:SKYA
+- [x] NASDAQ:CLWT
+- [x] NASDAQ:LNKS
+- [x] NASDAQ:MNDR
+- [x] NASDAQ:FCHL
