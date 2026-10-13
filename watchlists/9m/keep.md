@@ -732,3 +732,6 @@ reset: false
 - [x] NASDAQ:LNKS
 - [x] NASDAQ:MNDR
 - [x] NASDAQ:FCHL
+- [x] NASDAQ:JYD
+- [x] NASDAQ:TCRT
+- [x] NASDAQ:JBDI
