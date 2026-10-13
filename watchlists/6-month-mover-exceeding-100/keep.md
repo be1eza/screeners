@@ -126,3 +126,4 @@ reset: false
 - [x] NASDAQ:ADPT
 - [x] NASDAQ:WFF
 - [x] NASDAQ:PAYS
+- [x] NYSE:CVI
