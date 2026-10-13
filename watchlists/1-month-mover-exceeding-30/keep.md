@@ -241,3 +241,4 @@ reset: false
 - [x] NASDAQ:ILMN
 - [x] NASDAQ:XMTR
 - [x] NASDAQ:WFF
+- [x] NYSE:SG
