@@ -200,3 +200,5 @@ reset: false
 - [x] NYSE:FIGS
 - [x] NASDAQ:WFF
 - [x] NASDAQ:PAYS
+- [x] NYSE:SG
+- [x] NASDAQ:BSP
