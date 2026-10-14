@@ -735,3 +735,5 @@ reset: false
 - [x] NASDAQ:JYD
 - [x] NASDAQ:TCRT
 - [x] NASDAQ:JBDI
+- [x] NASDAQ:BSP
+- [x] NASDAQ:MXCT
