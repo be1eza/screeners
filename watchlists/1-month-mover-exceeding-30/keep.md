@@ -242,3 +242,4 @@ reset: false
 - [x] NASDAQ:XMTR
 - [x] NASDAQ:WFF
 - [x] NYSE:SG
+- [x] NASDAQ:CBRL
