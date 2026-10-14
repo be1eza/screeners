@@ -247,3 +247,4 @@ reset: false
 - [x] NASDAQ:MAT
 - [x] NASDAQ:QDEL
 - [x] NASDAQ:WFF
+- [x] NASDAQ:LQDA
