@@ -94,3 +94,4 @@ reset: false
 - [x] NASDAQ:FORM
 - [x] NASDAQ:PENG
 - [x] NASDAQ:WFF
+- [x] NASDAQ:CBRL
