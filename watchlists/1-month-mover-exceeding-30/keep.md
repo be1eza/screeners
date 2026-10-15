@@ -243,3 +243,4 @@ reset: false
 - [x] NASDAQ:WFF
 - [x] NYSE:SG
 - [x] NASDAQ:CBRL
+- [x] NASDAQ:MAT
