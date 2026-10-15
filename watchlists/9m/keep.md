@@ -737,3 +737,8 @@ reset: false
 - [x] NASDAQ:JBDI
 - [x] NASDAQ:BSP
 - [x] NASDAQ:MXCT
+- [x] NYSE:UNH
+- [x] NYSE:ROL
+- [x] NASDAQ:Z
+- [x] NYSE:BBWI
+- [x] NASDAQ:VSTM
