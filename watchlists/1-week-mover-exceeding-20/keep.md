@@ -248,3 +248,4 @@ reset: false
 - [x] NASDAQ:QDEL
 - [x] NASDAQ:WFF
 - [x] NASDAQ:LQDA
+- [x] NASDAQ:CBRL
