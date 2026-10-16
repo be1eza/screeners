@@ -742,3 +742,7 @@ reset: false
 - [x] NASDAQ:Z
 - [x] NYSE:BBWI
 - [x] NASDAQ:VSTM
+- [x] NYSE:NI
+- [x] NYSE:CX
+- [x] NASDAQ:ENGS
+- [x] NASDAQ:LHSW
