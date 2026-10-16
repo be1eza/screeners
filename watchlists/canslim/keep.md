@@ -150,3 +150,4 @@ reset: false
 - [x] NYSE:MRP
 - [x] NASDAQ:PENG
 - [x] NYSE:GKOS
+- [x] NASDAQ:LGN
