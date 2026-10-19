@@ -746,3 +746,9 @@ reset: false
 - [x] NYSE:CX
 - [x] NASDAQ:ENGS
 - [x] NASDAQ:LHSW
+- [x] NASDAQ:PEP
+- [x] NYSE:DXC
+- [x] NASDAQ:XHG
+- [x] NASDAQ:XLAB
+- [x] NASDAQ:AAME
+- [x] NASDAQ:EXYN
