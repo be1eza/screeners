@@ -40,3 +40,4 @@ reset: false
 - [x] NASDAQ:MNRO
 - [x] AMEX:SDEV
 - [x] NASDAQ:SHOE
+- [x] NYSE:BKV
