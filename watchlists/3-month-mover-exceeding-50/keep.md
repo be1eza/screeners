@@ -202,3 +202,4 @@ reset: false
 - [x] NASDAQ:PAYS
 - [x] NYSE:SG
 - [x] NASDAQ:BSP
+- [x] NYSE:CLF
