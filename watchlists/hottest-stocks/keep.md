@@ -98,3 +98,4 @@ reset: false
 - [x] NASDAQ:SBET
 - [x] NASDAQ:LQDA
 - [x] NASDAQ:ADPT
+- [x] NASDAQ:AMD
