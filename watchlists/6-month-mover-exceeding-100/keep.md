@@ -127,3 +127,4 @@ reset: false
 - [x] NASDAQ:WFF
 - [x] NASDAQ:PAYS
 - [x] NYSE:CVI
+- [x] NASDAQ:APPN
