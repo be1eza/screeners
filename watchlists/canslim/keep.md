@@ -151,3 +151,4 @@ reset: false
 - [x] NASDAQ:PENG
 - [x] NYSE:GKOS
 - [x] NASDAQ:LGN
+- [x] NASDAQ:XERS
