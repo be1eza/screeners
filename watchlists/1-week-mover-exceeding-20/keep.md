@@ -249,3 +249,5 @@ reset: false
 - [x] NASDAQ:WFF
 - [x] NASDAQ:LQDA
 - [x] NASDAQ:CBRL
+- [x] NASDAQ:REAX
+- [x] NASDAQ:BRZE
