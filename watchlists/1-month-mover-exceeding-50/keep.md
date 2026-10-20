@@ -95,3 +95,4 @@ reset: false
 - [x] NASDAQ:PENG
 - [x] NASDAQ:WFF
 - [x] NASDAQ:CBRL
+- [x] NASDAQ:BRZE
