@@ -752,3 +752,10 @@ reset: false
 - [x] NASDAQ:XLAB
 - [x] NASDAQ:AAME
 - [x] NASDAQ:EXYN
+- [x] NYSE:QGEN
+- [x] NASDAQ:BRZE
+- [x] NYSE:LION
+- [x] NASDAQ:SLN
+- [x] NASDAQ:MYGN
+- [x] NASDAQ:PRSO
+- [x] NASDAQ:AIXI
