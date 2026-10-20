@@ -99,3 +99,4 @@ reset: false
 - [x] NASDAQ:LQDA
 - [x] NASDAQ:ADPT
 - [x] NASDAQ:AMD
+- [x] NYSE:FRO
