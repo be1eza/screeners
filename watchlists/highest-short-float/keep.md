@@ -41,3 +41,4 @@ reset: false
 - [x] AMEX:SDEV
 - [x] NASDAQ:SHOE
 - [x] NYSE:BKV
+- [x] NYSE:DFH
