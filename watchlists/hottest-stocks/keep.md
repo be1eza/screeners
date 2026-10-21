@@ -100,3 +100,5 @@ reset: false
 - [x] NASDAQ:ADPT
 - [x] NASDAQ:AMD
 - [x] NYSE:FRO
+- [x] NYSE:HBM
+- [x] NASDAQ:AVPT
