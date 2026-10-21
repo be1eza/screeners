@@ -251,3 +251,4 @@ reset: false
 - [x] NASDAQ:CBRL
 - [x] NASDAQ:REAX
 - [x] NASDAQ:BRZE
+- [x] NASDAQ:EQPT
