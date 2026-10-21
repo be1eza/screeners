@@ -759,3 +759,7 @@ reset: false
 - [x] NASDAQ:MYGN
 - [x] NASDAQ:PRSO
 - [x] NASDAQ:AIXI
+- [x] NASDAQ:TXN
+- [x] NYSE:IBM
+- [x] NASDAQ:INVE
+- [x] NASDAQ:POM
