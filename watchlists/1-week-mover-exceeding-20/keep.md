@@ -252,3 +252,4 @@ reset: false
 - [x] NASDAQ:REAX
 - [x] NASDAQ:BRZE
 - [x] NASDAQ:EQPT
+- [x] NASDAQ:BETR
