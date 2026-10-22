@@ -203,3 +203,5 @@ reset: false
 - [x] NYSE:SG
 - [x] NASDAQ:BSP
 - [x] NYSE:CLF
+- [x] NASDAQ:CNXC
+- [x] NYSE:DXC
