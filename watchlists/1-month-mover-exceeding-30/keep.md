@@ -244,3 +244,6 @@ reset: false
 - [x] NYSE:SG
 - [x] NASDAQ:CBRL
 - [x] NASDAQ:MAT
+- [x] NYSE:KSS
+- [x] NYSE:DXC
+- [x] NASDAQ:BETR
