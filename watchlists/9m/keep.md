@@ -763,3 +763,6 @@ reset: false
 - [x] NYSE:IBM
 - [x] NASDAQ:INVE
 - [x] NASDAQ:POM
+- [x] NYSE:KHC
+- [x] NYSE:LUV
+- [x] NASDAQ:SAGT
