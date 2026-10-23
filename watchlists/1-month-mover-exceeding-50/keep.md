@@ -96,3 +96,4 @@ reset: false
 - [x] NASDAQ:WFF
 - [x] NASDAQ:CBRL
 - [x] NASDAQ:BRZE
+- [x] NASDAQ:BETR
