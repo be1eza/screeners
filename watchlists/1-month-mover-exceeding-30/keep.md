@@ -247,3 +247,4 @@ reset: false
 - [x] NYSE:KSS
 - [x] NYSE:DXC
 - [x] NASDAQ:BETR
+- [x] NYSE:ASAN
