@@ -152,3 +152,4 @@ reset: false
 - [x] NYSE:GKOS
 - [x] NASDAQ:LGN
 - [x] NASDAQ:XERS
+- [x] NYSE:CURB
