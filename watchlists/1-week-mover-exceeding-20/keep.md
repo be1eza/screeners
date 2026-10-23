@@ -253,3 +253,5 @@ reset: false
 - [x] NASDAQ:BRZE
 - [x] NASDAQ:EQPT
 - [x] NASDAQ:BETR
+- [x] NYSE:ASAN
+- [x] NYSE:KVYO
