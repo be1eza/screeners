@@ -766,3 +766,5 @@ reset: false
 - [x] NYSE:KHC
 - [x] NYSE:LUV
 - [x] NASDAQ:SAGT
+- [x] NYSE:UWMC
+- [x] NASDAQ:BKYI
