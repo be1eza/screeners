@@ -248,3 +248,4 @@ reset: false
 - [x] NYSE:DXC
 - [x] NASDAQ:BETR
 - [x] NYSE:ASAN
+- [x] NASDAQ:ZS
