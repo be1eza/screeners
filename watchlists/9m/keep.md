@@ -768,3 +768,10 @@ reset: false
 - [x] NASDAQ:SAGT
 - [x] NYSE:UWMC
 - [x] NASDAQ:BKYI
+- [x] NYSE:RRC
+- [x] NYSE:SUZ
+- [x] NASDAQ:SGRY
+- [x] NYSE:ARI
+- [x] NASDAQ:ADBT
+- [x] AMEX:GPUS
+- [x] NASDAQ:CLRO
