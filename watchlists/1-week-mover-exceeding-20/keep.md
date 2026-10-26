@@ -255,3 +255,4 @@ reset: false
 - [x] NASDAQ:BETR
 - [x] NYSE:ASAN
 - [x] NYSE:KVYO
+- [x] NASDAQ:TENB
