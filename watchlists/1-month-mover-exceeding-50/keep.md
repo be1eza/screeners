@@ -97,3 +97,4 @@ reset: false
 - [x] NASDAQ:CBRL
 - [x] NASDAQ:BRZE
 - [x] NASDAQ:BETR
+- [x] NYSE:DXC
