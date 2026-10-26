@@ -102,3 +102,4 @@ reset: false
 - [x] NYSE:FRO
 - [x] NYSE:HBM
 - [x] NASDAQ:AVPT
+- [x] NYSE:LUV
