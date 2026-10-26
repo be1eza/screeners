@@ -66,3 +66,4 @@ reset: false
 - [x] NASDAQ:CBC
 - [x] NASDAQ:ADRX
 - [x] NYSE:VYLR
+- [x] NASDAQ:LIFE
