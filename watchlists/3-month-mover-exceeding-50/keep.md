@@ -205,3 +205,5 @@ reset: false
 - [x] NYSE:CLF
 - [x] NASDAQ:CNXC
 - [x] NYSE:DXC
+- [x] NYSE:SEI
+- [x] NASDAQ:AXTI
