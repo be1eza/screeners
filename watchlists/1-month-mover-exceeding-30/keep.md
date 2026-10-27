@@ -249,3 +249,4 @@ reset: false
 - [x] NASDAQ:BETR
 - [x] NYSE:ASAN
 - [x] NASDAQ:ZS
+- [x] NASDAQ:XRPN
