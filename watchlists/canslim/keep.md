@@ -153,3 +153,5 @@ reset: false
 - [x] NASDAQ:LGN
 - [x] NASDAQ:XERS
 - [x] NYSE:CURB
+- [x] NYSE:NU
+- [x] NASDAQ:KNSA
