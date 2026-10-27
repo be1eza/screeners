@@ -775,3 +775,7 @@ reset: false
 - [x] NASDAQ:ADBT
 - [x] AMEX:GPUS
 - [x] NASDAQ:CLRO
+- [x] NYSE:UPS
+- [x] NYSE:FITB
+- [x] NYSE:CNP
+- [x] NASDAQ:ENVX
