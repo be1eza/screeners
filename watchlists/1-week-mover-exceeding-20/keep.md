@@ -256,3 +256,4 @@ reset: false
 - [x] NYSE:ASAN
 - [x] NYSE:KVYO
 - [x] NASDAQ:TENB
+- [x] NASDAQ:VSAT
