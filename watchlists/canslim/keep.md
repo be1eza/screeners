@@ -155,3 +155,4 @@ reset: false
 - [x] NYSE:CURB
 - [x] NYSE:NU
 - [x] NASDAQ:KNSA
+- [x] NASDAQ:GLXY
