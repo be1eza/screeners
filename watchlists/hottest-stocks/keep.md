@@ -103,3 +103,4 @@ reset: false
 - [x] NYSE:HBM
 - [x] NASDAQ:AVPT
 - [x] NYSE:LUV
+- [x] NYSE:EGO
