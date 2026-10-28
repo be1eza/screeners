@@ -779,3 +779,6 @@ reset: false
 - [x] NYSE:FITB
 - [x] NYSE:CNP
 - [x] NASDAQ:ENVX
+- [x] NYSE:MIR
+- [x] NASDAQ:AXGN
+- [x] NASDAQ:SURG
