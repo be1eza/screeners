@@ -257,3 +257,9 @@ reset: false
 - [x] NYSE:KVYO
 - [x] NASDAQ:TENB
 - [x] NASDAQ:VSAT
+- [x] NASDAQ:FTAI
+- [x] NASDAQ:THRM
+- [x] NASDAQ:FLEX
+- [x] NYSE:CTOS
+- [x] NASDAQ:WING
+- [x] NASDAQ:UCTT
