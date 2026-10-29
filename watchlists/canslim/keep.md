@@ -156,3 +156,4 @@ reset: false
 - [x] NYSE:NU
 - [x] NASDAQ:KNSA
 - [x] NASDAQ:GLXY
+- [x] NYSE:TEX
