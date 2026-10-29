@@ -250,3 +250,5 @@ reset: false
 - [x] NYSE:ASAN
 - [x] NASDAQ:ZS
 - [x] NASDAQ:XRPN
+- [x] NASDAQ:LQDA
+- [x] NASDAQ:WING
