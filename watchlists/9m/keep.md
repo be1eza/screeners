@@ -782,3 +782,12 @@ reset: false
 - [x] NYSE:MIR
 - [x] NASDAQ:AXGN
 - [x] NASDAQ:SURG
+- [x] NYSE:VRT
+- [x] TXSE:ET
+- [x] NYSE:CRH
+- [x] NYSE:AMRZ
+- [x] NYSE:GFL
+- [x] NYSE:TDOC
+- [x] NASDAQ:REAL
+- [x] NASDAQ:PCLA
+- [x] NASDAQ:JFIN
