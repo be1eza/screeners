@@ -104,3 +104,5 @@ reset: false
 - [x] NASDAQ:AVPT
 - [x] NYSE:LUV
 - [x] NYSE:EGO
+- [x] NYSE:RRC
+- [x] NYSE:DK
