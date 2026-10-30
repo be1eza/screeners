@@ -98,3 +98,5 @@ reset: false
 - [x] NASDAQ:BRZE
 - [x] NASDAQ:BETR
 - [x] NYSE:DXC
+- [x] NASDAQ:LQDA
+- [x] NYSE:MAX
