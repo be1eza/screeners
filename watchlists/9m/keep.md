@@ -791,3 +791,8 @@ reset: false
 - [x] NASDAQ:REAL
 - [x] NASDAQ:PCLA
 - [x] NASDAQ:JFIN
+- [x] NYSE:GPN
+- [x] NYSE:FIS
+- [x] NYSE:HRL
+- [x] NASDAQ:REKR
+- [x] NASDAQ:ONEG
