@@ -252,3 +252,6 @@ reset: false
 - [x] NASDAQ:XRPN
 - [x] NASDAQ:LQDA
 - [x] NASDAQ:WING
+- [x] NASDAQ:ICLR
+- [x] NASDAQ:REAL
+- [x] NYSE:GKOS
