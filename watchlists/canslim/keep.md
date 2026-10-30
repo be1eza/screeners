@@ -157,3 +157,6 @@ reset: false
 - [x] NASDAQ:KNSA
 - [x] NASDAQ:GLXY
 - [x] NYSE:TEX
+- [x] NYSE:MTZ
+- [x] NYSE:DINO
+- [x] NYSE:PBF
