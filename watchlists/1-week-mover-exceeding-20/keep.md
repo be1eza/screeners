@@ -263,3 +263,7 @@ reset: false
 - [x] NYSE:CTOS
 - [x] NASDAQ:WING
 - [x] NASDAQ:UCTT
+- [x] NASDAQ:WGS
+- [x] NYSE:MAX
+- [x] NYSE:GKOS
+- [x] NYSE:MIR
