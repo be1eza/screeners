@@ -128,3 +128,4 @@ reset: false
 - [x] NASDAQ:PAYS
 - [x] NYSE:CVI
 - [x] NASDAQ:APPN
+- [x] NASDAQ:GDYN
