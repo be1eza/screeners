@@ -796,3 +796,9 @@ reset: false
 - [x] NYSE:HRL
 - [x] NASDAQ:REKR
 - [x] NASDAQ:ONEG
+- [x] NYSE:EW
+- [x] NASDAQ:DKNG
+- [x] NYSE:XPEV
+- [x] NYSE:HR
+- [x] NASDAQ:RUN
+- [x] NASDAQ:EVGO
