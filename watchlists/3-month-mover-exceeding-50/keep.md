@@ -207,3 +207,4 @@ reset: false
 - [x] NYSE:DXC
 - [x] NYSE:SEI
 - [x] NASDAQ:AXTI
+- [x] NASDAQ:GDYN
