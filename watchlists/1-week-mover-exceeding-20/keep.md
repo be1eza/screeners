@@ -267,3 +267,5 @@ reset: false
 - [x] NYSE:MAX
 - [x] NYSE:GKOS
 - [x] NYSE:MIR
+- [x] NASDAQ:GDYN
+- [x] NASDAQ:REAL
