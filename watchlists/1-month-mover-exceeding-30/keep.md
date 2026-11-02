@@ -255,3 +255,4 @@ reset: false
 - [x] NASDAQ:ICLR
 - [x] NASDAQ:REAL
 - [x] NYSE:GKOS
+- [x] NASDAQ:GDYN
