@@ -100,3 +100,5 @@ reset: false
 - [x] NYSE:DXC
 - [x] NASDAQ:LQDA
 - [x] NYSE:MAX
+- [x] NASDAQ:GDYN
+- [x] NASDAQ:WING
