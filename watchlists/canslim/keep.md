@@ -160,3 +160,4 @@ reset: false
 - [x] NYSE:MTZ
 - [x] NYSE:DINO
 - [x] NYSE:PBF
+- [x] NASDAQ:LIFE
