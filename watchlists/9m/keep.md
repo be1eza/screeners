@@ -802,3 +802,10 @@ reset: false
 - [x] NYSE:HR
 - [x] NASDAQ:RUN
 - [x] NASDAQ:EVGO
+- [x] NASDAQ:FOXA
+- [x] NYSE:DOC
+- [x] NASDAQ:SHLS
+- [x] NASDAQ:ARRY
+- [x] NASDAQ:SRTS
+- [x] NASDAQ:KTTA
+- [x] NASDAQ:CHSN
