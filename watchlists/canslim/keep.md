@@ -161,3 +161,5 @@ reset: false
 - [x] NYSE:DINO
 - [x] NYSE:PBF
 - [x] NASDAQ:LIFE
+- [x] NYSE:ECG
+- [x] NASDAQ:XMTR
