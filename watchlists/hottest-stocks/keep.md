@@ -107,3 +107,4 @@ reset: false
 - [x] NYSE:RRC
 - [x] NYSE:DK
 - [x] NASDAQ:TSEM
+- [x] NASDAQ:RIVN
