@@ -269,3 +269,6 @@ reset: false
 - [x] NYSE:MIR
 - [x] NASDAQ:GDYN
 - [x] NASDAQ:REAL
+- [x] NASDAQ:SMPL
+- [x] NASDAQ:FWRG
+- [x] NASDAQ:NXT
