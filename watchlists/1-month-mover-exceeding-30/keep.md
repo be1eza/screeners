@@ -256,3 +256,6 @@ reset: false
 - [x] NASDAQ:REAL
 - [x] NYSE:GKOS
 - [x] NASDAQ:GDYN
+- [x] NASDAQ:SMPL
+- [x] NYSE:DFH
+- [x] NYSE:CHPT
