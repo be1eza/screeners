@@ -163,3 +163,5 @@ reset: false
 - [x] NASDAQ:LIFE
 - [x] NYSE:ECG
 - [x] NASDAQ:XMTR
+- [x] NYSE:LMND
+- [x] NYSE:FOUR
