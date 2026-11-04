@@ -102,3 +102,4 @@ reset: false
 - [x] NYSE:MAX
 - [x] NASDAQ:GDYN
 - [x] NASDAQ:WING
+- [x] NYSE:GKOS
