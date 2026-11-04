@@ -129,3 +129,5 @@ reset: false
 - [x] NYSE:CVI
 - [x] NASDAQ:APPN
 - [x] NASDAQ:GDYN
+- [x] NYSE:VSXY
+- [x] NASDAQ:AZTA
