@@ -272,3 +272,9 @@ reset: false
 - [x] NASDAQ:SMPL
 - [x] NASDAQ:FWRG
 - [x] NASDAQ:NXT
+- [x] NASDAQ:IART
+- [x] NYSE:DFH
+- [x] NYSE:JMKE
+- [x] NASDAQ:ENPH
+- [x] NYSE:JKS
+- [x] NYSE:CHPT
