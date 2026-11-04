@@ -208,3 +208,4 @@ reset: false
 - [x] NYSE:SEI
 - [x] NASDAQ:AXTI
 - [x] NASDAQ:GDYN
+- [x] NYSE:CHPT
