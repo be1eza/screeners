@@ -131,3 +131,4 @@ reset: false
 - [x] NASDAQ:GDYN
 - [x] NYSE:VSXY
 - [x] NASDAQ:AZTA
+- [x] NASDAQ:AEHL
