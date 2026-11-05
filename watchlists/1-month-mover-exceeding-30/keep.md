@@ -259,3 +259,7 @@ reset: false
 - [x] NASDAQ:SMPL
 - [x] NYSE:DFH
 - [x] NYSE:CHPT
+- [x] NASDAQ:AEHL
+- [x] NASDAQ:CERT
+- [x] NYSE:KD
+- [x] NYSE:BOBS
