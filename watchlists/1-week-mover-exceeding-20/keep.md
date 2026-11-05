@@ -278,3 +278,5 @@ reset: false
 - [x] NASDAQ:ENPH
 - [x] NYSE:JKS
 - [x] NYSE:CHPT
+- [x] NASDAQ:AEHL
+- [x] NYSE:ENOV
