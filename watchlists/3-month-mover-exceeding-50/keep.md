@@ -209,3 +209,4 @@ reset: false
 - [x] NASDAQ:AXTI
 - [x] NASDAQ:GDYN
 - [x] NYSE:CHPT
+- [x] NASDAQ:AEHL
