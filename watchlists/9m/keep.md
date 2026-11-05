@@ -830,3 +830,14 @@ reset: false
 - [x] NYSE:CMTG
 - [x] NASDAQ:MERC
 - [x] NASDAQ:HPAI
+- [x] NASDAQ:APP
+- [x] NASDAQ:FWONK
+- [x] NYSE:JAN
+- [x] NYSE:PRMB
+- [x] NYSE:COLD
+- [x] NYSE:WRBY
+- [x] NASDAQ:ADMA
+- [x] NYSE:VYX
+- [x] NASDAQ:DNUT
+- [x] NASDAQ:PTLO
+- [x] NASDAQ:AEHL
