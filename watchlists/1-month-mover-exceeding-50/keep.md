@@ -103,3 +103,4 @@ reset: false
 - [x] NASDAQ:GDYN
 - [x] NASDAQ:WING
 - [x] NYSE:GKOS
+- [x] NYSE:ENOV
