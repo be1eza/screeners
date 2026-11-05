@@ -108,3 +108,4 @@ reset: false
 - [x] NYSE:DK
 - [x] NASDAQ:TSEM
 - [x] NASDAQ:RIVN
+- [x] NASDAQ:SKHY
