@@ -165,3 +165,8 @@ reset: false
 - [x] NASDAQ:XMTR
 - [x] NYSE:LMND
 - [x] NYSE:FOUR
+- [x] NYSE:FIGS
+- [x] NYSE:BAM
+- [x] NYSE:HMY
+- [x] NYSE:KEYS
+- [x] NYSE:GPN
