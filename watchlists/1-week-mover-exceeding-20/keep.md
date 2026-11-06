@@ -280,3 +280,12 @@ reset: false
 - [x] NYSE:CHPT
 - [x] NASDAQ:AEHL
 - [x] NYSE:ENOV
+- [x] NASDAQ:LFTO
+- [x] NYSE:LYNX
+- [x] NYSE:FUN
+- [x] NASDAQ:ACHC
+- [x] NASDAQ:TMDX
+- [x] NYSE:GPGI
+- [x] NASDAQ:DUOL
+- [x] NASDAQ:SHLS
+- [x] NYSE:ONT
