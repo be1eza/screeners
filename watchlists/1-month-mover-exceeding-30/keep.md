@@ -263,3 +263,5 @@ reset: false
 - [x] NASDAQ:CERT
 - [x] NYSE:KD
 - [x] NYSE:BOBS
+- [x] NASDAQ:STGW
+- [x] NYSE:ONT
