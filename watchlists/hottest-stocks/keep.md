@@ -109,3 +109,9 @@ reset: false
 - [x] NASDAQ:TSEM
 - [x] NASDAQ:RIVN
 - [x] NASDAQ:SKHY
+- [x] NASDAQ:TPG
+- [x] NASDAQ:VIAV
+- [x] NYSE:PR
+- [x] NYSE:FIG
+- [x] NASDAQ:FIVN
+- [x] NASDAQ:NTNX
