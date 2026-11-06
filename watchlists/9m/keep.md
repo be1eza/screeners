@@ -841,3 +841,10 @@ reset: false
 - [x] NASDAQ:DNUT
 - [x] NASDAQ:PTLO
 - [x] NASDAQ:AEHL
+- [x] NASDAQ:ROKU
+- [x] NYSE:ELAN
+- [x] NYSE:KRMN
+- [x] NASDAQ:FLY
+- [x] NYSE:SG
+- [x] NASDAQ:GOGO
+- [x] NYSE:SITC
