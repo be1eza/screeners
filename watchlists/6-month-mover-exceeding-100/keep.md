@@ -132,3 +132,4 @@ reset: false
 - [x] NYSE:VSXY
 - [x] NASDAQ:AZTA
 - [x] NASDAQ:AEHL
+- [x] NASDAQ:ARHS
