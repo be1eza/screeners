@@ -104,3 +104,4 @@ reset: false
 - [x] NASDAQ:WING
 - [x] NYSE:GKOS
 - [x] NYSE:ENOV
+- [x] NYSE:ONT
