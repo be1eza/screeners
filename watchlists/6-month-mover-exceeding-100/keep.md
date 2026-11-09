@@ -133,3 +133,6 @@ reset: false
 - [x] NASDAQ:AZTA
 - [x] NASDAQ:AEHL
 - [x] NASDAQ:ARHS
+- [x] NYSE:CRL
+- [x] NASDAQ:XERS
+- [x] NASDAQ:CERT
