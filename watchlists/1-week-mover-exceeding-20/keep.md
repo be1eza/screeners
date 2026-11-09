@@ -289,3 +289,14 @@ reset: false
 - [x] NASDAQ:DUOL
 - [x] NASDAQ:SHLS
 - [x] NYSE:ONT
+- [x] NASDAQ:APP
+- [x] NASDAQ:ADPT
+- [x] NASDAQ:XERS
+- [x] NYSE:RBLX
+- [x] NYSE:KD
+- [x] NASDAQ:CYRX
+- [x] NYSE:WRBY
+- [x] NASDAQ:FROG
+- [x] NYSE:PAR
+- [x] NYSE:BOBS
+- [x] NYSE:LEU
