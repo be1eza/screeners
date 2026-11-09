@@ -210,3 +210,6 @@ reset: false
 - [x] NASDAQ:GDYN
 - [x] NYSE:CHPT
 - [x] NASDAQ:AEHL
+- [x] NASDAQ:XERS
+- [x] NASDAQ:CERT
+- [x] NASDAQ:WING
