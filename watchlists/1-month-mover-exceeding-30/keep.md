@@ -265,3 +265,6 @@ reset: false
 - [x] NYSE:BOBS
 - [x] NASDAQ:STGW
 - [x] NYSE:ONT
+- [x] NASDAQ:APP
+- [x] NYSE:VSXY
+- [x] NYSE:PAR
