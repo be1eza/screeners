@@ -105,3 +105,7 @@ reset: false
 - [x] NYSE:GKOS
 - [x] NYSE:ENOV
 - [x] NYSE:ONT
+- [x] NASDAQ:XERS
+- [x] NASDAQ:REAL
+- [x] NASDAQ:ARHS
+- [x] NYSE:CHPT
