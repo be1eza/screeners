@@ -115,3 +115,11 @@ reset: false
 - [x] NYSE:FIG
 - [x] NASDAQ:FIVN
 - [x] NASDAQ:NTNX
+- [x] NASDAQ:CELH
+- [x] NYSE:BE
+- [x] NYSE:CNK
+- [x] NYSE:SGI
+- [x] NYSE:IAG
+- [x] NYSE:FIS
+- [x] NYSE:UMC
+- [x] NASDAQ:APPS
