@@ -170,3 +170,12 @@ reset: false
 - [x] NYSE:HMY
 - [x] NYSE:KEYS
 - [x] NYSE:GPN
+- [x] NASDAQ:ASST
+- [x] NASDAQ:KDP
+- [x] NASDAQ:STX
+- [x] NASDAQ:AVT
+- [x] NYSE:RDDT
+- [x] NYSE:CVI
+- [x] NYSE:CXW
+- [x] NASDAQ:AVGO
+- [x] NASDAQ:MCHP
