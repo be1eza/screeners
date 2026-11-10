@@ -179,3 +179,7 @@ reset: false
 - [x] NYSE:CXW
 - [x] NASDAQ:AVGO
 - [x] NASDAQ:MCHP
+- [x] NASDAQ:AAON
+- [x] NYSE:LLY
+- [x] NYSE:DVN
+- [x] NASDAQ:NESR
