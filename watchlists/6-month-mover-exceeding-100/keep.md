@@ -136,3 +136,5 @@ reset: false
 - [x] NYSE:CRL
 - [x] NASDAQ:XERS
 - [x] NASDAQ:CERT
+- [x] NYSE:SG
+- [x] NYSE:ZETA
