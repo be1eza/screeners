@@ -123,3 +123,5 @@ reset: false
 - [x] NYSE:FIS
 - [x] NYSE:UMC
 - [x] NASDAQ:APPS
+- [x] NYSE:JHX
+- [x] NYSE:LNC
