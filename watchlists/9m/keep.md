@@ -848,3 +848,8 @@ reset: false
 - [x] NYSE:SG
 - [x] NASDAQ:GOGO
 - [x] NYSE:SITC
+- [x] NYSE:CLX
+- [x] NASDAQ:TTEC
+- [x] NASDAQ:PXLW
+- [x] NASDAQ:MNDO
+- [x] NASDAQ:SMX
