@@ -268,3 +268,6 @@ reset: false
 - [x] NASDAQ:APP
 - [x] NYSE:VSXY
 - [x] NYSE:PAR
+- [x] NYSE:VYX
+- [x] NYSE:ESAB
+- [x] NYSE:YOU
