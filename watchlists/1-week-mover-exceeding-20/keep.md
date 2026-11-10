@@ -300,3 +300,6 @@ reset: false
 - [x] NYSE:PAR
 - [x] NYSE:BOBS
 - [x] NYSE:LEU
+- [x] NYSE:CSQR
+- [x] NASDAQ:ARHS
+- [x] NASDAQ:LBTYA
