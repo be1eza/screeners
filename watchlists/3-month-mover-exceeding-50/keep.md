@@ -213,3 +213,4 @@ reset: false
 - [x] NASDAQ:XERS
 - [x] NASDAQ:CERT
 - [x] NASDAQ:WING
+- [x] NYSE:RSKD
