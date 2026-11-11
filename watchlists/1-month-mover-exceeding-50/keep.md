@@ -109,3 +109,4 @@ reset: false
 - [x] NASDAQ:REAL
 - [x] NASDAQ:ARHS
 - [x] NYSE:CHPT
+- [x] NYSE:BETA
