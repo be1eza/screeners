@@ -183,3 +183,5 @@ reset: false
 - [x] NYSE:LLY
 - [x] NYSE:DVN
 - [x] NASDAQ:NESR
+- [x] NYSE:MGY
+- [x] NASDAQ:EQPT
