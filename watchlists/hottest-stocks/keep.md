@@ -125,3 +125,6 @@ reset: false
 - [x] NASDAQ:APPS
 - [x] NYSE:JHX
 - [x] NYSE:LNC
+- [x] NYSE:CF
+- [x] NYSE:WPM
+- [x] NASDAQ:NESR
