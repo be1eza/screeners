@@ -853,3 +853,8 @@ reset: false
 - [x] NASDAQ:PXLW
 - [x] NASDAQ:MNDO
 - [x] NASDAQ:SMX
+- [x] NASDAQ:ERAS
+- [x] NASDAQ:FRVO
+- [x] NASDAQ:GEVO
+- [x] NYSE:BGS
+- [x] NASDAQ:RKDA
