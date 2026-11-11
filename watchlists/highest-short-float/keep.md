@@ -42,3 +42,4 @@ reset: false
 - [x] NASDAQ:SHOE
 - [x] NYSE:BKV
 - [x] NYSE:DFH
+- [x] NYSE:WHR
