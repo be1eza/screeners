@@ -303,3 +303,7 @@ reset: false
 - [x] NYSE:CSQR
 - [x] NASDAQ:ARHS
 - [x] NASDAQ:LBTYA
+- [x] NASDAQ:TTD
+- [x] NASDAQ:AAON
+- [x] NASDAQ:AZTA
+- [x] NYSE:ATEN
