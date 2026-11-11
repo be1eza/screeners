@@ -271,3 +271,5 @@ reset: false
 - [x] NYSE:VYX
 - [x] NYSE:ESAB
 - [x] NYSE:YOU
+- [x] NASDAQ:TTD
+- [x] NYSE:LION
