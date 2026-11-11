@@ -138,3 +138,5 @@ reset: false
 - [x] NASDAQ:CERT
 - [x] NYSE:SG
 - [x] NYSE:ZETA
+- [x] NYSE:KSS
+- [x] NYSE:RSKD
