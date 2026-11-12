@@ -858,3 +858,10 @@ reset: false
 - [x] NASDAQ:GEVO
 - [x] NYSE:BGS
 - [x] NASDAQ:RKDA
+- [x] NASDAQ:ENGN
+- [x] NASDAQ:ICMB
+- [x] NASDAQ:AIMD
+- [x] NYSE:SOS
+- [x] AMEX:POAS
+- [x] NASDAQ:ADXN
+- [x] NASDAQ:RIME
