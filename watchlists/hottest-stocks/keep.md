@@ -128,3 +128,4 @@ reset: false
 - [x] NYSE:CF
 - [x] NYSE:WPM
 - [x] NASDAQ:NESR
+- [x] NASDAQ:FLY
