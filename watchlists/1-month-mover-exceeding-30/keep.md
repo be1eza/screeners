@@ -273,3 +273,6 @@ reset: false
 - [x] NYSE:YOU
 - [x] NASDAQ:TTD
 - [x] NYSE:LION
+- [x] NASDAQ:AXGN
+- [x] NASDAQ:PRCT
+- [x] NASDAQ:LBTYA
