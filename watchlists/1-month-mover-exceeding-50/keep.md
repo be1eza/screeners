@@ -110,3 +110,6 @@ reset: false
 - [x] NASDAQ:ARHS
 - [x] NYSE:CHPT
 - [x] NYSE:BETA
+- [x] NASDAQ:APP
+- [x] NASDAQ:AXGN
+- [x] NYSE:BOBS
