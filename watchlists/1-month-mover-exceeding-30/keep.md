@@ -276,3 +276,6 @@ reset: false
 - [x] NASDAQ:AXGN
 - [x] NASDAQ:PRCT
 - [x] NASDAQ:LBTYA
+- [x] NASDAQ:LFTO
+- [x] NYSE:FUN
+- [x] NASDAQ:UPBD
