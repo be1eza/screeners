@@ -865,3 +865,12 @@ reset: false
 - [x] AMEX:POAS
 - [x] NASDAQ:ADXN
 - [x] NASDAQ:RIME
+- [x] NYSE:SO
+- [x] NYSE:KLAR
+- [x] NASDAQ:LFTO
+- [x] NASDAQ:SLSN
+- [x] AMEX:SLND
+- [x] NASDAQ:VTSI
+- [x] AMEX:VNRX
+- [x] NASDAQ:AKAN
+- [x] NASDAQ:ONFO
