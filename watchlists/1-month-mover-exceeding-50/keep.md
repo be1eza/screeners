@@ -113,3 +113,4 @@ reset: false
 - [x] NASDAQ:APP
 - [x] NASDAQ:AXGN
 - [x] NYSE:BOBS
+- [x] NASDAQ:UPBD
