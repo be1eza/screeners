@@ -67,3 +67,4 @@ reset: false
 - [x] NASDAQ:ADRX
 - [x] NYSE:VYLR
 - [x] NASDAQ:LIFE
+- [x] NASDAQ:ACCV
