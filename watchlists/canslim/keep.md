@@ -185,3 +185,5 @@ reset: false
 - [x] NASDAQ:NESR
 - [x] NYSE:MGY
 - [x] NASDAQ:EQPT
+- [x] NYSE:HBM
+- [x] NASDAQ:NVDA
