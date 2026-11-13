@@ -331,3 +331,4 @@ reset: false
 - [x] NASDAQ:CORZ
 - [x] NYSE:NET
 - [x] NASDAQ:TLN
+- [x] NYSE:MOD
