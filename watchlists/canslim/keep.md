@@ -187,3 +187,7 @@ reset: false
 - [x] NASDAQ:EQPT
 - [x] NYSE:HBM
 - [x] NASDAQ:NVDA
+- [x] NYSE:COHR
+- [x] NASDAQ:MRVL
+- [x] NYSE:DOCN
+- [x] NASDAQ:TIGO
