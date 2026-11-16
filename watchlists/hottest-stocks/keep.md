@@ -129,3 +129,7 @@ reset: false
 - [x] NYSE:WPM
 - [x] NASDAQ:NESR
 - [x] NASDAQ:FLY
+- [x] NASDAQ:SNDK
+- [x] NASDAQ:TTMI
+- [x] NYSE:RDDT
+- [x] NASDAQ:MXL
