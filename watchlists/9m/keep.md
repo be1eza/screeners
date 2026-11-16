@@ -874,3 +874,5 @@ reset: false
 - [x] AMEX:VNRX
 - [x] NASDAQ:AKAN
 - [x] NASDAQ:ONFO
+- [x] NYSE:MBGL
+- [x] NASDAQ:TDTH
