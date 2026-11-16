@@ -279,3 +279,6 @@ reset: false
 - [x] NASDAQ:LFTO
 - [x] NYSE:FUN
 - [x] NASDAQ:UPBD
+- [x] NYSE:REZI
+- [x] NASDAQ:SENS
+- [x] NASDAQ:AZTA
