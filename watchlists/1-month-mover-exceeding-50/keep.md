@@ -114,3 +114,4 @@ reset: false
 - [x] NASDAQ:AXGN
 - [x] NYSE:BOBS
 - [x] NASDAQ:UPBD
+- [x] NYSE:HAWK
