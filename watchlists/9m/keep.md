@@ -876,3 +876,7 @@ reset: false
 - [x] NASDAQ:ONFO
 - [x] NYSE:MBGL
 - [x] NASDAQ:TDTH
+- [x] NYSE:VIK
+- [x] NYSE:BILL
+- [x] NASDAQ:INO
+- [x] NASDAQ:FRTT
