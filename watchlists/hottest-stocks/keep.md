@@ -133,3 +133,4 @@ reset: false
 - [x] NASDAQ:TTMI
 - [x] NYSE:RDDT
 - [x] NASDAQ:MXL
+- [x] NASDAQ:FRSH
