@@ -140,3 +140,4 @@ reset: false
 - [x] NYSE:ZETA
 - [x] NYSE:KSS
 - [x] NYSE:RSKD
+- [x] NYSE:VIA
