@@ -332,3 +332,4 @@ reset: false
 - [x] NYSE:NET
 - [x] NASDAQ:TLN
 - [x] NYSE:MOD
+- [x] NYSE:BRBR
