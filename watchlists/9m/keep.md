@@ -880,3 +880,5 @@ reset: false
 - [x] NYSE:BILL
 - [x] NASDAQ:INO
 - [x] NASDAQ:FRTT
+- [x] NYSE:BRBR
+- [x] NASDAQ:CRIS
