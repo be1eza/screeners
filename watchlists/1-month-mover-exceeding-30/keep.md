@@ -282,3 +282,5 @@ reset: false
 - [x] NYSE:REZI
 - [x] NASDAQ:SENS
 - [x] NASDAQ:AZTA
+- [x] NASDAQ:RIOT
+- [x] NYSE:ATEN
