@@ -191,3 +191,4 @@ reset: false
 - [x] NASDAQ:MRVL
 - [x] NYSE:DOCN
 - [x] NASDAQ:TIGO
+- [x] NASDAQ:PANW
