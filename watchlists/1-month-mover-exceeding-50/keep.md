@@ -116,3 +116,4 @@ reset: false
 - [x] NASDAQ:UPBD
 - [x] NYSE:HAWK
 - [x] NYSE:FUN
+- [x] NYSE:BRBR
