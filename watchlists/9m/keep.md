@@ -882,3 +882,8 @@ reset: false
 - [x] NASDAQ:FRTT
 - [x] NYSE:BRBR
 - [x] NASDAQ:CRIS
+- [x] NASDAQ:PANW
+- [x] NASDAQ:SVRA
+- [x] NASDAQ:MRKR
+- [x] NASDAQ:GMM
+- [x] NASDAQ:VIVS
