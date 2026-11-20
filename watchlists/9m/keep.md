@@ -887,3 +887,5 @@ reset: false
 - [x] NASDAQ:MRKR
 - [x] NASDAQ:GMM
 - [x] NASDAQ:VIVS
+- [x] NYSE:BIPC
+- [x] NASDAQ:CIGL
