@@ -141,3 +141,4 @@ reset: false
 - [x] NYSE:KSS
 - [x] NYSE:RSKD
 - [x] NYSE:VIA
+- [x] NYSE:GKOS
