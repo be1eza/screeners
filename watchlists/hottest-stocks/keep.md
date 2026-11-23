@@ -134,3 +134,9 @@ reset: false
 - [x] NYSE:RDDT
 - [x] NASDAQ:MXL
 - [x] NASDAQ:FRSH
+- [x] NYSE:CLS
+- [x] NYSE:AS
+- [x] NASDAQ:CRDO
+- [x] NASDAQ:LSCC
+- [x] NYSE:RSKD
+- [x] NASDAQ:PGY
