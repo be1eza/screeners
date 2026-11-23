@@ -284,3 +284,5 @@ reset: false
 - [x] NASDAQ:AZTA
 - [x] NASDAQ:RIOT
 - [x] NYSE:ATEN
+- [x] NYSE:DPC
+- [x] NASDAQ:FRVO
