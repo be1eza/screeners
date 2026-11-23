@@ -192,3 +192,9 @@ reset: false
 - [x] NYSE:DOCN
 - [x] NASDAQ:TIGO
 - [x] NASDAQ:PANW
+- [x] NYSE:NVT
+- [x] NYSE:DHT
+- [x] NASDAQ:FORM
+- [x] NASDAQ:LSCC
+- [x] NASDAQ:MTSI
+- [x] NASDAQ:CEG
