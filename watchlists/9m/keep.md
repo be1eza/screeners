@@ -889,3 +889,8 @@ reset: false
 - [x] NASDAQ:VIVS
 - [x] NYSE:BIPC
 - [x] NASDAQ:CIGL
+- [x] NASDAQ:OTLY
+- [x] NASDAQ:OCGN
+- [x] NASDAQ:BNAI
+- [x] NASDAQ:DCGO
+- [x] NASDAQ:MRM
