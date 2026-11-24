@@ -286,3 +286,5 @@ reset: false
 - [x] NYSE:ATEN
 - [x] NYSE:DPC
 - [x] NASDAQ:FRVO
+- [x] NYSE:GPGI
+- [x] NASDAQ:CHTR
