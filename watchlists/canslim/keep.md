@@ -198,3 +198,5 @@ reset: false
 - [x] NASDAQ:LSCC
 - [x] NASDAQ:MTSI
 - [x] NASDAQ:CEG
+- [x] NASDAQ:SLDE
+- [x] NASDAQ:GLBE
