@@ -894,3 +894,9 @@ reset: false
 - [x] NASDAQ:BNAI
 - [x] NASDAQ:DCGO
 - [x] NASDAQ:MRM
+- [x] NASDAQ:SNY
+- [x] NYSE:AMTM
+- [x] NASDAQ:MMED
+- [x] NYSE:KSS
+- [x] NASDAQ:BENF
+- [x] NASDAQ:SVRE
