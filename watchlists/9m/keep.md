@@ -900,3 +900,7 @@ reset: false
 - [x] NYSE:KSS
 - [x] NASDAQ:BENF
 - [x] NASDAQ:SVRE
+- [x] NASDAQ:LI
+- [x] NYSE:IVR
+- [x] NASDAQ:BGLC
+- [x] NASDAQ:NXAT
