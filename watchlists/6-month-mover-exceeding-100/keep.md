@@ -142,3 +142,4 @@ reset: false
 - [x] NYSE:RSKD
 - [x] NYSE:VIA
 - [x] NYSE:GKOS
+- [x] NYSE:ANF
