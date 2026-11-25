@@ -43,3 +43,4 @@ reset: false
 - [x] NYSE:BKV
 - [x] NYSE:DFH
 - [x] NYSE:WHR
+- [x] NYSE:FOUR
