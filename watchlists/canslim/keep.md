@@ -200,3 +200,5 @@ reset: false
 - [x] NASDAQ:CEG
 - [x] NASDAQ:SLDE
 - [x] NASDAQ:GLBE
+- [x] NYSE:BVN
+- [x] NASDAQ:SMTC
