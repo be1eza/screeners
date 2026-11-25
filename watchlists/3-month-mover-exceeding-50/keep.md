@@ -214,3 +214,4 @@ reset: false
 - [x] NASDAQ:CERT
 - [x] NASDAQ:WING
 - [x] NYSE:RSKD
+- [x] NYSE:BRBR
