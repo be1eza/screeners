@@ -288,3 +288,4 @@ reset: false
 - [x] NASDAQ:FRVO
 - [x] NYSE:GPGI
 - [x] NASDAQ:CHTR
+- [x] NYSE:WWW
