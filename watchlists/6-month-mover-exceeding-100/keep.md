@@ -143,3 +143,4 @@ reset: false
 - [x] NYSE:VIA
 - [x] NYSE:GKOS
 - [x] NYSE:ANF
+- [x] NYSE:ELF
