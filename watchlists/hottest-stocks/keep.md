@@ -140,3 +140,4 @@ reset: false
 - [x] NASDAQ:LSCC
 - [x] NYSE:RSKD
 - [x] NASDAQ:PGY
+- [x] NYSE:CXW
