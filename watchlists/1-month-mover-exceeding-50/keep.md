@@ -117,3 +117,4 @@ reset: false
 - [x] NYSE:HAWK
 - [x] NYSE:FUN
 - [x] NYSE:BRBR
+- [x] NASDAQ:LFTO
