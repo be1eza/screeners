@@ -215,3 +215,4 @@ reset: false
 - [x] NASDAQ:WING
 - [x] NYSE:RSKD
 - [x] NYSE:BRBR
+- [x] NASDAQ:UPBD
