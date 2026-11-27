@@ -333,3 +333,8 @@ reset: false
 - [x] NASDAQ:TLN
 - [x] NYSE:MOD
 - [x] NYSE:BRBR
+- [x] NYSE:KSS
+- [x] NYSE:PINS
+- [x] NASDAQ:CSGP
+- [x] NASDAQ:AYA
+- [x] NYSE:FOUR
